@@ -11,6 +11,8 @@
 [group-adv]: /welcome/groups.md#adv
 [server-survival]: /welcome/servers.md#survival
 [server-creative]: /welcome/servers.md#creative
+[faq]: /welcome/faq.md
+[servers]: /welcome/servers.md
 
 # 上古时代 :id=get-started
 
@@ -18,7 +20,7 @@
 
 本网站并不是针对 Minecraft 游戏本身的知识库，它主要介绍「上古时代 Minecraft 服务器」的特色内容。如果你想了解游戏本身的内容与玩法，请访问：🔗[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：🍰[菜鸟手册][beginner-guide]。
 
-🏠[主页](#get-started) | 🍵[茶馆][bbs] | 🌍[卫星地图][dynmap] | 🐧[QQ群][qqgroup]
+📖[常见问题][faq] | 🎮[服务器列表][servers] | 🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🌍[卫星地图][dynmap]
 
 ## 服务器信息 :id=server-info
 
