@@ -52,12 +52,12 @@
 
 > 📌请使用下面的专用启动器。否则进服时会提示“登录无效：账户验证失败”📌
 
-从☁️[阿里云香港][client-download]下载，并解压
+从☁️[阿里云香港][client-download]下载
 
 > 如果你是 Windows 用户，请直接打开`HMCL-3.x.x.exe`  
 > 如果你是 Mac/Linux 用户，请用Java打开`HMCL-3.x.x.jar`
 
-压下载好的整合包，并打开其中的`HMCL-3.x.x.exe/jar` 文件。你应该会看到如下提示：
+解压下载好的整合包，并打开其中的`HMCL-3.x.x.exe/jar` 文件。你应该会看到如下提示：
 
 ![启动器账户验证](assets/images/launcher-login.png ':size=400')
 
