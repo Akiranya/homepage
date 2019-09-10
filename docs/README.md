@@ -12,7 +12,7 @@
 [server-survival]: /welcome/servers.md#survival
 [server-creative]: /welcome/servers.md#creative
 
-# 🍀上古时代 :id=get-started
+# 上古时代 :id=get-started
 
 ?> 💫本网站旨在为所有玩家提供一个简洁明了、能够快速上手上古服的指南。
 
@@ -20,7 +20,7 @@
 
 🏠[主页](#get-started) | 🍵[茶馆][bbs] | 🌍[卫星地图][dynmap] | 🐧[QQ群][qqgroup]
 
-## 🍀服务器信息 :id=server-info
+## 服务器信息 :id=server-info
 
 服务器地址：`play.mimaru.me`  
 服务器版本：`1.14.4` *村庄与掠夺*  
@@ -31,7 +31,7 @@
 
 如想了解更多，请参考屏幕左边的网站目录💖
 
-## 🍀加入我们 :id=join-us
+## 加入我们 :id=join-us
 
 <!-- 加入我们很简单😘使用正版 Minecraft 账号+版本正确的客户端，然后加入上面的服务器地址即可✨💫 -->
 
