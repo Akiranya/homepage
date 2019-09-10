@@ -1,5 +1,3 @@
-<!-- ![logo](/assets/images/favicon.ico) -->
-
 # 上古时代 Minecraft <small>七年老服</small> :id=cover
 
 <!-- - 简单、可靠；正版、非盈利 -->
@@ -12,4 +10,4 @@
 [茶馆](https://bbs.mimaru.me/)
 [加入我们](#get-started)
 
-![background](assets/images/bg.jpg)
+<!-- ![background](assets/images/bg.jpg) -->
