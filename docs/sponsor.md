@@ -40,3 +40,5 @@ Chris_lrs，Archer，REDA，Antony，bbjiang，Black，SF_Will，BlackTea_NA，B
 以上名单最后更新于二零一九年九月九日。
 
 如有遗漏，请联系服务器管理员（风纪委或OP）。
+
+<div id="gitalk-container"></div>

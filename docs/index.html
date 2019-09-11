@@ -9,7 +9,7 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  <!-- <link rel="shortcut icon" type="image/png" href="/assets/images/logo.png"> -->
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 </head>
 
 <body>
@@ -17,11 +17,12 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
+    var docBase = 'https://github.com/Akiranya/homepage/blob/master/docs/';
+    var docEditBase = docBase;
+    var title = "在 GitHub 上编辑";
     window.$docsify = {
       name: '上古时代',
       basePath: 'https://raw.githubusercontent.com/Akiranya/homepage/master/docs/',
-      // repo: "Akiranya/homepage",
-      // themeColor: '#66ccff',
       coverpage: true,
       loadNavbar: true,
       loadSidebar: true,
@@ -44,7 +45,7 @@
       },
       plugins: [
         EditOnGithubPlugin.create(
-          'https://github.com/Akiranya/homepage/blob/master/docs/'
+          docBase, docEditBase, title
         ),
       ]
     }
@@ -52,6 +53,19 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: '026417e9025982f50dc4',
+      clientSecret: '8177c8284dc4c5ef0e83be8d918f75f6e50e2b50',
+      repo: 'gitalk',
+      owner: 'Akiranya',
+      admin: [''],
+      number: 1,
+      distractionFreeMode: true
+    })
+    gitalk.render('gitalk-container')
+  </script>
 </body>
 
 </html>
