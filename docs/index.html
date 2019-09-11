@@ -42,6 +42,11 @@
         namespace: 'anciageHomepage',
         hideOtherSidebarContent: false,
       },
+      alias: {
+        '/faq': '/welcome/faq',
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      },
       plugins: [
         EditOnGithubPlugin.create(
           docBase, docEditBase, title
