@@ -41,4 +41,4 @@ Chris_lrs，Archer，REDA，Antony，bbjiang，Black，SF_Will，BlackTea_NA，B
 
 如有遗漏，请联系服务器管理员（风纪委或OP）。
 
-<div id="gitalk-container"></div>
+<html><div id="gitalk-container"></div></html>
