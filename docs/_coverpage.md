@@ -10,4 +10,4 @@
 [茶馆](https://bbs.mimaru.me/)
 [加入我们](#get-started)
 
-<!-- ![background](assets/images/bg.jpg) -->
+![background](assets/images/bg.jpg)
