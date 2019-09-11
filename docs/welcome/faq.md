@@ -86,9 +86,13 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 **游戏服的策略**  
 由于游戏服不涉及建造/收集元素，换图策略不在考虑范围内。
 
-## 我可以下载服务器的地图存档吗
+## 下载服务器地图存档
 
 [请看这里](/saves.md)。
+
+## 我是N年前的老玩家，想去以前的地图看看 :id=retracing
+
+当然可以！目前服务器所有的[旧地图](/welcome/worlds-of-creative.md#archives)都在[创造服](/welcome/servers.md#creative)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
 
 ## 服务器的开放时间 :id=opening-hours
 
