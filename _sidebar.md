@@ -26,9 +26,9 @@
 
 ----
 
-* [👻上古梗](stories.md)
-* [🧩管理组](staff.md)
-* [💌捐助我们](sponsor.md)
-* [⏳存档下载](saves.md)
-* [💖参与贡献](contribution.md)
-* [📷在论坛插入图片](https://bbs.mimaru.me/d/46)
+* [上古梗](stories.md)
+* [捐助我们](sponsor.md)
+* [地图存档下载](saves.md)
+* [参与贡献](contribution.md)
+* [管理员手册](staff.md)
+* [在论坛插入图片](https://bbs.mimaru.me/d/46)

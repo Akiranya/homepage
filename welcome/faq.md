@@ -24,7 +24,7 @@
 
 ## 软妹币是怎么来的 :id=how-ruanmeibi-is-generated
 
-这里只说明软妹币如何从“零” *产生*，不包括玩家间的[交易][trade]。当然你可以通过交易来获得软妹币💸
+这里只说明软妹币如何从“零” *产生*，不包括玩家间的[交易][trade]。当然你可以通过交易来获得软妹币。
 
 当游戏刚开始时，游戏内的软妹币总和为零。随着玩家的各种活动，越来越多的软妹币陆续被产生。以下是软妹币产生的所有途径：
 
@@ -100,12 +100,17 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 ## 服务器的硬件配置 :id=server-hardware
 
-游戏服务器：
-> 阿里云杭州BGP多线 – ECS实例 ecs.sn1ne.2xlarge – 8 vCPU 16 GB (I/O优化)
+我们分别租用`游戏服务器`和`网站服务器`。
 
-网站服务器：
-> 阿里云香港BGP多线 – ECS实例 ecs.t5-lc1m1.small – 1 vCPU 1 GB (I/O优化)  
-> Linode 日本东京千兆共享带宽 – Virtual Machine – 1 CPU Core 1GB
+`游戏服务器`使用的是`阿里云ECS 突发性能实例 t6`，以下是具体配置：
+
+- 实例规格：ecs.t6-c1m4.xlarge
+- vCPU：4 vCPU
+- 内存：16 GiB
+- 处理器型号：Intel(R) Xeon(R) Platinum 8269CY
+- 处理器主频/睿频：2.5 GHz
+
+`网站服务器`使用的是`阿里云轻量应用服务器`，位于香港。
 
 ## 所使用的服务端 :id=server-software
 
