@@ -46,7 +46,7 @@
 
 ----
 
-👉返回[服务器列表·创造服](/welcome/servers.md#creative)
+👉返回[服务器列表·创造服](/mc-servers/vanilla.md#creative)
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C

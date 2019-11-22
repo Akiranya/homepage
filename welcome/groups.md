@@ -1,19 +1,18 @@
-[server-survival]: /welcome/servers.md#survival
-[server-creative]: /welcome/servers.md#creative
+[server-survival]: /mc-servers/vanilla.md#survival
+[server-creative]: /mc-servers/vanilla.md#creative
 [worlds-of-survival]: /welcome/worlds-of-survival.md#home
 
 # 权限组
 
-* 每个玩家至少属于一个权限组。
+* 上古服的每个玩家都至少属于一个权限组。
 * 一个玩家可以同时属于多个权限组。
 * 玩家所属的权限组决定他可以使用哪些指令、功能。
-* 每个玩家都有 *平等* 的机会来获得某个权限组。
-* 出于公平起见，*氪金* 不在获得途径之内。
+* 每个玩家都有平等的机会来获得某个权限组；且出于公平起见，氪金不在获得途径之内。
 * 玩家权限组在上古的所有子服务器之间同步。
 
 !> 在处理纠纷、参与讨论时，权限组的高低不会影响管理组裁决。
 
-> 要寻找相关指令，请参考左侧边栏中的[常用指令](/welcome/commands.md)和`插件帮助`。还有请善用左上角的`搜索功能`。
+> 要寻找相关指令，请参考左侧边栏中的[常用指令](/welcome/commands.md)和插件帮助。还有请善用左上角的搜索功能。
 
 ----
 
@@ -23,22 +22,22 @@
 
 ### 获得条件
 
-新玩家的权限组默认为「初心者」，无需额外获得。
+新玩家的权限组默认为「初心者」，无需再获得。
 
 ### 拥有权限
 
-?> 权限列表按照 *服务端插件* 来介绍。
+初心者至少可以使用以下插件。
 
 * [Essentials](/welcome/commands.md#ess) - 基础指令 *使用传送、修改昵称、接收/支付软妹币等*
 * [NyaaUtils](/plugins/nu.md) - 小工具 *使用飞行动力、给物品改名、展示物品到聊天框等*
 * [CraftBook](/plugins/craftbook.md) - 机械工程 *建造和使用电梯、城门，以及快速换画等*
 * [MyPet](/plugins/mypet.md) - 宠物系统 *抓宠物、养宠物*
 * [HamsterEcoHelper](/plugins/trade.md) - 仓鼠经济助手 *使用天喵商城、木牌商店、拍卖等*
-* ~~Towny - 城镇系统 *创建城镇、圈地等*~~
+* [Towny](/plugins/towny.md) *创建城镇、圈地等*
 * [CoreProtect](/plugins/logblock.md) - 记录查询 *查询游戏世界中的事件记录*
 * [Lockette](/welcome/commands.md#lock) - 牌子锁 *给箱子上锁*
 * [MultiVerse](/welcome/commands.md#mv) - 多世界 *查看各个世界的玩家*
-* *该列表可能不完善，有待补充……*
+* *该列表可能未及时更新，有待补充……*
 
 ----
 
@@ -95,8 +94,8 @@
 
 * 继承[建筑师](#arch)的权限
 * 无视所有保护区的保护
-* 开启飞行模式（在[生存服的家园世界][worlds-of-survival]）
-* 使用地图编辑器 `WorldEdit`（在[创造服][server-creative]）
+* 在[生存服的家园世界][worlds-of-survival]开启飞行模式
+* 在[创造服][server-creative]使用地图编辑器 `WorldEdit`
 
 ----
 
@@ -122,7 +121,7 @@
 
 ## 统括领事·OP :id=op
 
-「统括领事」属于服务器的决策层（也就是~~幕后黑手~~），主要负责技术开发和重大决策。
+「统括领事」属于服务器的技术开发（也就是~~幕后黑手~~）。
 
 <!-- [参与贡献](/sponsor.md) -->
 
@@ -130,7 +129,7 @@
 
 ## 前缀优先级·Priority :id=priority
 
-> 玩家可以拥有多个权限组，但只会显示优先级最高的前缀。
+玩家可以拥有多个权限组，但只会显示优先级最高的前缀。
 
 比如玩家同时属于「建筑师」和「贡献者」这两个权限组，那么只会显示「贡献者」的前缀，因为「贡献者」的前缀优先级比「建筑师」组要高。「建筑师」前缀会被隐藏，但玩家会拥有对应的权限。
 

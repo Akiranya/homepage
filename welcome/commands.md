@@ -1,5 +1,5 @@
-[creative]: /welcome/servers.md#creative
-[modded]: /welcome/servers.md#modded
+[creative]: /mc-servers/vanilla.md#creative
+[modded]: /mc-servers/modded.md
 
 # 常用指令
 
