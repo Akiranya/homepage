@@ -14,6 +14,8 @@
 [faq]: /welcome/faq.md
 [servers]: /welcome/servers.md
 
+!> 目前游戏服务器的数据正在进行跨地域搬迁中，预计12月份正式开放。
+
 # 上古时代 :id=get-started
 
 「上古时代」是一个由一群喜欢 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。我们欢迎一切志同道合的小伙伴加入我们一起来玩！
@@ -42,7 +44,9 @@
 
 ## 加入我们 :id=join-us
 
-我们的所有服务器开启了正版验证，这意味着你需要一个正版 Minecraft 账号。
+**我们的所有服务器开启了正版验证，这意味着你需要一个正版 Minecraft 账号。**如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个。
+
+
 
 1. 访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 来购买国际正版 Minecraft
 2. 添加 [上古时代服务器](#server-info) 至你的客户端服务器列表
