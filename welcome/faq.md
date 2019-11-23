@@ -107,13 +107,13 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 我们目前分别租用了一台游戏服务器和一台网站服务器。
 
-游戏服务器使用的是`阿里云ECS 突发性能实例 t6`，以下是具体配置：
+游戏服务器使用的是`阿里云ECS 高主频内存型 hfr6`，以下是具体配置：
 
-- 实例规格：ecs.t6-c1m4.xlarge
-- vCPU：4 vCPU
+- 实例规格：ecs.hfr6.large
+- vCPU：2 vCPU
 - 内存：16 GiB
-- 处理器型号：Intel(R) Xeon(R) Platinum 8269CY
-- 处理器主频/睿频：2.5 GHz
+- 处理器型号：Intel Xeon (Cascade Lake) Platinum 8269
+- 处理器主频/睿频：3.1 GHz/3.5 GHz
 
 网站服务器使用的是`阿里云轻量应用服务器`，位于香港。
 
