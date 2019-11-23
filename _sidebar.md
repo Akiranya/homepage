@@ -11,7 +11,7 @@
 
 * 📖插件帮助
   
-  * [城镇](plugins/towny-facade.md)
+  * [城镇](plugins/towny.md)
   * [机械](plugins/craftbook.md)
   * [宠物](plugins/mypet.md)
   * [交易](plugins/trade.md)
