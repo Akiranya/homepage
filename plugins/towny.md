@@ -2,7 +2,9 @@
 
 城镇插件可以让玩家在游戏世界里创建城镇、占领区块、建立国家。
 
-?> 如有疑问请先参考 [常用指令](#common-cmds) & [常见问题](/plugins/towny-faq.md)。
+![scv](../assets/images/plugins/towny-scv.png ':size=430')
+
+?> 如有疑问，先看一下 [常用指令](#common-cmds) & [常见问题](/plugins/towny-faq.md) 中有没有答案 ^ ^
 
 ## 什么是城镇
 
