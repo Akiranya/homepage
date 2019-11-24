@@ -7,6 +7,6 @@
 > 一个兴趣使然的小型玩家社区
 
 [茶馆](https://bbs.mimaru.me/)
-[加入我们](/README.md)
+[进入主页](/README.md)
 
 ![background](assets/images/bg.jpg)
