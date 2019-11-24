@@ -6,8 +6,8 @@
   * [权限组](welcome/groups.md)
 
 * 🎮服务器列表 & 帮助
-  * [原版养老服](mc-servers/vanilla.md)
-  * [模组探索服](mc-servers/modded.md)
+  * [原版·休闲服](mc-servers/vanilla.md)
+  * [模组·探索服](mc-servers/modded.md)
 
 * 📖插件帮助
   
