@@ -28,11 +28,11 @@
 
 🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🎙[TeamSpeak](welcome/teamspeak.md)
 
-## 加入我们 :id=join-us
+## 加入服务器 :id=join-us
 
 **前置条件**
 
-- 您拥有正版 Minecraft。
+- 您拥有正版 Minecraft（国际服）。
 - 您已阅读并遵守[游戏规则](welcome/rules.md)。
 
 如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个（可能需要梯子）。
