@@ -1,7 +1,7 @@
 * 🎉欢迎 ^ ^
 
   * [游戏规则](welcome/rules.md)
-  * [常用指令](welcome/commands.md)
+  * [常用指令](welcome/commands-facade.md)
   * [常见问题](welcome/faq.md)
   * [权限组](welcome/groups.md)
 

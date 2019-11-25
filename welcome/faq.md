@@ -18,7 +18,7 @@
 
 ## 软妹币是什么 :id=ruanmeibi
 
-「软妹币」是上古服的虚拟货币。目前只有[生存服](/mc-servers/vanilla.md#survival)在使用。玩家可以用软妹币与其他玩家进行交易或购买系统服务，也可用来创建城镇、占领区块。
+「软妹币」是上古服的虚拟货币。**目前只有[生存服](/mc-servers/vanilla.md#survival)在使用。**玩家可以用软妹币与其他玩家进行交易或购买系统服务，也可用来创建城镇、占领区块。
 
 !> 「软妹币」跟人民币没有任何关联，即不存在用软妹币兑换人民币，也不存在用人民币购买软妹币的说法。上古服不会用人民币出售任何游戏道具/权限等，游戏内也禁止一切三次元交易的行为。
 
@@ -47,11 +47,15 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 ## 死亡掉落的设定 :id=death-dropping-policy
 
-和原版一样，[生存服](welcome/servers.md#survival)死亡会掉落所有物品和经验。大家可以输入`/back`回到死亡地点来拾取掉落物品。
+和原版一样，死亡会掉落所有物品和经验。大家可以输入`/back`回到死亡地点来拾取掉落物品。
 
 ## 可以公开地图种子吗 :id=world-seed
 
-不可以。公开地图种子相当于公开地图上所有资源的坐标，这与冒险和探索相悖。
+不可以。公开地图种子相当于公开地图上所有资源的坐标，这与冒险和探索的主题相悖。
+
+## 你们说的“换周目”是什么意思
+
+周目原本是个日语词，有“第几”的意思。我们常说的“周目”指的是一段游戏进程的始终。“换周目”简单来讲就是”服务器开新的游戏地图”，通常也意味着游戏内容会有一个比较大的更新。
 
 ## 服务器的更新策略 :id=update-policy
 
@@ -64,12 +68,12 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 在寒暑假 *之外* 的时间里，服务器的内容会处于比较稳定的状态，也就是：
 
-- 不会大幅度新增/删减游戏内容
+- 服务器不会大幅度新增/删减游戏内容
 - 管理组只会改进现有功能/修复BUG/响应玩家的举报
 
 ## 服务器的换图策略 :id=save-policy
 
-?> 我们十分珍惜玩家的成果。原则上所有地图存档（除资源世界）都不会丢弃，只会转移地方（如上传到网盘）。
+?> 我们十分珍惜玩家的成果。不管怎样，所有地图存档（除资源世界）都不会丢弃，只会转移地方（如归档备份）。如果一个地图存档不再使用，它将被我们上传至百度网盘，供大家下载至本地参观留念。
 
 **生存服的策略**  
 生存服在升级到新版本后是否换图取决于 Mojang 发布的新版本的 *内容丰富程度*。
@@ -89,15 +93,11 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 ## 下载服务器地图存档 :id=how-to-download-server-maps
 
-虽然游戏地图会更换，但旧的地图存档我们从未丢弃。要下载地图存档[请看这里](/saves.md)🥳
+虽然我们服务器的游戏地图会更换，但旧的地图存档从未丢弃。要下载地图存档[请看这里](/saves.md)🥳
 
-## 我是N年前的老玩家 :id=retracing
+## 我是多年前的老玩家 :id=retracing
 
-“我是N年前的老玩家，想去以前的地图里看看……”
-
-当然可以！
-
-目前服务器所有的[旧地图](/welcome/worlds-of-creative.md#archive)都在[创造服](/welcome/servers.md#creative)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
+“我是多年前的老玩家，想去以前的地图里看看……”，当然可以！目前服务器所有的[旧地图](/welcome/worlds-of-creative.md#archive)都在[创造服](/welcome/servers.md#creative)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
 
 ## 服务器的开放时间 :id=opening-hours
 
@@ -109,25 +109,25 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 游戏服务器使用的是`阿里云ECS 高主频内存型 hfr6`，以下是具体配置：
 
-- 实例规格：ecs.hfr6.large
-- vCPU：2 vCPU
-- 内存：16 GiB
-- 处理器型号：Intel Xeon (Cascade Lake) Platinum 8269
-- 处理器主频/睿频：3.1 GHz/3.5 GHz
+- 实例规格 - ecs.hfr6.large
+- vCPU - 2 vCPU
+- 内存 - 16 GiB
+- 处理器型号 - Intel Xeon (Cascade Lake) Platinum 8269
+- 处理器主频/睿频 - 3.1 GHz/3.5 GHz
 
 网站服务器使用的是`阿里云轻量应用服务器`，位于香港。
 
 ## 所使用的服务端 :id=server-software
 
-原版服使用的是 [Paper](https://paper.readthedocs.io/en/stable/)，模组服为 [Sponge](https://www.spongepowered.org/)。
+[原版服](/mc-servers/vanilla.md)使用的是 [Paper](https://paper.readthedocs.io/en/stable/)，[模组服](../mc-servers/modded.md)为 [Sponge](https://www.spongepowered.org/)。
 
 ## 怎么圈地 :id=land-claiming
 
-目前只有[原版生存服](/mc-servers/vanilla.md#survival)装有领地插件（城镇）。点[这里](/plugins/towny.md)查看城镇插件的使用方法。
+目前只有[原版·生存服](/mc-servers/vanilla.md#survival)装有领地插件（城镇插件）。点[这里](/plugins/towny.md)查看圈地的方法（也就是创建城镇的方法）。
 
 ## 怎么锁箱 :id=chest-protection
 
-直接往箱子上贴木牌即可（不需要进入潜行状态）。
+目前只有[原版·生存服](/mc-servers/vanilla.md#survival)装有锁箱插件。直接往箱子上贴木牌即可（不需要进入潜行状态）。
 
 [paper-logo]: https://paper.readthedocs.io/en/stable/_images/papermc_logomark_500.png ':size=16'
 [sponge-logo]: https://www.spongepowered.org/assets/img/icons/spongie-mark-dark.svg ':size=16'
