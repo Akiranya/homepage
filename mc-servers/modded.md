@@ -19,7 +19,7 @@
 
 ## 客户端
 
-你可以自己根据模组列表整合一个客户端。你也可以直接使用我们整合的专用客户端，[点击这里](http://proxy.mimaru.me/)开始下载。
+你可以自己根据模组列表整合一个客户端；也可以直接使用我们整合的专用客户端，[点击这里](http://proxy.mimaru.me/)开始下载。
 
 ----
 
@@ -45,7 +45,22 @@
 
 *关于模组的玩法，推荐搜索[B站](https://bilibili.com)和[MCMOD中文百科](https://www.mcmod.cn/)。*
 
-- 模组列表有待讨论。
+这里只列出服务端安装的功能性模组*（不包含库/前置模组）*，不包含客户端本地模组。
+
+- JourneyMap 旅行地图 `1.12.2-5.5.5`
+  - 众所周知的小地图模组。默认在游戏的右上角增加一个小地图，实时显示自己周围的地形、玩家、生物等。默认按<kbd>J</kbd>可打开 *大地图*。注意大地图中的玩家位置是 *全图共享* 的，意思是无论其他玩家离你有多远（比如自己视距之外的情况），你都可以看见他们的所在位置（前提在同一个世界）。
+- The Betweenlands 交错次元/黑暗沼泽 `3.5.3`
+- ImmersiveEnineering 沉浸工程 `0.12-92`
+- ChinjufuMod 镇守府 `[1.12.2]3.2.2`
+- SlashBlade 拔刀剑 `mc1.12-r28`
+- Tinker's Construct 匠魂 `1.12.2-2.12.0.157`
+- StorageDrawers 储物抽屉 `1.12.2-5.4.0`
+- Opeb Modular Turrets 开放式炮台 `1.12.2-3.1.4.356`
+- The One Probe 鼠标所指方块信息显示 `1.12-1.4.28`
+- BetterRecords 更好的唱片机 `1.12.2-1.6.1`
+- InternalMobs 精英怪 `1.12.2`
+- UniDict 矿物辞典 `1.12.2-2.4`
+- Rustic 乡村 `1.1.1`
 
 ----
 
@@ -79,6 +94,8 @@
 由于技术限制，玩家不能直接在模组服修改后缀。请前往[原版休闲·生存服](/mc-servers/vanilla.md#survival)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
 
 ### 为什么不用城镇插件 Towny
+
+模组服的服务端（[Sponge](https://www.spongepowered.org/)）目前没有可用的 Towny 和类似 Towny 的城镇插件。
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
