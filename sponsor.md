@@ -33,136 +33,145 @@
 
 名单以捐赠者在上古时代 Minecraft 服务器内的角色名或昵称呈现。
 
-> 以下排名顺序不分前后（排列顺序与捐助数额/时间无直接关联）。  
-> 同一个体、多次捐助只展示一次名单。
+> 以下排名顺序不分前后（排列顺序与捐助数额无关联）。  
+> 同一个体、多次捐助，将展示多次名单。
 
-- tutu019
-- Chu_xiang
-- Chris_lrs
-- Archer
-- REDA
-- Antony
-- bbjiang
-- Black
-- SF_Will
-- BlackTea_NA
-- Bao_Ge
-- weiyi
-- gaylord
-- Alian
-- mikezt
-- TYY
-- mu_na
-- di_gua
-- baozi
-- xiaofeng
-- luosi
-- jk233
-- Izayoi
-- Ryuunosuke
-- kong
-- eee123
-- Kuroko
-- doubi
-- Momo
-- Ais_blue
-- 940501363
-- Nijikawa_Doll
-- mifan
-- ckevin97923
-- lansquenet
-- Darence_DD
-- Ray
-- KYTK
-- juanrou
-- Silency
-- mushroom
-- Kron
-- RdMapleKun
-- Nailm
-- caohun
-- chhya
-- didiao
-- Eison
-- Fkkk
-- GBL
-- haotian
-- HUHU79
-- hydrabbit
-- Kive
-- moon_cool
-- shinichi
-- leopard
-- yookeke
-- MGLived
-- yzb
-- Allure
-- Coffee1006
-- SAMSUNG
-- HongChaBei
-- Light
-- Casdy
-- Indeed
-- brain
-- shimano
-- June
-- Desperate_xXx
-- mc9
-- HLJ
-- live
-- 1cc1
-- AKATSUKI
-- Arrow_EX
-- believe
-- BK201
-- BR
-- candan
-- demacia
-- kudan
-- NEO
-- river
-- SakataGintoki
-- Seb
-- shinichi
-- uncle
-- zeal
-- Phoneix
-- bloodwing_
-- topjxr
-- LMs
-- datong
-- Violet
-- dswd
-- CendeleNya
-- JackYYF
-- Vrigir
-- wpy40626026
-- 308
-- 46swm
-- SuperYWF
-- NEET
-- brook
-- Bia
-- Momo
-- Hitomi
-- shanhua
-- Andy
-- xiongmaojun
-- caicai123
-- Little_Lolita
-- xiaobobo
-- Hitman47
-- creep
-- Danbaoerhao
-- Zhezuo
-- Fitow_Pan
-- DsevenFish7
-- ak2233
-- 西西木
-- 蛋定人士
-- MorpheusBaka
-- muchun
+- 2019年11月
+  - NEET
+  - Yamaha
+  - DUYU
+  - MGlived
+  - ir_plear
+  - CendeleNya
+  - tutu019
+  - Chu_xiang
+  - 西西木
+  - 蛋定人士
+  - MorpheusBaka
+  - muchun
+  - Kronos
+- 2019年11月以前
+  - Chris_lrs
+  - Archer
+  - REDA
+  - Antony
+  - bbjiang
+  - Black
+  - SF_Will
+  - BlackTea_NA
+  - Bao_Ge
+  - weiyi
+  - gaylord
+  - Alian
+  - mikezt
+  - TYY
+  - mu_na
+  - di_gua
+  - baozi
+  - xiaofeng
+  - luosi
+  - jk233
+  - Izayoi
+  - Ryuunosuke
+  - kong
+  - eee123
+  - Kuroko
+  - doubi
+  - Momo
+  - Ais_blue
+  - 940501363
+  - Nijikawa_Doll
+  - mifan
+  - ckevin97923
+  - lansquenet
+  - Darence_DD
+  - Ray
+  - KYTK
+  - juanrou
+  - Silency
+  - mushroom
+  - Kron
+  - RdMapleKun
+  - Nailm
+  - caohun
+  - chhya
+  - didiao
+  - Eison
+  - Fkkk
+  - GBL
+  - haotian
+  - HUHU79
+  - hydrabbit
+  - Kive
+  - moon_cool
+  - shinichi
+  - leopard
+  - yookeke
+  - MGLived
+  - yzb
+  - Allure
+  - Coffee1006
+  - SAMSUNG
+  - HongChaBei
+  - Light
+  - Casdy
+  - Indeed
+  - brain
+  - shimano
+  - June
+  - Desperate_xXx
+  - mc9
+  - HLJ
+  - live
+  - 1cc1
+  - AKATSUKI
+  - Arrow_EX
+  - believe
+  - BK201
+  - BR
+  - candan
+  - demacia
+  - kudan
+  - NEO
+  - river
+  - SakataGintoki
+  - Seb
+  - shinichi
+  - uncle
+  - zeal
+  - Phoneix
+  - bloodwing_
+  - topjxr
+  - LMs
+  - datong
+  - Violet
+  - dswd
+  - CendeleNya
+  - JackYYF
+  - Vrigir
+  - wpy40626026
+  - 308
+  - 46swm
+  - SuperYWF
+  - NEET
+  - brook
+  - Bia
+  - Momo
+  - Hitomi
+  - shanhua
+  - Andy
+  - xiongmaojun
+  - caicai123
+  - Little_Lolita
+  - xiaobobo
+  - Hitman47
+  - creep
+  - Danbaoerhao
+  - Zhezuo
+  - Fitow_Pan
+  - DsevenFish7
+  - ak2233
 
-以上名单最后更新于二零一九年十一月二十一日。
+以上名单最后更新于二零一九年十一月二十六日。
 
 如有遗漏，请联系服务器管理员（风纪委或OP）。
