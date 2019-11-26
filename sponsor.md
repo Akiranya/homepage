@@ -37,6 +37,10 @@
 > 同一个体、多次捐助，将展示多次名单。
 
 - 2019年11月
+  - bbjiang
+  - TTying_zi
+  - GuiTou
+  - Dr5588
   - NEET
   - Yamaha
   - DUYU
