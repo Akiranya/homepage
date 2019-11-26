@@ -26,7 +26,7 @@
 
 ## 联系我们
 
-🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🎙[TeamSpeak](welcome/teamspeak.md)
+🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🎙[TeamSpeak](welcome/teamspeak.md) | 🏠[玩家城镇](https://bbs.mimaru.me/t/towns)
 
 ## 加入服务器 :id=join-us
 

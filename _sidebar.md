@@ -35,7 +35,6 @@
 
 ----
 
-* [玩家城镇](https://bbs.mimaru.me/t/towns)
 * [在论坛插入图片](https://bbs.mimaru.me/d/46)
 * [上古梗](stories.md)
 * [捐助我们](sponsor.md)
