@@ -167,7 +167,7 @@
 
 ### 怎么用记录查询
 
-*注：模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容录容器内物品流动。pr 的用法基本和 co 的一致。*
+*注：模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。*
 
 输入`/pr i`开启/关闭查询模式。用法请参照[记录查询](/plugins/logblock.md#usage)。
 
