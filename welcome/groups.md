@@ -26,18 +26,7 @@
 
 ### 拥有权限
 
-初心者至少可以使用以下插件。
-
-* [Essentials](/welcome/commands.md#ess) - 基础指令 *使用传送、修改昵称、接收/支付软妹币等*
-* [NyaaUtils](/plugins/nu.md) - 小工具 *使用飞行动力、给物品改名、展示物品到聊天框等*
-* [CraftBook](/plugins/craftbook.md) - 机械工程 *建造和使用电梯、城门，以及快速换画等*
-* [MyPet](/plugins/mypet.md) - 宠物系统 *抓宠物、养宠物*
-* [HamsterEcoHelper](/plugins/trade.md) - 仓鼠经济助手 *使用天喵商城、木牌商店、拍卖等*
-* [Towny](/plugins/towny.md) *创建城镇、圈地等*
-* [CoreProtect](/plugins/logblock.md) - 记录查询 *查询游戏世界中的事件记录*
-* [Lockette](/welcome/commands.md#lock) - 牌子锁 *给箱子上锁*
-* [MultiVerse](/welcome/commands.md#mv) - 多世界 *查看各个世界的玩家*
-* *该列表可能未及时更新，有待补充……*
+初心者可以使用服务器里绝大多数的指令/功能。
 
 ----
 
@@ -62,7 +51,7 @@
 **拥有权限**
 
 * 继承[初心者](#def)的权限
-* ~~可以在[城镇领地](/plugins/towny.md)里飞行~~
+* ~~可以在城镇领地里飞行~~
 * 修改当前世界的天气（在[创造服][server-creative]）
 
 ----

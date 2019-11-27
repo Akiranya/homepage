@@ -27,7 +27,7 @@
 
 ----
 
-## 子服介绍
+## 子服列表 & 简介
 
 *原版休闲服* 包括了以下三个「子服」
 
@@ -49,17 +49,16 @@
 ![cafe-1](../assets/images/townsgallery/cafe-1.jpg ':size=250')
 ![purple_fox-1](../assets/images/townsgallery/purple-fox-1.jpg ':size=250')
 
-以上截图来自 *主世界（版本 1.12）* 的玩家城镇。该世界现已迁移至[创造服](#creative)。
-
-你只需要学习简单的几条[指令](/welcome/commands.md)与[游戏规则](/welcome/rules.md)，和你的好朋友一起，便可以立马开始在这里的征途。
+*以上截图来自 主世界（版本 1.12）的玩家城镇。该世界现已迁移至[创造服](#creative)。*
 
 **0x1 世界列表**
 
-!> 在游戏里你可以输入`/c`打开`快捷菜单`，然后点击`世界传送`来前往不同的世界。
+提示：在游戏里你可以输入`/c`打开`快捷菜单`，然后点击`世界传送`来前往不同的世界。
 
-这里世界分为两大类：家园世界 & 资源世界。  
-家园世界 —— 专用来安心建造和发展，可以在此放心挥洒心血，永远不会删除（详见[服务器的换图策略](/welcome/faq.md#save-policy)）。  
-资源世界 —— 专用来采集资源。这些世界会随时删除/更换，<span style="color: red">请不要在这类世界中留下任何贵重物品</span>。
+这里世界分为两大类：家园世界 & 资源世界。
+
+- [家园世界](/welcome/worlds-of-survival.md#homeworld) - 专用来安心建造和发展，永远不会删除（详见[服务器的换图策略](/welcome/faq.md#save-policy)）。  
+- [资源世界](/welcome/worlds-of-survival.md#mining) - 专用来采集资源。这些世界会随时删除/更换，<span style="color: red">请不要在这类世界中留下任何贵重物品</span>。
 
 **0x2 插件列表 & 帮助**
 
