@@ -1,6 +1,6 @@
 # 盔甲架编辑器
 
-!> 该插件仅限[建筑师](/welcome/groups.md)（或更高级权限组）在[创造服](/welcome/servers.md)使用。
+!> 该插件仅限[建筑师](/welcome/groups.md)（或更高级权限组）在[创造服](/mc-servers/vanilla.md#creative)使用。
 
 ## 特性
 

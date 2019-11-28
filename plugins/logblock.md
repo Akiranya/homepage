@@ -6,7 +6,7 @@
 
 ## 记录范围
 
-[生存服](/welcome/servers.md)和[创造服](/welcome/servers.md)都安装了 `co`，玩家可以查询这两个服务器的记录。
+[生存服](/mc-servers/vanilla.md#survival)和[创造服](/mc-servers/vanilla.md#creative)都安装了 `co`，玩家可以查询这两个服务器的记录。
 
 ?> P.s. 在生存服，`co` 只记录发生在 *家园世界* 的变动。在创造服会记录 *全部世界*。
 

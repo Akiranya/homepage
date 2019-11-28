@@ -9,10 +9,9 @@
 [client-download]: http://proxy-hk.mimaru.me/1.14.4.zip
 [group-def]: /welcome/groups.md#def
 [group-adv]: /welcome/groups.md#adv
-[server-survival]: /welcome/servers.md#survival
-[server-creative]: /welcome/servers.md#creative
+[server-survival]: /mc-servers/vanilla.md#survival
+[server-creative]: /mc-servers/vanilla.md#creative
 [faq]: /welcome/faq.md
-[servers]: /welcome/servers.md
 
 !> **目前我们正在进行游戏服务器的搬迁工作，预计2019年12月份中旬完成并对外正式开放。在那之前，你也许可以进入游戏服务器，但其所呈现内容并不一定是最终版本；服务器的内容/规则会随时改变，请知晓。**
 

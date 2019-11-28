@@ -61,7 +61,7 @@ P.s. *有效木牌* 说的是以上三种任意木牌。
 2. 木牌+特定的文字内容
 3. 红石电路*（可选）*
 
-建造方法请在[生存服](/welcome/servers.md)输入指令 `/warp mech-demo` 查看演示。
+建造方法请在[生存服](/mc-servers/vanilla.md#survival)输入指令 `/warp mech-demo` 查看演示。
 
 ----
 

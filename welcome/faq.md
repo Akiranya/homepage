@@ -97,7 +97,7 @@ a) 领工资（看[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) �
 
 ## 我是多年前的老玩家 :id=retracing
 
-“我是多年前的老玩家，想去以前的地图里看看……”，当然可以！目前服务器所有的[旧地图](/welcome/worlds-of-creative.md#archive)都在[创造服](/welcome/servers.md#creative)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
+“我是多年前的老玩家，想去以前的地图里看看……”，当然可以！目前服务器所有的[旧地图](/welcome/worlds-of-creative.md#archive)都在[创造服](/mc-servers/vanilla.md#creative)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
 
 ## 服务器的开放时间 :id=opening-hours
 
