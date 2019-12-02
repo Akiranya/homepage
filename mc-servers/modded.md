@@ -20,8 +20,14 @@
 
 为了大家方便，我们准备了专门的模组服客户端，省去大家自己整合的麻烦(⁎⁍̴̛ᴗ⁍̴̛⁎)
 
-- [点击这里][full_client]🔗开始下载 *完整的* 客户端。  
-- 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，[点击这里][only_mods]🔗开始下载 *单独的* mods 文件包。记得直接 *替换* 掉原本的 mods 文件夹，而不是覆盖。如果你有自己在用的模组，记得先备份你的 mods 文件夹。
+请选择以下 **<span style="color: red">之一</span>**：
+
+- 选项1 ***完整的* 客户端**（[点击下载][full_client]）
+  - 如果你手头没有`1.12.2`的客户端，请下载这个。
+- 选项2 ***单独的* 模组列表**（[点击下载][only_mods]）
+  - 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，可以只下载这个。
+  - 记得是直接 *替换* 掉原本的整个 mods 文件夹，而不是覆盖。
+  - 如果你有自己在用的模组，记得先备份你的 mods 文件夹。
 
 [full_client]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip
 [only_mods]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip
