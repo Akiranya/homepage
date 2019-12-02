@@ -12,7 +12,7 @@
 ![cafe-1](../assets/images/townsgallery/cafe-1.jpg ':size=250')
 ![purple_fox-1](../assets/images/townsgallery/purple-fox-1.jpg ':size=250')
 
-*以上截图来自 主世界（版本 1.12）的玩家城镇。该世界现已迁移至[创造服](#creative)。*
+*以上截图来自 主世界（版本 1.12）的玩家城镇。该世界现已迁移至[创造服](/mc-servers/creative.md)。*
 
 ----
 
