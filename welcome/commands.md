@@ -1,5 +1,5 @@
-[survival]: /mc-servers/vanilla.md#survival
-[creative]: /mc-servers/vanilla.md#creative
+[survival]: /mc-servers/survival.md
+[creative]: /mc-servers/creative.md
 [modded]: /mc-servers/modded.md
 
 # 常用指令·原版休闲服

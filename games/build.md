@@ -18,7 +18,7 @@
 
 ## 👋如何参加 :id=how-to-take-part-in
 
-建筑比赛在[创造服](/mc-servers/vanilla.md#creative)举行
+建筑比赛在[创造服](/mc-servers/creative.md)举行
 
 1. 请先加入上古时代服务器
 2. 输入`/server build`前往 *创造服*

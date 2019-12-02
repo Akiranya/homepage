@@ -6,7 +6,9 @@
   * [权限组](welcome/groups.md)
 
 * 🎮服务器列表 & 帮助
-  * [原版·休闲服](mc-servers/vanilla.md)
+  * [原版·生存服](mc-servers/survival.md)
+  * [原版·创造服](mc-servers/creative.md)
+  * [原版·游戏服](mc-servers/games.md)
   * [模组·探索服](mc-servers/modded.md)
 
 * 📖插件帮助

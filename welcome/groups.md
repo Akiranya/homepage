@@ -1,6 +1,6 @@
-[server-survival]: /mc-servers/vanilla.md#survival
-[server-creative]: /mc-servers/vanilla.md#creative
-[worlds-of-survival]: /welcome/worlds-of-survival.md#home
+[server-survival]: /mc-servers/survival.md
+[server-creative]: /mc-servers/creative.md
+[worlds-of-survival]: /mc-servers/survival.md#home
 
 # 权限组
 
