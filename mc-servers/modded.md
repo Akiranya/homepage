@@ -100,6 +100,9 @@
 
 - **[JourneyMap 旅行地图][journeymap] `5.5.5`**
   - 众所周知的小地图模组。默认在游戏的右上角增加一个小地图，实时显示自己周围的地形、玩家、生物等。默认按<kbd>J</kbd>可打开 *大地图*。注意大地图中的玩家位置是 *全图共享* 的，意思是无论其他玩家离你有多远（比如自己视距之外的情况），你都可以看见他们的所在位置（前提在同一个世界）。
+- **[JustEnoughCalculation 合成计算器][jec] `3.2.2`**
+  - 添加了两个物品：*合成计算器* 和 *数学计算器*。
+  - *合成计算器* 可以用来计算合成一个物品具体需要多少原材料。*数学计算器* 如其名所示，可以计算加减乘除。
 - **[The One Probe 鼠标所指方块信息显示][theoneprobe] `1.4.28`**
   - 显示当前准星所指的方块信息，支持显示电量、燃料等机器方块的信息。
 
@@ -121,6 +124,7 @@
 [im]: https://www.mcmod.cn/class/380.html
 [ud]: https://www.mcmod.cn/class/479.html
 [ct]: https://www.bilibili.com/video/av55562073
+[jec]: https://www.mcbbs.net/thread-561503-1-1.html
 
 ----
 
