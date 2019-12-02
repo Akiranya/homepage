@@ -19,7 +19,13 @@
 
 ## 客户端 :id=client
 
-为了大家方便，我们准备了专门的模组服客户端，省去大家自己整合的麻烦。[点击这里](http://proxy.mimaru.me/)开始下载。
+为了大家方便，我们准备了专门的模组服客户端，省去大家自己整合的麻烦(⁎⁍̴̛ᴗ⁍̴̛⁎)
+
+- [点击这里][full_client]开始下载 *完整的* 客户端。  
+- 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，[点击这里][only_mods]开始下载 *单独的* mods 文件包。记得直接 *替换* 掉原本的 mods 文件夹，而不是覆盖。如果你有自己在用的模组，记得先备份你的 mods 文件夹。
+
+[full_client]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip
+[only_mods]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip
 
 !> 模组客户端通常存在大量的 ***按键冲突***。建议在正式开始游戏前，先查看/调整下键位。如果你打算完全不使用某个模组，可以考虑把其所有键位设置成"空"，也就是通过按<kbd>Esc</kbd>来清除键位设置。
 
