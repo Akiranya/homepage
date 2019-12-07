@@ -32,7 +32,7 @@
 [full_client]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip
 [only_mods]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip
 
-!> 模组客户端通常存在大量的 ***按键冲突***。建议在正式开始游戏前，先查看/调整下键位。如果你打算完全不使用某个模组，可以考虑把其所有键位设置成"空"，也就是通过按<kbd>Esc</kbd>来清除键位设置。
+!> 模组客户端通常存在大量的 ***按键冲突***，请大家按照自己的习惯调整下键位设置。如果你打算完全不使用某个模组，可以考虑把其所有键位设置成"空"，也就是通过按<kbd>Esc</kbd>来清除键位设置。
 
 ----
 
@@ -44,7 +44,9 @@
 
 ## 世界列表
 
-除了游戏原版自带的世界*（指[主世界](https://minecraft-zh.gamepedia.com/index.php?title=%E4%B8%BB%E4%B8%96%E7%95%8C)、[下届](https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C)、[末路之地](https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0)）*外，其他的额外世界全部由安装的模组本身决定。
+?> 除了游戏原版自带的世界*（指[主世界](https://minecraft-zh.gamepedia.com/index.php?title=%E4%B8%BB%E4%B8%96%E7%95%8C)、[下届](https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C)、[末路之地](https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0)）*外，其他的额外世界全部由安装的模组本身决定。
+
+这次「模组服·壹周目」新增的世界为 *交错次元*。这是模组 *交错次元*（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mimaru.me/d/323/96)。
 
 ----
 
@@ -52,7 +54,7 @@
 
 - 服务端使用的 Minecraft Forge 版本为 `14.23.5.2838`（客户端也应当使用此版本）。
 - 这里只列出服务端安装的功能性模组，不包括前置/优化模组，也不包含客户端本地模组。
-- **点击下面的绿色模组标题可查看教程。**教程都是精心挑选过的，希望大家能更容易上手。
+- **点击下面的模组标题可查看教程。**教程都是精心挑选过的，希望大家能更容易上手。
 
 **科技元素**
 
@@ -190,7 +192,9 @@
 
 ### 怎么用记录查询
 
-*注：模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。*
+*P.S.1 模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。*
+
+*P.S.2 开启查询模式后，<kbd>鼠标左键</kbd>容器才是查询容器的物品流动记录，这点和 co 的鼠标右键有区别。*
 
 输入`/pr i`开启/关闭查询模式。用法请参照[记录查询](/plugins/logblock.md#usage)。
 
