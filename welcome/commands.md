@@ -2,9 +2,9 @@
 [creative]: /mc-servers/creative.md
 [modded]: /mc-servers/modded.md
 
-# 常用指令·原版休闲服
+# 常用指令·原版服
 
-本页介绍的是 *原版休闲服* 的常用指令。关于 *模组探索服* 的常用指令请看[这里](/welcome/commands-modded.md)。
+本页介绍的是 *原版服（即生存服&创造服）* 的常用指令。关于 *模组探索服* 的常用指令请看[这里](/welcome/commands-modded.md)。
 
 ?> 输入`/c`打开 *快捷菜单*。
 
