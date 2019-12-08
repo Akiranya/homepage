@@ -1,4 +1,4 @@
-# 管理员小屋
+# 管理员手册
 
 !> 本页面尚未完成。
 
@@ -16,11 +16,11 @@
 
 ### CoreProtect
 
-原版服使用的记录查询插件。需要了解`lookup`，`rollback`和`restore`的用法。
+原版服使用的记录查询插件。主要了解`lookup`，`rollback`和`restore`的用法就可以了，具体见[官方说明](http://minerealm.com/community/viewtopic.php?f=32&t=6781)。
 
 ### Prism
 
-模组服使用的记录查询插件。
+模组服使用的记录查询插件。详见插件作者的[官方说明](https://github.com/prism/Prism)。
 
 ### WorldGuard
 
@@ -33,7 +33,7 @@
 
 ### WorldEdit
 
-地图编辑器。
+地图编辑器插件。详细用法参考[MinePlugin 百科](http://mineplugin.org/WorldEdit)。
 
 ### Essentails
 
@@ -45,13 +45,13 @@
 
 ### ShopKeepers
 
-自定义村民交易。
+自定义村民交易。创建/编辑村民商店的方法[看这里](https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki/Creating-Shops)。
 
 ### NPC
 
-创建属于自己的NPC。
+NPC插件使用的是Citizens，可以创建属于自己的NPC。
 
-### Holograms
+### HolographicsDisplay
 
 创建/编辑/调整悬浮文字。
 
@@ -99,8 +99,8 @@
 
 ### 寻找插件
 
-WIP.
+W.I.P.
 
 ### 挑选地图
 
-WIP.
+W.I.P.
