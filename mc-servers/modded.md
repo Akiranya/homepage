@@ -55,6 +55,8 @@
 
 这次「模组服·壹周目」新增的世界为 *交错次元*。这是模组 *交错次元*（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mimaru.me/d/323)。
 
+交错次元世界预览：
+
 <iframe src="//player.bilibili.com/player.html?aid=26398730&cid=45361019&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ----
