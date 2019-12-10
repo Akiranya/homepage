@@ -2,6 +2,12 @@
 
 欢迎来到「模组·探索服·壹周目」！服务器游戏模式为生存，添加了模组，意味着这里有除 Minecraft 原版以外的方块/生物/地形/游戏机制等。如果你厌倦了原版的各种玩法，不妨来试试模组服～服务器的模组列表可以在[这里](#mods)看到。
 
+![the_betweenlands](https://vignette.wikia.nocookie.net/the-betweenlands/images/b/bd/BLWikiBannerNew3.png ':size=150')
+![pams_harvestcraft](https://mcmarket.place/thumbnails/bd88a535-db8b-4304-9cf4-2de56b39d015.jpg ':size=150')
+![slashblade](https://media.forgecdn.net/avatars/thumbnails/34/72/120/120/635904807634822394.png)
+![immersive_engineering](https://gamepedia.cursecdn.com/ftb_gamepedia/f/f3/Modicon_immersiveengineering.png ':size=150')
+![tea_the_story](https://i.loli.net/2018/03/11/5aa5261c9fe0c.png ':size=150')
+
 ----
 
 ## 如何加入 :id=how-to-join
@@ -45,13 +51,15 @@
 
 ## 世界列表
 
-?> 除了游戏原版自带的世界*（指[主世界](https://minecraft-zh.gamepedia.com/index.php?title=%E4%B8%BB%E4%B8%96%E7%95%8C)、[下届](https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C)、[末路之地](https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0)）*外，其他的额外世界全部由安装的模组本身决定。
+?> 模组服没有资源世界。除了游戏原版自带的三个世界外，其他的额外世界全部由当前周目安装的模组本身决定。
 
 这次「模组服·壹周目」新增的世界为 *交错次元*。这是模组 *交错次元*（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mimaru.me/d/323)。
 
+<iframe src="//player.bilibili.com/player.html?aid=26398730&cid=45361019&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ----
 
-## 模组列表 & 简介 :id=mods
+## 模组列表 & 攻略 :id=mods
 
 - 服务端使用的 Minecraft Forge 版本为 `14.23.5.2838`（客户端也应当使用此版本）。
 - 这里只列出服务端安装的功能性模组，不包括前置/优化模组，也不包含客户端本地模组。
@@ -115,8 +123,8 @@
   - 显示当前准星所指的方块信息，支持显示电量、燃料等机器方块的信息。
 
 [journeymap]: https://www.mcbbs.net/thread-612917-1-1.html
-[the_betweenlands]: https://www.mcmod.cn/class/499.html
-[ie]: https://www.mcbbs.net/thread-450097-1-1.html
+[the_betweenlands]: https://www.mcbbs.net/thread-804242-1-1.html
+[ie]: https://www.bilibili.com/video/av21414283
 [pams]: https://www.mcbbs.net/thread-669856-1-1.html
 [furniture]: https://www.bilibili.com/video/av10407590
 [chinjufu]: https://www.mcmod.cn/class/1026.html
@@ -206,6 +214,10 @@
 ### 怎么修改后缀
 
 由于技术限制，玩家不能直接在模组服修改后缀。请前往[原版·生存服](/mc-servers/survival.md)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
+
+### 如何清除死亡地点标记
+
+首先要知道，之所以有死亡地点标记是因为的客户端有[小地图][journeymap]模组。
 
 ### 模组服会换图吗
 
