@@ -2,7 +2,7 @@
 
 欢迎来到「模组·探索服·壹周目」！服务器游戏模式为生存，添加了模组，意味着这里有除 Minecraft 原版以外的方块/生物/地形/游戏机制等。如果你厌倦了原版的各种玩法，不妨来试试模组服～服务器的模组列表可以在[这里](#mods)看到。
 
-![the_betweenlands](https://vignette.wikia.nocookie.net/the-betweenlands/images/b/bd/BLWikiBannerNew3.png ':size=150')
+![the_betweenlands](https://upload.cc/i1/2019/12/10/veDVIr.png ':size=150')
 ![pams_harvestcraft](https://upload.cc/i1/2019/12/10/08ET2F.jpg ':size=150')
 ![slashblade](https://upload.cc/i1/2019/12/10/Lfeayv.png)
 ![immersive_engineering](https://upload.cc/i1/2019/12/10/IdpC0z.png ':size=150')
