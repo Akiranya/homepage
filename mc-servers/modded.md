@@ -31,7 +31,7 @@
 
 <!-- tabs:start -->
 
-#### **选项A：完整的客户端**
+#### **选项A：完整客户端**
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/full_client" target="_blank" class="button">点击下载：完整客户端</a>
 
