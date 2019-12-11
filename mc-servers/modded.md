@@ -33,13 +33,13 @@
 
 #### **选项A：完整的客户端**
 
-<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip" target="_blank" class="button">点击下载：完整客户端</a>
+<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/full_client" target="_blank" class="button">点击下载：完整客户端</a>
 
 - 如果你手头没有`1.12.2`的客户端，请下载这个。
 
 #### **选项B：仅模组本身**
 
-<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip" target="_blank" class="button">点击下载：模组文件</a>
+<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/only_mods" target="_blank" class="button">点击下载：模组文件</a>
 
 - 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，可以只下载这个。
 - 解压然后用整个 mods 文件夹 *替换* 掉原本的整个 `./minecraft/mods` 文件夹。<span style="color: red">注意不是覆盖！</span>
