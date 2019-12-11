@@ -13,7 +13,7 @@
 ## 如何加入 :id=how-to-join
 
 !> ⚠️你的客户端必须安装好[服务端需要的所有模组](#mods)，并且版本完全吻合，才能加入模组服。  
-不过不用担心！我们已经整合了好了[现成的客户端](#client)，下载解压，即可直接食用。
+不过不用担心！我们已经整合好了[现成的客户端](#client)，下载解压，即可直接食用。
 
 然后直接加入以下服务器地址即可
 
@@ -27,17 +27,25 @@
 
 为了大家方便，我们准备了专门的模组服客户端，省去大家自己整合模组的麻烦(⁎⁍̴̛ᴗ⁍̴̛⁎)
 
-请选择下载**<span style="color: red">以下之一</span>**：
+请选择 **<span style="color: red">下载以下之一</span>**。
 
-- 选项1 下载 ***完整的* 客户端**（[点击下载][full_client]）
-  - 如果你手头没有`1.12.2`的客户端，请下载这个。
-- 选项2 下载 ***单独的* 模组列表**（[点击下载][only_mods]）
-  - 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，可以只下载这个。
-  - 解压然后用整个 mods 文件夹 *替换* 掉原本的整个 `./minecraft/mods` 文件夹。<span style="color: red">注意不是覆盖！</span>
-  - 如果你有自己在用的模组，记得先备份你的 mods 文件夹。
+<!-- tabs:start -->
 
-[full_client]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip
-[only_mods]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip
+#### **选项A：完整的客户端**
+
+<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip" target="_blank" class="button">点击下载：完整客户端</a>
+
+- 如果你手头没有`1.12.2`的客户端，请下载这个。
+
+#### **选项B：仅模组本身**
+
+<a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_%E4%BB%85%E6%A8%A1%E7%BB%84.zip" target="_blank" class="button">点击下载：模组文件</a>
+
+- 如果你已经有 Forge 版本为`14.23.5.2838`的`1.12.2`客户端，可以只下载这个。
+- 解压然后用整个 mods 文件夹 *替换* 掉原本的整个 `./minecraft/mods` 文件夹。<span style="color: red">注意不是覆盖！</span>
+- 如果你有自己在用的模组，记得先备份你的 mods 文件夹。
+
+<!-- tabs:end -->
 
 !> 模组客户端通常存在大量的 ***按键冲突***，在正式开始游戏前，请大家按照自己的习惯调整下键位设置。如果你打算完全不使用某个模组，可以考虑把其所有键位设置成"空"，也就是设置成 <kbd>Esc</kbd> 来清除键位设置。
 
@@ -55,7 +63,7 @@
 
 这次「模组服·壹周目」新增的世界为 *交错次元*。这是模组 *交错次元*（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mimaru.me/d/323)。
 
-交错次元世界预览：
+来自官方的 *交错次元* 世界预览：
 
 <iframe src="//player.bilibili.com/player.html?aid=26398730&cid=45361019&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
@@ -65,7 +73,8 @@
 
 - 服务端使用的 Minecraft Forge 版本为 `14.23.5.2838`（客户端也应当使用此版本）。
 - 这里只列出服务端安装的功能性模组，不包括前置/优化模组，也不包含客户端本地模组。
-- **点击下面的模组标题可查看教程。**教程都是精心挑选过的，希望大家能更容易上手。
+
+> <span style="color: red">点击下面的模组标题可查看对应攻略。</span>
 
 **科技元素**
 
@@ -209,9 +218,9 @@
 
 输入`/pr i`开启/关闭查询模式。用法请参照[记录查询](/plugins/logblock.md#usage)。
 
-*P.S.1 模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。*
-
-*P.S.2 开启查询模式后，<kbd>鼠标左键</kbd>容器才是查询容器的物品流动记录，这点和 co 的鼠标右键有区别。*
+> P.S.1 模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。
+>
+> P.S.2 开启查询模式后，<kbd>鼠标左键</kbd> 容器才是查询容器的物品流动记录，这点和 co 的鼠标右键有区别。
 
 ### 怎么修改后缀
 
@@ -221,7 +230,7 @@
 
 首先要知道，之所以有死亡地点标记是因为客户端安装了[小地图][journeymap]模组。
 
-清除死亡标记的方法：（默认键位设置下）按<kbd>J</kbd>打开 *大地图界面*。然后点击下方最左边的 Waypoints 按钮，即可删除你的标记。
+清除死亡标记的方法：（默认键位设置下）按 <kbd>J</kbd> 打开 *大地图界面*。然后点击下方最左边的 Waypoints 按钮，即可删除你的标记。
 
 ### 模组服会换图吗
 

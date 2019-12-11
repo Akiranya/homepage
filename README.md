@@ -4,15 +4,11 @@
 [qqgroup]: http://shang.qq.com/wpa/qunwpa?idkey=6bf79ba005ae8c932177afa1f64ac96d0e6bf7c59f8c393b0f9ef8f3f69d6f15
 [mcwiki]: https://minecraft-zh.gamepedia.com/
 [beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C
-[skin]: https://skin.mimaru.me/
 [java]: https://www.java.com/zh_CN/download/
-[client-download]: http://proxy-hk.mimaru.me/1.14.4.zip
-[group-def]: /welcome/groups.md#def
-[group-adv]: /welcome/groups.md#adv
+[faq]: /welcome/faq.md
 [server-survival]: /mc-servers/survival.md
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /mc-servers/modded.md
-[faq]: /welcome/faq.md
 
 !> **近期重大更新：**新开了「模组·探索服·壹周目」！[戳我][server-modded]了解如何加入服务器。
 
@@ -41,11 +37,11 @@
 
 **一切就绪**
 
-都准备好啦？点击 *下方链接* 查看各个服务器具体的加入方法吧 ^ ^
+都准备好啦？点击 *下方按钮* 查看各个服务器具体的加入方法吧 ^ ^
 
-- 👉[原版·生存服][server-survival]
-- 👉[原版·创造服][server-creative]
-- 👉[模组·探索服][server-modded]
+<a class="button" href="#/mc-servers/survival.md">原版·生存服</a>
+<a class="button" href="#/mc-servers/creative.md">原版·创造服</a>
+<a class="button" href="#/mc-servers/modded.md">模组·探索服</a>
 
 ## 最后
 

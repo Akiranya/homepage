@@ -1,0 +1,20 @@
+a.button {
+    background-color: #008CBA;
+    color: rgb(255, 255, 255); 
+    /* border: 2px solid #008CBA; */
+    /* border-radius: 6px; */
+    padding: 8px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+a.button:hover {
+    background-color: rgb(203, 242, 255);
+    color: #008CBA;
+}
