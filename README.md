@@ -10,7 +10,7 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /mc-servers/modded.md
 
-!> **近期重大更新：**新开了「模组·探索服·壹周目」！[戳我][server-modded]了解如何加入服务器。
+!> **近期更新：**「模组服·壹周目」已于2019年12月17日结束。圣诞节前后将开设二周目，敬请期待！
 
 !> 1.13.2 周目主世界地图存档已从[创造服][server-creative]迁回[生存服][server-survival]；原城镇数据也一同迁回。
 
