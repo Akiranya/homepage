@@ -9,7 +9,7 @@
   * [原版·生存服](mc-servers/survival.md)
   * [原版·创造服](mc-servers/creative.md)
   * [原版·游戏服](mc-servers/games.md)
-  * [模组·探索服](mc-servers/modded.md)
+  * [模组·探索服](mc-servers/modded-v2.md)
 
 * 📖插件帮助
   
@@ -23,6 +23,7 @@
   * [小功能合集](plugins/nu.md)
   * [盔甲架编辑器](plugins/ast.md)
   * [建筑师工具](plugins/bu.md)
+  * [萝卜商店](plugins/carrotshop.md)
 
 * 🎲假日活动
 
@@ -40,6 +41,5 @@
 * [在论坛插入图片](https://bbs.mimaru.me/d/46)
 * [上古梗](stories.md)
 * [捐助我们](sponsor.md)
-* [地图存档下载](saves.md)
 * [参与贡献](contribution.md)
 * [管理员手册](staff.md)

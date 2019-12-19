@@ -8,7 +8,7 @@
 [faq]: /welcome/faq.md
 [server-survival]: /mc-servers/survival.md
 [server-creative]: /mc-servers/creative.md
-[server-modded]: /mc-servers/modded.md
+[server-modded]: /mc-servers/modded-v1.md
 
 !> **近期更新：**「模组服·壹周目」已于2019年12月17日结束。圣诞节前后将开设二周目，敬请期待！
 
@@ -20,11 +20,11 @@
 
 ## 关于本站
 
-本站主要介绍「上古时代 Minecraft 服务器」的特色内容，也会穿插一点其他游戏服务器的相关信息。如果你想了解 Minecraft 本身的内容与玩法，请访问：🔗[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：🔗[菜鸟手册][beginner-guide]。
+本站主要介绍「上古时代 Minecraft 服务器」的特色内容，也会穿插一点其他游戏服务器的相关信息。如果你想了解 Minecraft 本身的内容与玩法，请访问：[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：[菜鸟手册][beginner-guide]。
 
 ## 联系我们
 
-🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | ~~🎙[TeamSpeak](welcome/teamspeak.md)~~ | 🏠[玩家城镇](https://bbs.mimaru.me/t/towns)
+🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🏠[玩家城镇](https://bbs.mimaru.me/t/towns)
 
 ## 加入服务器 :id=join-us
 
@@ -41,7 +41,7 @@
 
 <a class="button" href="#/mc-servers/survival.md">原版·生存服</a>
 <a class="button" href="#/mc-servers/creative.md">原版·创造服</a>
-<a class="button" href="#/mc-servers/modded.md">模组·探索服</a>
+<a class="button" href="#/mc-servers/modded-v2.md">模组·探索服</a>
 
 ## 最后
 
