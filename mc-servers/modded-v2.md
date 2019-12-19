@@ -54,7 +54,7 @@
 - [SlashBlade 拔刀剑][sb]
 - [Tinkers' Construct 匠魂][tc]
 - [Tinker SlashBlade 刀锻冶匠魂][tc_slashblade]（匠魂扩展 - 拔刀剑联动）
-- [Construct's Armory 匠魂兵工厂][tc_conarm]（匠魂扩展 - 支持制作盔甲）
+<!-- - [Construct's Armory 匠魂兵工厂][tc_conarm]（匠魂扩展 - 支持制作盔甲） -->
 - [Grimoire of Gaia 3 盖亚魔典3][gaia3]
 
 **装饰元素**
