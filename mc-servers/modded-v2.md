@@ -1,4 +1,4 @@
-# 模组服·贰周目
+# 模组服·魔幻·贰周目
 
 欢迎来到「模组服·贰周目」！模组服游戏模式为 *生存*，添加了模组，意味着这里有除 Minecraft 原版以外的方块/生物/地形/游戏机制等。如果你厌倦了原版的各种玩法，不妨来试试模组服～服务器的模组列表可以在[这里](#mods)看到。
 
@@ -41,51 +41,57 @@
 
 **魔幻元素**
 
-- Blood Magic 血魔法
-- Astral Sorcery 星辉魔法
-- [Corail Tombstone 墓碑][ct] `3.6.2`
+- [Blood Magic 血魔法][bm]
+- [Astral Sorcery 星辉魔法][as]
+- [Corail Tombstone 墓碑][ct]
 
 **冒险元素**
 
-- [SlashBlade 拔刀剑][sb] `mc1.12-r28`
-- Tinkers' Construct 匠魂
-- Tinker SlashBlade 刀锻冶匠魂（匠魂扩展）
-- Construct's Armory 匠魂兵工厂（匠魂扩展）
-- Grimoire of Gaia 3 盖亚魔典3
-
-**农业元素**
-
-- [Tea the Story 茶风·纪事][ts] `3.3.2-B31.815`
+- [SlashBlade 拔刀剑][sb]
+- [Tinkers' Construct 匠魂][tc]
+- [Tinker SlashBlade 刀锻冶匠魂][tc_slashblade]（匠魂扩展 - 拔刀剑联动）
+- [Construct's Armory 匠魂兵工厂][tc_conarm]（匠魂扩展 - 支持制作盔甲）
+- [Grimoire of Gaia 3 盖亚魔典3][gaia3]
 
 **装饰元素**
 
-- [MrCrayfish's Furniture 家具][furniture] `6.3.1`
+- [MrCrayfish's Furniture 家具][furniture]
 
 **实用元素**
 
-- Iron Chest 铁箱子
+- [Iron Chest 铁箱子][ironchest]
 
 **辅助**
 
-- [JourneyMap 旅行地图][journeymap] `5.5.5`
-- JustEnoughItems 物品管理器
-- [JustEnoughCalculation 合成计算器][jec] `3.2.2`
-- Waila 鼠标所指信息显示
+- [JourneyMap 旅行地图][journeymap]
+- [JustEnoughItems 物品管理器][jei]
+- [JustEnoughCalculation 合成计算器][jec]
+- [Hwyla 鼠标所指信息显示][hwyla]
 
 **其他**
 
-- Baubles 饰品
-- [BetterRecords 更好的唱片机][betterrecords] `1.6.1`
-- Realistic Terrain Generation 真实地形
+- [Baubles 饰品栏][baubles]
+- [BetterRecords 更好的唱片机][betterrecords]
+- [Realistic Terrain Generation 真实地形][rtg]
 
+[bm]: https://www.bilibili.com/video/av11364354
+[as]: https://www.bilibili.com/video/av21988235
 [journeymap]: https://www.mcbbs.net/thread-612917-1-1.html
 [furniture]: https://www.bilibili.com/video/av10407590
 [tc]: https://www.bilibili.com/video/av8317656
+[tc_slashblade]: https://www.mcbbs.net/thread-846907-1-1.html
+[tc_conarm]: https://www.bilibili.com/video/av37293887
+[gaia3]: https://www.mcbbs.net/thread-445944-1-1.html
+[ironchest]: https://www.mcbbs.net/thread-372723-1-1.html
 [betterrecords]: https://bbs.mimaru.me/d/320
 [ts]: https://www.mcmod.cn/class/557.html
 [sb]: https://www.mcmod.cn/class/366.html
 [ct]: https://www.bilibili.com/video/av55562073
+[jei]: https://www.bilibili.com/video/av7699958
 [jec]: https://www.mcbbs.net/thread-561503-1-1.html
+[baubles]: https://www.mcmod.cn/class/473.html
+[rtg]: https://www.mcmod.cn/class/635.html
+[hwyla]: https://www.mcbbs.net/thread-648893-1-1.html
 
 ----
 
@@ -97,17 +103,13 @@
 
 ## 模组服的经济
 
-*注：由于模组服的经济系统和生存服的不太一样，所以为了区分，模组服的虚拟货币叫做「次元币」。*
+*次元币* 是模组服的通用虚拟货币，可以在游戏中输入`/shops`在系统商店处出售 *金锭* 来获得。
 
-模组服有虚拟货币系统，货币单位 *次元币*。
+次元币可以用来和其他玩家交易。本周目使用的交易系统是一个叫做“萝卜商店（CarrotShop）”的 *木牌商店* 插件。每个玩家都可以在 *交易中心*（在游戏中输入`/shops`前往）开设自己的木牌商店。木牌商店支持出售/收购/交换物品。
 
-玩家可以把 *金锭* 拿在手上然后输入`/sell`把金锭换成 *次元币*，兑换比例`1金锭⇒9次元币`。反过来你也可以从系统购买金锭，指令`/buy [要购买的金锭数量]`，兑换比例`18次元币⇒1金锭`。系统商店无限交易，交易价格永远不变。
+<a href="#/plugins/carrotshop.md" target="_blank" class="button">萝卜商店使用教程</a>
 
-<font color="red">注：这里的次元币和人民币没有任何关联。</font>
-
-次元币可以用来和其他玩家交易，例如购买 *天喵商城* 里的商品。玩家输入`/gts`即可浏览天喵商城；如果你想把自己的东西放到天喵商城出售，输入`/gts sell`然后按照提示操作即可。
-
-关于次元币 & 天喵商城的所有指令，请查看👉[常用指令·模组探索服](/welcome/commands-modded-v1.md)
+关于次元币的指令，请查看👉[常用指令·模组探索服](/welcome/commands-modded.md)
 
 ----
 
@@ -149,10 +151,6 @@
 ### 怎么锁箱子/圈领地
 
 模组服没有锁箱插件/领地插件。
-
-### 为什么不用城镇插件 Towny
-
-模组服的服务端（[Sponge](https://www.spongepowered.org/)）目前没有可用的 Towny 和类似 Towny 的城镇插件。
 
 ### 怎么用记录查询
 
