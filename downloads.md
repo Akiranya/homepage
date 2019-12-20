@@ -14,13 +14,13 @@
 
 #### **第二周目**
 
-!> 本客户端适用于[模组服·贰周目](mc-servers/modded-v2.md)。使用该整合包可以直接进入贰周目服务器游玩。
+本客户端适用于[模组服·贰周目](mc-servers/modded-v2.md)。使用该整合包可以直接进入贰周目服务器游玩。
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v3.zip" target="_blank" class="button">点击下载：完整客户端</a>
 
 #### **第一周目**
 
-!> 本客户端适用于[模组服·壹周目](/mc-servers/modded-v1.md)。使用该整合包可以直接进入壹周目服务器游玩。
+本客户端适用于[模组服·壹周目](/mc-servers/modded-v1.md)。使用该整合包可以直接进入壹周目服务器游玩。
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip" target="_blank" class="button">点击下载：完整客户端</a>
 
@@ -32,7 +32,7 @@
 
 #### **版本 1.14.4**
 
-!> 该整合包由 @Mengmeng 提供。
+该整合包由 @Mengmeng 提供。
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.14.4_vanilla.zip" target="_blank" class="button">点击下载：完整客户端</a>
 
