@@ -33,9 +33,9 @@
 
 *除了游戏原版自带的三个世界外，其他的额外世界全部由当前周目安装的模组本身决定。这里没有资源世界。*
 
-本周目「主世界」生物群系分布图：
+附本周目「主世界」生物群系分布图：
 
-![overworld-preview](https://upload.cc/i1/2019/12/19/c40lmK.png ':size=450')
+![overworld-preview](https://upload.cc/i1/2019/12/19/c40lmK.png ':size=250')
 
 ----
 
