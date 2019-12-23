@@ -2,10 +2,10 @@
 
 欢迎来到「模组服·贰周目」！模组服游戏模式为 *生存*，添加了模组，意味着这里有除 Minecraft 原版以外的方块/生物/地形/游戏机制等。如果你厌倦了原版的各种玩法，不妨来试试模组服～服务器的模组列表可以在[这里](#mods)看到。
 
-![s1](https://upload.cc/i1/2019/12/21/LcZWat.png ':size=180')
-![s1](https://upload.cc/i1/2019/12/21/gtlFyo.png ':size=180')
-![s1](https://upload.cc/i1/2019/12/21/FSOpLk.png ':size=180')
-![s1](https://upload.cc/i1/2019/12/21/xH7gYb.png ':size=180')
+![s1](https://upload.cc/i1/2019/12/21/LcZWat.png ':size=380')
+![s1](https://upload.cc/i1/2019/12/21/gtlFyo.png ':size=380')
+![s1](https://upload.cc/i1/2019/12/21/FSOpLk.png ':size=380')
+![s1](https://upload.cc/i1/2019/12/21/xH7gYb.png ':size=380')
 
 ----
 
@@ -127,6 +127,16 @@
 游戏里输入`/shops`前往 *贸易市场*。「贸易市场」是一片专门用于开设店铺的区域。玩家可以在这里开设自己的店铺，在这里与其他玩家做交易。店铺支持三种交易模式 - 出售/收购/物物交换。
 
 <a href="#/plugins/carrotshop.md" target="_blank" class="button">使用/创建店铺指南</a>
+
+----
+
+## 真实地形
+
+本周目采用了真实地形模组。主世界地貌预览：
+
+*图片来自 [mcmod][rtg]*
+
+![rtg](https://bbs.mcmod.cn/data/attachment/album/201704/25/172612s9u999z78d7gk85z.gif)
 
 ----
 
