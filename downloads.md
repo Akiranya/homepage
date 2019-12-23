@@ -18,7 +18,7 @@
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v3.zip" target="_blank" class="button">点击下载：完整客户端</a>
 
-下面是一些增加视觉/听觉效果的可选模组
+下面是一些增加视觉/听觉效果的可选模组（由 @SakuraNiruiyue 提供）
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/%E6%A8%A1%E7%BB%84%E6%9C%8D%E4%BA%8C%E5%91%A8%E7%9B%AE%E5%8F%AF%E7%94%A8%E6%A8%A1%E7%BB%84.zip" target="_blank" class="button">点击下载：可选模组</a>
 
