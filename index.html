@@ -9,18 +9,18 @@
   <meta name="description" content="上古时代 Minecraft 服务器主页">
   <meta name="keywords" content="minecraft,anciage,上古时代,知识库,正版,公益">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/themes/vue.css">
   <link rel="stylesheet" href="assets/stylesheets/button.css">
 </head>
 
 <body>
   <div id="app">Loading...</div>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/docsify.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify-edit-on-github/index.js"></script> -->
   <script>
-    var docBase = 'https://github.com/Akiranya/homepage/blob/master/';
-    var docEditBase = 'https://github.com/Akiranya/homepage/edit/master/';
-    var title = "在 GitHub 上编辑";
+    // var docBase = 'https://github.com/Akiranya/homepage/blob/master/';
+    // var docEditBase = 'https://github.com/Akiranya/homepage/edit/master/';
+    // var title = "在 GitHub 上编辑";
     window.$docsify = {
       name: '上古时代',
       // basePath: 'https://raw.githubusercontent.com/Akiranya/homepage/master/',
@@ -49,16 +49,17 @@
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
         '/modded-server': '/mc-servers/modded-v2.md'
-      },
-      plugins: [
-        EditOnGithubPlugin.create(
-          docBase, docEditBase, title
-        ),
-      ]
+      }
+      // },
+      // plugins: [
+        // EditOnGithubPlugin.create(
+          // docBase, docEditBase, title
+        // ),
+      // ]
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 
