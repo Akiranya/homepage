@@ -10,7 +10,7 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /mc-servers/modded-v2.md
 
-!> **近期更新：**「模组服·壹周目」已经开放！[点击查看][server-modded]新周目详情。
+!> **近期更新：**「模组服·二周目·魔幻」已经开放！[点击查看][server-modded]新周目详情。
 
 !> 1.13.2 周目主世界地图存档已从[创造服][server-creative]迁回[生存服][server-survival]；原城镇数据也一同迁回。
 
