@@ -8,9 +8,9 @@
 [faq]: /welcome/faq.md
 [server-survival]: /mc-servers/survival.md
 [server-creative]: /mc-servers/creative.md
-[server-modded]: /mc-servers/modded-v1.md
+[server-modded]: /mc-servers/modded-v2.md
 
-!> **近期更新：**「模组服·壹周目」已于2019年12月17日结束。圣诞节前后将开设二周目，敬请期待！
+!> **近期更新：**「模组服·壹周目」已经开放！[点击查看][server-modded]新周目详情。
 
 !> 1.13.2 周目主世界地图存档已从[创造服][server-creative]迁回[生存服][server-survival]；原城镇数据也一同迁回。
 
