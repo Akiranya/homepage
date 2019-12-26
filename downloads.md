@@ -26,7 +26,7 @@
 
 ----
 
-12月27日模组更新：添加了「快速贮存」
+12月27日模组更新：添加了「[快速贮存](https://www.mcbbs.net/thread-874820-1-1.html)」
 
 <a href="https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/assets/%E5%BF%AB%E9%80%9F%E8%B4%AE%E5%AD%98-1.4.jar" target="_blank" class="button">点击下载：快速贮存模组</a>
 
