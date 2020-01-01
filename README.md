@@ -10,9 +10,7 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /modded-server
 
-!> **近期更新：**「模组服·二周目·魔幻」已经开放！[点击查看][server-modded]新周目详情。
-
-!> 1.13.2 周目主世界地图存档已从[创造服][server-creative]迁回[生存服][server-survival]；原城镇数据也一同迁回。
+!> **近期更新：**「探索模组服·二周目·魔幻」已经开放，欢迎一起来玩～[点击加入][server-modded]。
 
 # 上古时代 :id=get-started
 
