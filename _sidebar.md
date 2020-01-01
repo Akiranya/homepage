@@ -1,17 +1,18 @@
-* 🎉欢迎 ^ ^
+* 🎉欢迎 ( ´ ▽ ` )ﾉ
 
   * [游戏规则](welcome/rules.md)
-  * [常用指令](welcome/commands-facade.md)
+  * [常用指令](welcome/commands.md)
   * [常见问题](welcome/faq.md)
+  * [插件帮助](welcome/plugins.md)
   * [权限组](welcome/groups.md)
 
 * 🎮服务器列表 & 帮助
-  * [原版·生存服](mc-servers/survival.md)
-  * [原版·创造服](mc-servers/creative.md)
-  * [原版·游戏服](mc-servers/games.md)
-  * [模组·探索服](mc-servers/modded-v2.md)
+  * [城镇生存服](mc-servers/survival.md)
+  * [自由创造服](mc-servers/creative.md)
+  * [探索模组服🔥](mc-servers/modded-v2.md)
+  * [休闲游戏服](mc-servers/games.md)
 
-* 📖插件帮助
+<!-- * 📖插件帮助
   
   * [城镇](plugins/towny.md)
   * [机械](plugins/craftbook.md)
@@ -23,9 +24,9 @@
   * [小功能合集](plugins/nu.md)
   * [盔甲架编辑器](plugins/ast.md)
   * [建筑师工具](plugins/bu.md)
-  * [萝卜商店](plugins/carrotshop.md)
+  * [萝卜商店](plugins/carrotshop.md) -->
 
-* 🎲假日活动
+* 🎲假日活动介绍
 
   * [建筑比赛](games/build.md)
   * [彩蛋射击](games/pb.md)

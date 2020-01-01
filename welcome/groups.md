@@ -116,7 +116,7 @@
 
 ----
 
-## 前缀优先级·Priority :id=priority
+## 前缀优先级·Priority {docsify-ignore} :id=priority
 
 玩家可以拥有多个权限组，但只会显示优先级最高的前缀。
 
