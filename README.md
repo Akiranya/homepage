@@ -39,9 +39,9 @@
 
 都准备好啦？点击 *下方按钮* 查看各个服务器具体的加入方法吧 ^ ^
 
-<a class="button" href="#/mc-servers/survival.md">原版·生存服</a>
-<a class="button" href="#/mc-servers/creative.md">原版·创造服</a>
-<a class="button" href="#/modded-server">模组·探索服</a>
+<a class="button" href="#/mc-servers/survival.md">城镇生存服</a>
+<a class="button" href="#/mc-servers/creative.md">自由创造服</a>
+<a class="button" href="#/modded-server">探索模组服</a>
 
 ### 最后
 
