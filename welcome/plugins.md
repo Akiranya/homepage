@@ -17,9 +17,9 @@
 ----
 
 * **自由创造服**（[查看服务器介绍](/mc-servers/creative.md)）
-  * [机械](/plugins/craftbook.md) - 让玩家可以建造可以快速上下穿梭的电梯，以及自动城门等高级机械。
-  * [聊天拓展](/plugins/chatutil.md) - 让聊天内容更加丰富，添加了`&`颜色代码、屏蔽功能、频道功能。
-  * [记录查询](/plugins/logblock.md) - 记录世界里发生的一举一动，必要时可追溯日志，也可用于回档方块/物品/生物。
+  * [机械](/plugins/craftbook.md) - 相同插件，见上（城镇生存服）。
+  * [聊天拓展](/plugins/chatutil.md) - 相同插件，见上（城镇生存服）。
+  * [记录查询](/plugins/logblock.md) - 相同插件，见上（城镇生存服）。
   * [盔甲架编辑器](/plugins/ast.md) - 让你可以高度客制化盔甲架，例如调整四肢的方向，改变盔甲架尺寸等。
   * [建筑师工具](/plugins/bu.md) - 提供了一些方便建筑师创作的小功能。
   * [WorldEdit](http://mineplugin.org/WorldEdit) - 让玩家可以快速建造/修改方块，提高创作效率。
