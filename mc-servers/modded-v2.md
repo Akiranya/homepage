@@ -98,7 +98,7 @@
 
 ## 指令帮助 :id=plugins
 
-👉[常用指令·点击查看](/welcome/commands.md#modded)
+👉[常用指令·点击查看](/welcome/commands.md)
 
 ## 经济系统 :id=eco
 

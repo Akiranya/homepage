@@ -33,7 +33,7 @@
 
 ## 指令帮助
 
-👉[常用指令·点击查看](/welcome/commands.md#creative)
+👉[常用指令·点击查看](/welcome/commands.md)
 
 ## 世界列表 :id=worlds
 
