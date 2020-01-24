@@ -13,19 +13,19 @@
 
 1、把箱子放在你想开店的地方。箱子可以是单箱子，也可以是大箱子。
 
-![shopkeppers-step1](../assets/images/plugins/shopkeepers-step1.jpg ':size=400')
+![shopkeppers-step1](../assets/images/plugins/shopkeepers-step1.jpg ':size=300')
 
 2、准心对着刚刚放下的箱子，然后输入`/shopkeepers trade sign`。
 
-![shopkeepers-step2](../assets/images/plugins/shopkeepers-step2.jpg ':size=400')
+![shopkeepers-step2](../assets/images/plugins/shopkeepers-step2.jpg ':size=300')
 
 3、把你要交易的物品放到箱子里。
 
-![shopkeepers-step3](../assets/images/plugins/shopkeepers-step3.jpg ':size=400')
+![shopkeepers-step3](../assets/images/plugins/shopkeepers-step3.jpg ':size=300')
 
 4、按住 <kbd>潜行键</kbd>（默认 <kbd>Shift</kbd>）后 <kbd>右键</kbd>    点击商店木牌来打开「商店编辑器」，如下图。
 
-![shopkeepers-step4](../assets/images/plugins/shopkeepers-step4.jpg ':size=400')
+![shopkeepers-step4](../assets/images/plugins/shopkeepers-step4.jpg ':size=300')
 
 商店编辑器是个特殊的箱子界面。你会看到刚刚放进去的青金石出现在第一行的第一个槽位里。在这个界面里，第一行的所有槽位代表的是「你需要给其他玩家的物品」，也称作「结果物品」。青金石正下方有两个槽位，都代表「其他玩家需要给你的物品」，也叫做「花费物品」。每一列代表的是一个村民交易公式；单个页面可以创建9个交易公式。通过翻页*（点击商店编辑器里的书与笔）*玩家最多可以在单个商店里设置45个交易公式。
 
@@ -35,11 +35,11 @@
 
 |1|2|3|
 |:-:|:-:|:-:|
-|![shopkeepers-step5](../assets/images/plugins/shopkeepers-step5.jpg ':size=250')|![shopkeepers-step6](../assets/images/plugins/shopkeepers-step6.jpg ':size=250')|![shopkeepers-step7](../assets/images/plugins/shopkeepers-step7.jpg ':size=250')|
+|![shopkeepers-step5](../assets/images/plugins/shopkeepers-step5.jpg ':size=200')|![shopkeepers-step6](../assets/images/plugins/shopkeepers-step6.jpg ':size=200')|![shopkeepers-step7](../assets/images/plugins/shopkeepers-step7.jpg ':size=200')|
 
 5、设置好商店后，关掉商店编辑器界面即可保存。你可以通过 <kbd>右键点击</kbd> 商店木牌来预览交易公式是否正确。
 
-![shopkeepers-step8](../assets/images/plugins/shopkeepers-step8.jpg ':size=400')
+![shopkeepers-step8](../assets/images/plugins/shopkeepers-step8.jpg ':size=300')
 
 6、要删除你的村民商店，点击商店编辑器里的骨头即可。注意此操作不可撤销，谨慎使用！
 
