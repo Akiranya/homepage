@@ -1,4 +1,4 @@
-# 上古时代 Minecraft <small>七年历史</small> :id=cover
+# 上古时代 Minecraft <small>八周年</small> :id=cover
 
 - 简单、可靠；正版、公益
 - 寒暑假举行大型在线活动
