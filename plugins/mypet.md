@@ -28,6 +28,7 @@
 
 | 生物种类   | Face                         | 食物           | 捕获条件   |
 | ---------- | ---------------------------- | -------------- | ---------- |
+| 蜜蜂       | ![蜜蜂][bee]                 | 绝大部分染料   | ≤ 10% HP   |
 | 蝙蝠       | ![蝙蝠][bat]                 | 蜘蛛眼         | ≤ 10% HP   |
 | 烈焰人     | ![烈焰人][blaze]             | 火药           | ≤ 10% HP   |
 | 洞穴蜘蛛   | ![洞穴蜘蛛][cavespider]      | 腐肉           | ≤ 10% HP   |
@@ -93,6 +94,7 @@
 <!-- Passive mobs -->
 
 <!-- Peaceful -->
+[bee]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ed/BeeFace.png ':size=32'
 [bat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2d/BatFace.png ':size=32'
 [cat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a2/CatFace.png ':size=32'
 [chicken]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/53/ChickenFace.png ':size=32'
