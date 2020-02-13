@@ -14,7 +14,7 @@
 
 # 上古时代 :id=get-started
 
-![2020跨年烟火晚会](https://upload.cc/i1/2020/01/01/noiOP0.jpg)
+![2020跨年烟火晚会](/assets/images/2020_fireworks.jpg)
 
 「上古时代」是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。欢迎一切志同道合的小伙伴加入我们一起来玩！
 
