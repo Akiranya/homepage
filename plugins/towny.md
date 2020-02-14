@@ -124,6 +124,8 @@
 | 良民  |   Good    | 拥有城镇内所有私人领地的所有权限 |
 | 助理  | Assistant | 可以邀请其他玩家加入城镇         |
 
+例如想设置一名叫做 Nailm 的玩家为助理，则输入 `/town rank add Nailm assistant`。想取消掉则输入 `/town rank remove Nailm assistant`。
+
 **国家内部的居民等级**
 
 同样「国王」可以设置国家内居民的等级。指令如下

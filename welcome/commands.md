@@ -70,6 +70,10 @@
 - `/nu show` 展示手中的物品
 - `/nu suffix` 修改自己在聊天框中的后缀
 
+#### 城镇
+
+- 详见[城镇](/plugins/towny.md)
+
 #### 宠物
 
 - 详见[宠物·指令](/plugins/mypet.md#cmds)
