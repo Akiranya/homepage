@@ -1,6 +1,6 @@
-# 城镇生存服·拾肆周目
+# 城镇生存服·第十四周目
 
-?> 生存服是一个以冒险与探索、收集与建造为主题的服务器。建设并经营自己的[城镇](/plugins/towny.md)也是这里的主要玩法之一。这里不会严格限制动物/怪物的数量，也不打破原版生存的游戏机制和基本玩法，刷怪塔和大型红石机器在这里皆允许建造。为了完善联机体验，我们添加了一些简单又实用的插件，详见[插件列表](/welcome/plugins.md)。
+?> 生存服是一个以冒险与探索、收集与建造为主题的服务器。建设并经营自己的[城镇](/plugins/towny.md)是这里的主要玩法之一。这里不打破原版生存的游戏机制和基本玩法，刷怪塔和大型红石机器在这里皆允许建造。为了完善联机体验，我们添加了一些简单实用的插件，详见[插件列表](/welcome/plugins.md)。
 
 ![ruin](../assets/images/townsgallery/ruin.jpg ':size=250')
 ![cover-yukumo](../assets/images/cover-yukumo-fixed.jpg ':size=250')
@@ -13,6 +13,12 @@
 ![purple_fox-1](../assets/images/townsgallery/purple-fox-1.jpg ':size=250')
 
 *以上截图来自 主世界（版本 1.12）的玩家城镇。该世界现已迁移至[创造服](/mc-servers/creative.md)。*
+
+## 长期不换图
+
+城镇生存服的每个主世界地图都会至少保持在线`2`年。大家可以在这里大胆搞基建，不用当心服务器突然换图～
+
+具体的换图策略[请看这里](/welcome/faq.md#save-policy)。
 
 ## 开放时间
 
