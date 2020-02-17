@@ -4,10 +4,10 @@
 
 ?> 如果原版玩腻了不妨来试试模组服～模组服的完整模组列表可以在[这里](#mods)看到。
 
-![s1](https://upload.cc/i1/2019/12/21/LcZWat.png ':size=380')
-![s1](https://upload.cc/i1/2019/12/21/gtlFyo.png ':size=380')
-![s1](https://upload.cc/i1/2019/12/21/FSOpLk.png ':size=380')
-![s1](https://upload.cc/i1/2019/12/21/xH7gYb.png ':size=380')
+![s1](/assets/images/servers/preview-bloodmagic.jpg ':size=380')
+![s1](/assets/images/servers/preview-as.jpg ':size=380')
+![s1](/assets/images/servers/preview-gaia.jpg ':size=380')
+![s1](/assets/images/servers/preview-tinker.jpg ':size=380')
 
 ## 开放时间
 
@@ -28,10 +28,6 @@
 ## 世界列表
 
 *除了游戏原版自带的三个世界外，其他的额外世界全部由当前周目安装的模组本身决定。这里没有资源世界。*
-
-附本周目「主世界」生物群系分布图：
-
-![overworld-preview](https://upload.cc/i1/2019/12/19/c40lmK.png ':size=250')
 
 ## 模组列表 & 攻略 :id=mods
 
@@ -128,12 +124,6 @@
 ![rtg](https://bbs.mcmod.cn/data/attachment/album/201704/25/172612s9u999z78d7gk85z.gif)
 
 ## 更有趣的死亡
-
-![grave1](https://upload.cc/i1/2019/12/11/pm9uxo.jpg ':size=150')
-![grave5](https://upload.cc/i1/2019/12/11/2TFicH.jpg ':size=150')
-![grave2](https://upload.cc/i1/2019/12/11/KGbLa6.png ':size=150')
-![grave3](https://upload.cc/i1/2019/12/11/koWi8J.jpg ':size=150')
-![grave4](https://upload.cc/i1/2019/12/11/NSZmT5.jpg ':size=150')
 
 墓碑模组让玩家死后会在原地产生一个「墓碑」。墓碑会自动收纳半径`5`格范围内的掉落物品。玩家可以使用一把叫做 *坟墓的钥匙* 的钥匙来右键墓碑，取回TA的遗物。注：*坟墓的钥匙* 在玩家死后与TA的墓碑同时产生。死后的玩家会暂时变成幽灵形态。幽灵形态下的玩家不会被怪物主动攻击，并且有减伤效果。但如果玩家主动攻击了怪物，则幽灵形态立马消失。
 

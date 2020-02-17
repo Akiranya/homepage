@@ -64,9 +64,6 @@
 
 上古管理组在这里预祝大家发挥实力建造出优秀作品！
 
-![第六届参赛选手][6th-online-players]
-
 [crafter]: /welcome/groups.md#crafter "工匠"
 [designer]: /welcome/groups.md#designer "设计师"
 [architect]: /welcome/groups.md#arch "建筑师"
-[6th-online-players]: https://upload.cc/i1/2019/02/15/T43CYS.jpg
