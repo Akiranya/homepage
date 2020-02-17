@@ -4,10 +4,10 @@
 
 ?> 如果原版玩腻了不妨来试试模组服～模组服的完整模组列表可以在[这里](#mods)看到。
 
-![s1](/assets/images/servers/preview-bloodmagic.jpg ':size=380')
-![s1](/assets/images/servers/preview-as.jpg ':size=380')
-![s1](/assets/images/servers/preview-gaia.jpg ':size=380')
-![s1](/assets/images/servers/preview-tinker.jpg ':size=380')
+![s1](../assets/images/servers/preview-bloodmagic.jpg ':size=380')
+![s1](../assets/images/servers/preview-as.jpg ':size=380')
+![s1](../assets/images/servers/preview-gaia.jpg ':size=380')
+![s1](../assets/images/servers/preview-tinker.jpg ':size=380')
 
 ## 开放时间
 
