@@ -123,7 +123,7 @@ a) 了解[软妹币如何产生](#how-ruanmeibi-is-generated)）；b) 与其他�
 
 ### 死亡掉落的设定 :id=death-dropping-policy
 
-死亡不会掉落任何经验和物品。
+在主世界（版本1.14）死亡不会掉落任何经验和物品。
 
 ### 怎么圈地 :id=land-claiming
 
