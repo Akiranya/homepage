@@ -2,7 +2,7 @@
 [server-creative]: /mc-servers/creative.md
 [worlds-of-survival]: /mc-servers/survival.md#home
 
-# 权限组
+# 权限组 {docsify-ignore-all}
 
 * 上古服的每个玩家都至少属于一个权限组。
 * 一个玩家可以同时属于多个权限组。
@@ -14,7 +14,7 @@
 
 > 要寻找相关指令，请参考左侧边栏中的[常用指令](/welcome/commands.md)和[插件帮助](/welcome/plugins.md)。还有请善用左上角的搜索功能。
 
-## 所有权限组 {docsify-ignore}
+## 所有权限组
 
 <!-- tabs:start -->
 
@@ -102,7 +102,7 @@
 
 <!-- tabs:end -->
 
-## 前缀优先级 {docsify-ignore} :id=priority
+## 前缀优先级 :id=priority
 
 玩家可以拥有多个权限组，但只会显示优先级最高的前缀。
 
