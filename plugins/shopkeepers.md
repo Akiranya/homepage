@@ -46,7 +46,7 @@
 
 ![shopkeepers-step3](../assets/images/plugins/shopkeepers-step3.jpg ':size=300')
 
-**4、按住 <kbd>潜行键</kbd>（默认 <kbd>Shift</kbd>）后 <kbd>右键点击</kbd> 刚才生成的村民打开「商店编辑器」，如下图。**
+**4、按住 <kbd>潜行键</kbd>（默认 <kbd>Shift</kbd>）后 <kbd>右键点击</kbd> 刚才生成的村民（或木牌）打开「商店编辑器」，如下图。**
 
 ![shopkeepers-step4](../assets/images/plugins/shopkeepers-step4.jpg ':size=300')
 
