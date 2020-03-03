@@ -101,7 +101,7 @@ P.s. *版本* 代表当时生成世界所使用的 Minecraft 版本。这决定�
 
 ### 软妹币是怎么来的 :id=how-ruanmeibi-is-generated
 
-这里只说明软妹币如何从“零” *产生*，不包括玩家间的交易。
+这里只说明软妹币如何从"零" *产生*，不包括玩家间的交易。
 
 当游戏刚开始时，游戏内的软妹币总和为零。随着玩家的各种活动，越来越多的软妹币陆续被产生。以下是软妹币产生的所有途径：
 
@@ -162,5 +162,5 @@ a) 了解[软妹币如何产生](#how-ruanmeibi-is-generated)（直接简单）�
 
 城镇生存服已修复下列 *漏洞*。这意味着使用这些漏洞不会有任何效果：
 
-- [0-tick 农作物瞬间生长](https://bugs.mojang.com/browse/MC-113809)
-- [重力方块复制物品](https://minecraft.gamepedia.com/Tutorials/Block_and_item_duplication)
+- 0-tick 农作物瞬间生长 ([详情](https://bugs.mojang.com/browse/MC-113809))
+- 重力方块复制物品 ([详情](https://minecraft.gamepedia.com/Tutorials/Block_and_item_duplication))
