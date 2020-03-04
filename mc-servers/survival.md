@@ -158,9 +158,9 @@ a) 了解[软妹币如何产生](#how-ruanmeibi-is-generated)（直接简单）�
 
 ## 已修复的漏洞
 
-?> 上古服没有规定说「玩家不能使用 **Minecraft 原版本身** 的漏洞」，这意味着「如果这是一个 Minecraft 原版就存在的漏洞，那么玩家是允许利用这个漏洞并且不会受到来自服务器管理员的惩罚」。
-
 城镇生存服已修复下列 *漏洞*。这意味着使用这些漏洞不会有任何效果：
 
 - 0-tick 农作物瞬间生长 ([详情](https://bugs.mojang.com/browse/MC-113809))
 - 重力方块复制物品 ([详情](https://minecraft.gamepedia.com/Tutorials/Block_and_item_duplication))
+
+对于没有修复的 *游戏原版漏洞*（即 Minecraft 单机纯净版就存在的漏洞），玩家可以自由利用。
