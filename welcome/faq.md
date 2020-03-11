@@ -36,7 +36,7 @@
 原则上服务器会分别在 *寒暑假* 各进行一次 *大更新*，包括但不限于：
 
 - 大版本更新，例如从 MC 1.13.x 升级到 1.14.x
-- 更新生存服的主世界地图（参考[服务器的换图策略](#服务器的换图策略)）
+- 更新生存服的主世界地图（参考[服务器的换图策略](#save-policy)）
 - 实现之前玩家提出的各种建议，例如新插件、新规则等
 - 举行各种小游戏与活动（附带奖励机制）
 
@@ -93,7 +93,7 @@
 
 ## 所使用的服务端 :id=server-software
 
-*原版服* 使用的是 [Paper](https://paper.readthedocs.io/en/stable/)，*模组服* 为 [Sponge](https://www.spongepowered.org/)。
+`原版服`<sub>（指[城镇生存服](../mc-servers/survival.md)和[自由创造服](../mc-servers/creative.md)）</sub>使用的是 [Paper](https://paper.readthedocs.io/en/stable/)，`模组服`使用的是 [Sponge](https://www.spongepowered.org/)。
 
 [paper-logo]: https://paper.readthedocs.io/en/stable/_images/papermc_logomark_500.png ':class=img-16'
 [sponge-logo]: https://www.spongepowered.org/assets/img/icons/spongie-mark-dark.svg ':class=img-16'
