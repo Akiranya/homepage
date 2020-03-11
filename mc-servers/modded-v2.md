@@ -123,7 +123,8 @@
 
 游戏里输入`/shops`前往 *贸易市场*。「贸易市场」是一片专门用于开设店铺的区域。玩家可以在这里开设自己的店铺，在这里与其他玩家做交易。店铺支持三种交易模式 - 出售 / 收购 / 物物交换。
 
-<a href="#/plugins/carrotshop.md" target="_blank" class="button">使用/创建店铺指南</a>
+<a href="#/plugins/carrotshop.md" target=
+"_blank" class="button">使用/创建店铺指南</a>
 
 ## 更真实的地形
 
