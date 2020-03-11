@@ -23,9 +23,9 @@
 |  可选模组  | [模组服·二周目](/mc-servers/modded-v2.md) | [阿里云OSS][二周目可选模组] |
 | 完整客户端 | [模组服·一周目](/mc-servers/modded-v1.md) |  [阿里云OSS][一周目客户端]  |
 
-[一周目客户端]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.zip
-[二周目客户端]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v3.zip
-[二周目可选模组]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/%E6%A8%A1%E7%BB%84%E6%9C%8D%E4%BA%8C%E5%91%A8%E7%9B%AE%E5%8F%AF%E7%94%A8%E6%A8%A1%E7%BB%84.zip
+[一周目客户端]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v1.2.zip
+[二周目客户端]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.3.zip
+[二周目可选模组]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_optional_mods.zip
 
 <!-- div:right-panel -->
 
