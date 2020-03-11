@@ -32,5 +32,5 @@
 
 ## 截图
 
-![使用盔甲架编辑器制作的史蒂夫们](../assets/images/plugins/ast-showcase-2.jpg ':size=350')
-![盔甲架编辑器的编辑界面](../assets/images/plugins/ast-showcase-1.jpg ':size=350')
+![使用盔甲架编辑器制作的史蒂夫们](../assets/images/plugins/ast-showcase-2.jpg ':class=img-small')
+![盔甲架编辑器的编辑界面](../assets/images/plugins/ast-showcase-1.jpg ':class=img-small')

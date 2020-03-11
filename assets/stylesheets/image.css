@@ -1,0 +1,30 @@
+.img-small {
+    border-radius: 4px;
+    width: 15em;
+}
+
+.img-center {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-16 {
+    width: 16px;
+}
+
+.img-24 {
+    width: 24px;
+}
+
+.img-32 {
+    width: 32px;
+}
+
+.img-64 {
+    width: 32px;
+}
+
+.img-uni {
+    width: 20em;
+}

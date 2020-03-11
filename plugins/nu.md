@@ -19,12 +19,12 @@
 ### 指令
 
 - `/nu mailbox info` 查看 *邮寄费用* 和 *邮箱坐标*
-- `/nu mailbox create` 然后 <kbd>鼠标右键</kbd> 箱子来设置自己的邮箱
+- `/nu mailbox create` 然后<kbd>鼠标右键</kbd>箱子来设置自己的邮箱
 - `/nu mailbox send 玩家名` 将 *手中* 的物品发送到指定玩家的邮箱
-- `/nu mailbox sendchest 玩家名` 然后 <kbd>鼠标右键</kbd> 箱子把 *一整箱* 的东西发送到指定玩家的邮箱
+- `/nu mailbox sendchest 玩家名` 然后<kbd>鼠标右键</kbd>箱子把 *一整箱* 的东西发送到指定玩家的邮箱
 - `/nu mailbox remove`移除自己的邮箱（或者直接拆掉邮箱的箱子）
 
-!> 其他玩家可以拆掉自己的邮箱，因此请务必把自己的邮箱锁好（拿着木牌 <kbd>鼠标右键</kbd> 箱子即可上锁）。
+!> 其他玩家可以拆掉自己的邮箱，因此请务必把自己的邮箱锁好（拿着木牌<kbd>鼠标右键</kbd>箱子即可上锁）。
 
 ## 物品改名 :id=rename
 

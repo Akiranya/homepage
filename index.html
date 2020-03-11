@@ -8,27 +8,35 @@
   <link rel="icon" href="assets/images/favicon.ico">
   <meta name="description" content="上古时代 Minecraft 服务器主页">
   <meta name="keywords" content="minecraft,anciage,上古时代,知识库,正版,公益">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/stylesheets/toc.css">
   <link rel="stylesheet" href="assets/stylesheets/button.css">
+  <link rel="stylesheet" href="assets/stylesheets/image.css">
+  <style>
+    :root {
+      --link-text-decoration: ;
+      --link-text-decoration--hover: underline;
+      --link-color: rgb(65, 155, 255);
+      --docsify-example-panels-left-panel-width: 50%;
+      --docsify-example-panels-right-panel-width: 50%;
+    }
+  </style>
 </head>
 
 <body>
   <div id="app">Loading...</div>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <!-- <script src="//unpkg.com/docsify-edit-on-github/index.js"></script> -->
   <script>
-    // var docBase = 'https://github.com/Akiranya/homepage/blob/master/';
-    // var docEditBase = 'https://github.com/Akiranya/homepage/edit/master/';
-    // var title = "在 GitHub 上编辑";
     window.$docsify = {
       name: '上古时代',
-      // basePath: 'https://raw.githubusercontent.com/Akiranya/homepage/master/',
       coverpage: true,
       onlyCover: true,
       loadNavbar: true,
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 1,
       auto2top: true,
       relativePath: false,
       namespace: 'anciageHomepage',
@@ -48,19 +56,61 @@
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
-        '/modded-server': '/mc-servers/modded-v2.md'
+        '/modded-server': '/mc-servers/modded-v2.md',
+      },
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h2',
+        title: '目录',
+      },
+      flexibleAlerts: {
+        style: 'callout',
+        labelVisibility: true,
+        iconVisibility: true,
+        note: {
+          label: '注解',
+          icon: "fas fa-comment",
+          className: "info",
+        },
+        tip: {
+          label: '小提示',
+          icon: "fas fa-heart",
+          className: "tip",
+        },
+        warning: {
+          label: '请注意',
+          icon: "fas fa-exclamation-triangle",
+          className: "warning",
+        },
+        danger: {
+          label: '小心！',
+          className: "danger",
+        },
+      },
+      copyCode: {
+        buttonText: '复制到剪切板',
+        errorText: '错误',
+        successText: '已复制到剪切板'
+      },
+      footer: {
+        copy: '<span>上古时代 Minecraft &copy; 2020</span>',
+        auth: 'by 可爱的大家',
+        pre: '<hr/>',
+        style: 'text-align: right;',
+        style: 'className'
       }
-      // },
-      // plugins: [
-        // EditOnGithubPlugin.create(
-          // docBase, docEditBase, title
-        // ),
-      // ]
     }
   </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+  <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
+  <script src="//unpkg.com/docsify-copy-code@2"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 
 </html>

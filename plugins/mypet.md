@@ -1,12 +1,13 @@
 # 宠物
 
-?> ![宠物](https://mypet-plugin.de/img/logo_100.png ':size=24') 宠物插件可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当你的移动背包，甚至是移动信标👻。部分宠物还可以当成🐎来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
+> [!note|label:宠物系统]
+> ![宠物系统](https://mypet-plugin.de/img/logo_100.png ':class=img-16') 宠物系统可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当你的移动背包，甚至是移动信标。部分宠物还可以当成🐎来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
 
-!> 该词条没有完全介绍宠物系统，特别是`宠物技能` 部分，具体请看官方的[技能列表](https://wiki.mypet-plugin.de/skills)。
+!> 该词条没有完全介绍宠物系统，特别是`宠物技能`部分，具体请看官方的[技能列表](https://wiki.mypet-plugin.de/skills)。
 
-?> ❓如有问题，请先参考[常见问题](#faq)。
+?> 如有问题，请先参考[常见问题](#faq)。
 
-?> 💡补充一个视频教程 [av13697251](https://www.bilibili.com/video/av13697251)。作为玩家只需观看 part1 部分😊。
+?> 补充一个视频教程 [av13697251](https://www.bilibili.com/video/av13697251)。作为玩家只需观看 part1 部分😊。
 
 ## 抓一只宠物 :id=how-to-get-a-pet
 
@@ -20,9 +21,9 @@
   - 每一种生物都有一个`捕获条件`，可以在[这里](#leash-flags)查看。
 - 第三步 - *去吧大师球！*
   - 当你做好第一步和第二步后，使用`栓绳`点击它，就可以把它转换成宠物了！
-  - 转换成功后，你还会看到一条消息：“你已成功的制服它，请善待你的宠物！”
+  - 转换成功后，你还会看到一条消息："你已成功的制服它，请善待你的宠物！"
 
-!> ⚠️不是所有生物直接用栓绳打死就能变成自己的宠物。
+!> 不是所有生物直接用栓绳打死就能变成自己的宠物。
 
 ## 捕获条件 :id=leash-flags
 
@@ -94,89 +95,89 @@
 <!-- Passive mobs -->
 
 <!-- Peaceful -->
-[bee]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ed/BeeFace.png ':size=32'
-[bat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2d/BatFace.png ':size=32'
-[cat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a2/CatFace.png ':size=32'
-[chicken]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/53/ChickenFace.png ':size=32'
-[cod]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/66/CodBody.png ':size=32'
-[cow]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/93/CowFace.png ':size=32'
-[donkey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/99/DonkeyFace.png ':size=32'
-[fox]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/88/FoxFace.png ':size=32'
-[horse]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5e/HorseFace.png ':size=32'
-[mooshroom]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/32/MooshroomFace.png ':size=32'
-[mule]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/MuleFace.png ':size=32'
-[ocelot]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/60/OcelotFace.png ':size=32'
-[parrot]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/37/ParrotFace.png ':size=32'
-[pig]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/03/PigFace.png ':size=32'
-[rabbit]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/71/RabbitFace.png ':size=32'
-[salmon]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2b/SalmonBody.png ':size=32'
-[sheep]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b1/SheepFace.png ':size=32'
-[skeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d5/SkeletonHorseFace.png ':size=32'
-[squid]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ea/SquidFace.png ':size=32'
-[tropicalfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/9f/TropicalFishBody.png ':size=32'
-[turtle]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/8b/TurtleFace.png ':size=32'
-[villager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/4a/VillagerFace.png ':size=32'
-[wanderingtrader]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/83/WanderingTraderFace.png ':size=32'
+[bee]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ed/BeeFace.png ':class=img-32'
+[bat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2d/BatFace.png ':class=img-32'
+[cat]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a2/CatFace.png ':class=img-32'
+[chicken]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/53/ChickenFace.png ':class=img-32'
+[cod]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/66/CodBody.png ':class=img-32'
+[cow]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/93/CowFace.png ':class=img-32'
+[donkey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/99/DonkeyFace.png ':class=img-32'
+[fox]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/88/FoxFace.png ':class=img-32'
+[horse]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5e/HorseFace.png ':class=img-32'
+[mooshroom]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/32/MooshroomFace.png ':class=img-32'
+[mule]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/MuleFace.png ':class=img-32'
+[ocelot]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/60/OcelotFace.png ':class=img-32'
+[parrot]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/37/ParrotFace.png ':class=img-32'
+[pig]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/03/PigFace.png ':class=img-32'
+[rabbit]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/71/RabbitFace.png ':class=img-32'
+[salmon]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2b/SalmonBody.png ':class=img-32'
+[sheep]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b1/SheepFace.png ':class=img-32'
+[skeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d5/SkeletonHorseFace.png ':class=img-32'
+[squid]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ea/SquidFace.png ':class=img-32'
+[tropicalfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/9f/TropicalFishBody.png ':class=img-32'
+[turtle]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/8b/TurtleFace.png ':class=img-32'
+[villager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/4a/VillagerFace.png ':class=img-32'
+[wanderingtrader]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/83/WanderingTraderFace.png ':class=img-32'
 
 <!-- Defensive -->
-[pufferfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/f/fe/PufferfishFace.png ':size=32'
+[pufferfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/f/fe/PufferfishFace.png ':class=img-32'
 
 <!-- Neutral mobs -->
 
 <!-- Animals -->
-[dolphin]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0d/DolphinFace.png ':size=32'
-[llama]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d3/LlamaFace.png ':size=32'
-[panda]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/33/PandaFace.png ':size=32'
-[polarbear]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/07/PolarBearFace.png ':size=32'
-[traderllama]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d3/LlamaFace.png ':size=32'
-[wolf]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/68/WolfFace.png ':size=32'
+[dolphin]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0d/DolphinFace.png ':class=img-32'
+[llama]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d3/LlamaFace.png ':class=img-32'
+[panda]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/33/PandaFace.png ':class=img-32'
+[polarbear]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/07/PolarBearFace.png ':class=img-32'
+[traderllama]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d3/LlamaFace.png ':class=img-32'
+[wolf]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/68/WolfFace.png ':class=img-32'
 
 <!-- Monsters -->
-[cavespider]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/6b/CaveSpiderFace.png ':size=32'
-[enderman]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2d/EndermanFace.png ':size=32'
-[spider]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/SpiderFace.png ':size=32'
-[zombiepigman]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d1/ZombiePigmanFace.png ':size=32'
+[cavespider]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/6b/CaveSpiderFace.png ':class=img-32'
+[enderman]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2d/EndermanFace.png ':class=img-32'
+[spider]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/SpiderFace.png ':class=img-32'
+[zombiepigman]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/d1/ZombiePigmanFace.png ':class=img-32'
 
 <!-- Hostile mobs -->
-[blaze]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e3/BlazeFace.png ':size=32'
-[chickenjockey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a9/ChickenJockeyFace.png ':size=32'
-[creeper]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5e/CreeperFace.png ':size=32'
-[drowned]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/87/DrownedFace.png ':size=32'
-[elderguardian]: https://gamepedia.cursecdn.com/minecraft_gamepedia/c/c1/ElderGuardianFace.png ':size=32'
-[endermite]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/83/EndermiteFace.png ':size=32'
-[evoker]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/EvokerFace.png ':size=32'
-[ghast]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/70/GhastFace.png ':size=32'
-[guardian]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e6/GuardianFace.png ':size=32'
-[husk]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/HuskFace.png ':size=32'
-[magmacube]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/69/MagmaCubeFace.png ':size=32'
-[phantom]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ea/PhantomFace.png ':size=32'
-[pillager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5a/PillagerFace.png ':size=32'
-[ravager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a9/RavagerFace.png ':size=32'
-[shulker]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/32/ShulkerFace.png ':size=32'
-[silverfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/41/SilverfishFace.png ':size=32'
-[skeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/dc/SkeletonFace.png ':size=32'
-[skeletonhorse]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/SkeletonHorsemanFace.png ':size=32'
-[slime]: https://gamepedia.cursecdn.com/minecraft_gamepedia/c/ca/SlimeFace.png ':size=32'
-[spiderjockey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/8c/SpiderJockeyFace.png ':size=32'
-[stray]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0f/StrayFace.png ':size=32'
-[vex]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/9e/VexFace.png ':size=32'
-[vindicator]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/04/VindicatorFace.png ':size=32'
-[witch]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/4e/WitchFace.png ':size=32'
-[witherskeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/7c/WitherSkeletonFace.png ':size=32'
-[zombie]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b2/ZombieFace.png ':size=32'
-[zombievillager]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/9/9e/ZombieVillagerFace.png ':size=32'
+[blaze]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e3/BlazeFace.png ':class=img-32'
+[chickenjockey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a9/ChickenJockeyFace.png ':class=img-32'
+[creeper]: https://g"me"edia.cursecdn.com/minecraft_gamepedia/5/5e/CreeperFace.png ':class=img-32'
+[drowned]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/87/DrownedFace.png ':class=img-32'
+[elderguardian]: https://gamepedia.cursecdn.com/minecraft_gamepedia/c/c1/ElderGuardianFace.png ':class=img-32'
+[endermite]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/83/EndermiteFace.png ':class=img-32'
+[evoker]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/EvokerFace.png ':class=img-32'
+[ghast]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/70/GhastFace.png ':class=img-32'
+[guardian]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e6/GuardianFace.png ':class=img-32'
+[husk]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/HuskFace.png ':class=img-32'
+[magmacube]: https://gamepedia.cursecdn.com/minecraft_gamepedia/6/69/MagmaCubeFace.png ':class=img-32'
+[phantom]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/ea/PhantomFace.png ':class=img-32'
+[pillager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5a/PillagerFace.png ':class=img-32'
+[ravager]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a9/RavagerFace.png ':class=img-32'
+[shulker]: https://gamepedia.cursecdn.com/minecraft_gamepedia/3/32/ShulkerFace.png ':class=img-32'
+[silverfish]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/41/SilverfishFace.png ':class=img-32'
+[skeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/d/dc/SkeletonFace.png ':class=img-32'
+[skeletonhorse]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/05/SkeletonHorsemanFace.png ':class=img-32'
+[slime]: https://gamepedia.cursecdn.com/minecraft_gamepedia/c/ca/SlimeFace.png ':class=img-32'
+[spiderjockey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/8c/SpiderJockeyFace.png ':class=img-32'
+[stray]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/0f/StrayFace.png ':class=img-32'
+[vex]: https://gamepedia.cursecdn.com/minecraft_gamepedia/9/9e/VexFace.png ':class=img-32'
+[vindicator]: https://gamepedia.cursecdn.com/minecraft_gamepedia/0/04/VindicatorFace.png ':class=img-32'
+[witch]: https://gamepedia.cursecdn.com/minecraft_gamepedia/4/4e/WitchFace.png ':class=img-32'
+[witherskeleton]: https://gamepedia.cursecdn.com/minecraft_gamepedia/7/7c/WitherSkeletonFace.png ':class=img-32'
+[zombie]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b2/ZombieFace.png ':class=img-32'
+[zombievillager]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/9/9e/ZombieVillagerFace.png ':class=img-32'
 
 <!-- Utility mobs -->
-[irongolem]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2a/IronGolemFace.png ':size=32'
-[snowgolem]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/50/SnowGolemFace.png ':size=32'
+[irongolem]: https://gamepedia.cursecdn.com/minecraft_gamepedia/2/2a/IronGolemFace.png ':class=img-32'
+[snowgolem]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/50/SnowGolemFace.png ':class=img-32'
 
 <!-- Boss mobs -->
-[enderdragon]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b5/EnderdragonFace.png ':size=32'
-[wither]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/84/WitherFace.png ':size=32'
+[enderdragon]: https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b5/EnderdragonFace.png ':class=img-32'
+[wither]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/84/WitherFace.png ':class=img-32'
 
 <!-- Unused mobs -->
-[illusioner]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/a/a8/IllusionerFace.png ':size=32'
-[zombiehorse]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/4/46/ZombieHorseFace.png ':size=32'
+[illusioner]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/a/a8/IllusionerFace.png ':class=img-32'
+[zombiehorse]: https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/4/46/ZombieHorseFace.png ':class=img-32'
 
 ## 宠物商店 :id=pet-shop
 
@@ -218,7 +219,7 @@
 
 ## 技能树 :id=skilltrees
 
-?> 💡技能树用来决定宠物的升级和解锁的技能。
+?> 技能树用来决定宠物的升级和解锁的技能。
 
 你可以想象为玩家的职业（比如骑士和弓箭手）。每只宠物在刚被捕获时可以选择一个技能树作为升级路线，之后技能树不能再更改。随着宠物的打怪升级，宠物将慢慢解锁其所选技能树的更多技能。
 
@@ -246,7 +247,7 @@ WIP.
 
 ?> 大多数指令都有`短指令`，比如`/pi`⇔︎`/petinventory`。请尽量使用简单的！
 
-?> 在输入指令时你可以使用 <kbd>Tab</kbd> 自动补全内容。
+?> 在输入指令时你可以使用<kbd>Tab</kbd>自动补全内容。
 
 ### 0x1 通用指令
 
@@ -342,7 +343,7 @@ WIP.
 
 - 用法：
   - `/pettrade [accept 或 reject 或 cancel 或 <玩家名>] <交易价格>`
-  - `accept` = *接受*；`reject` = *拒绝*，`cancel` = *取消*
+  - `accept`= *接受*；`reject`= *拒绝*，`cancel`= *取消*
 - 把你当前的宠物与其他玩家交易.
 - 短指令：
   - `/pett`
@@ -438,7 +439,7 @@ WIP.
 #### /petpickup
 
 - 开启/关闭宠物自动拾取（如下图）。
-- ⚠️至少需要一整排空的物品栏，宠物才会拾取物品⚠️
+- 至少需要一整排空的物品栏，宠物才会拾取物品
 - 短指令：
   - `/pp`
   - `/petp`
@@ -470,8 +471,8 @@ WIP.
 
 #### /petbeacon
 
-- 打开宠物的信标技能窗口 ![宠物信标界面](../assets/images/plugins/mypet-beacon-inv.png ':size=32')（点击查看大图）。
-- ⚠️默认情况，当信标开启时会持续消耗宠物的饥饿值。️
+- 打开宠物的信标技能窗口 ![宠物信标界面](../assets/images/plugins/mypet-beacon-inv.png ':class=img-32')（点击查看大图）。
+- 默认情况，当信标开启时会持续消耗宠物的饥饿值。️
 - 短指令：
   - `/pbeacon`
   - `/petbeacon`
@@ -485,7 +486,7 @@ WIP.
 #### /petadmin
 
 - 用法：`/petadmin <选项> [参数…]`
-- 只有拥有 `mypet.admin` 权限的玩家可使用该指令。
+- 只有拥有`mypet.admin`权限的玩家可使用该指令。
 - 选项:
   - `name`
     - 设置指定玩家的宠物名字。
@@ -504,7 +505,7 @@ WIP.
     - 只改变死亡宠物的重生时间。
     - 参数:
       - `<拥有者>`
-      - `[新的重生时间（单位：秒）]` 或 `[show]`
+      - `[新的重生时间（单位：秒）]`或`[show]`
   - `reload`
     - 重载配置文件（`config.yml`）
     - 参数：
@@ -523,7 +524,7 @@ WIP.
   - `create`
     - 为指定玩家创建新的宠物。
     - 玩家有主宠物时不可用。
-    - 使用 `-f` 创建一个新的宠物（即使玩家已经有一个宠物）。
+    - 使用 `-f`创建一个新的宠物（即使玩家已经有一个宠物）。
     - 参数:
       - `[-f]`
       - `<拥有者>`
@@ -555,9 +556,9 @@ WIP. @ak2233
 
 ### 如何给僵尸/骷髅/僵尸猪人穿装备
 
-!> ⚠️装备只有视觉效果，没有防御加成等实际作用⚠️
+!> 装备只有视觉效果，没有防御加成等实际作用
 
-拿着装备 <kbd>Shift</kbd> <kbd>鼠标右键</kbd> 宠物即可。要移除装备，拿着剪刀 <kbd>Shift</kbd> <kbd>鼠标右键</kbd> 宠物。
+拿着装备<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物即可。要移除装备，拿着剪刀<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物。
 
 ### 如何在骑宠物的时候控制它
 
@@ -568,7 +569,7 @@ WIP. @ak2233
 1. 宠物需要有`Ride(骑乘)`技能树
 2. `fly`属性在技能树里必须开启
 3. 然后骑上你的宠物
-4. 按下 <kbd>空格</kbd>
+4. 按下<kbd>空格</kbd>
 
 ### 如何得到一只宠物
 
@@ -576,7 +577,7 @@ WIP. @ak2233
 
 ### 如何喂宠物
 
-首先从[这里](#leash-flags)查看宠物需要吃什么，然后拿着正确的食物 <kbd>鼠标右键</kbd> 宠物即可喂食。喂食后，你首先会看到宠物提升了[饱食度](#hunger-system)（每个食物相当于`6`点饱食度）。当饱食度到`100`时，继续喂食将治疗宠物。每个缺少的饱食度和生命值将使用`1`点饱食度（？）。
+首先从[这里](#leash-flags)查看宠物需要吃什么，然后拿着正确的食物<kbd>鼠标右键</kbd>宠物即可喂食。喂食后，你首先会看到宠物提升了[饱食度](#hunger-system)（每个食物相当于`6`点饱食度）。当饱食度到`100`时，继续喂食将治疗宠物。每个缺少的饱食度和生命值将使用`1`点饱食度（？）。
 
 ### 可以有两只宠物吗
 
@@ -603,6 +604,6 @@ WIP. @ak2233
 
 ### 可以让宠物坐下吗
 
-你可以用 <kbd>Shift</kbd> <kbd>鼠标右键</kbd> 宠物来让它坐下 *呆在原地*。
+你可以用<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物来让它坐下 *呆在原地*。
 
 你可以命令所有宠物 *呆在原地*，不局限于可驯服的生物（e.g. 猫🐱狼🐺）。

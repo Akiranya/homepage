@@ -7,5 +7,3 @@
 
 [茶馆](https://bbs.mimaru.me/)
 [进入主页](/README.md)
-
-![background](assets/images/bg.jpg)

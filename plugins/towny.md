@@ -1,8 +1,8 @@
 # 城镇
 
-城镇插件可以让玩家在游戏世界里创建城镇、占领区块、建立国家。
+> 城镇插件可以让玩家在游戏世界里创建城镇、占领区块、建立国家。
 
-![scv](../assets/images/plugins/towny-scv.png ':size=430')
+![scv](../assets/images/plugins/towny-scv.png)
 
 ## 什么是城镇
 
@@ -108,7 +108,7 @@
    * 受邀城主输入`/t invite accept {国家名}`表示同意加入国家。
    * 受邀城主输入`/t invite deny {国家名}`表示拒绝。
 
-## 等级
+## 居民等级
 
 **城镇内部的居民等级**
 

@@ -6,19 +6,19 @@
 
 ## 秘密方块
 
-使用 `/blocks` 获取“秘密方块”。
+使用`/blocks`获取"秘密方块"。
 
 ![秘密方块](../assets/images/plugins/bu-secret-blocks.png)
 
 ## 自制旗帜
 
-使用 `/banner` 创建属于自己的旗帜。
+使用`/banner`创建属于自己的旗帜。
 
 ![自制旗帜](../assets/images/plugins/bu-banner-creator.gif)
 
 ## 盔甲调色
 
-你还可以使用 `/color` 编辑盔甲的颜色～
+你还可以使用`/color`编辑盔甲的颜色～
 
 ![盔甲调色](../assets/images/plugins/bu-leather-color.gif)
 
@@ -29,9 +29,9 @@
 
 ## WorldEdit 指令简化
 
-- `//1` ⇒ `//pos1`
-- `//2` ⇒ `//pos2`
-- `//c` ⇒ `//copy`
-- `//s` ⇒ `//set`
-- `//f` ⇒ `//flip`
-- `//pa` ⇒ `//paste`
+- `//1`⇒`//pos1`
+- `//2`⇒`//pos2`
+- `//c`⇒`//copy`
+- `//s`⇒`//set`
+- `//f`⇒`//flip`
+-`//pa`⇒`//paste`

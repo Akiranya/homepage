@@ -10,7 +10,8 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /modded-server
 
-!> **近期更新：**「探索模组服·二周目·魔幻」已经开放，欢迎一起来玩～[点击加入][server-modded]。
+> [!note|label:近期更新 ｜ Recent Updates]
+> 城镇生存服已升级至 Minecraft `1.15.2`！欢迎一起来玩～（[点击加入][server-survival]）
 
 # 上古时代 :id=get-started
 
@@ -45,9 +46,5 @@
 
 ### 最后
 
-- 有任何疑问欢迎在[QQ群][qqgroup]发问或到[论坛][bbs]发帖 ( • ̀ω•́ )✧
+- 有任何疑问欢迎在[QQ群][qqgroup]发问或到[论坛][bbs]发帖 ( * ̀ω*́ )✧
 - 服务器的最新动态、改动都会在论坛第一时间发布，还请多多关注论坛哦！
-
-----
-
-<small>城镇生存服 和 自由创造服 使用 Paper 作为游戏服务端。Paper 提升了服务端性能，也修复了许多被 Mojang 忽视的 bugs，因此游戏的实际表现可能与纯净原版单机有所出入，例如没有“无限刷沙”等特性。</small>

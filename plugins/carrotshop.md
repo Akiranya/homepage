@@ -12,11 +12,11 @@
 
 ## 创建商店的材料
 
-[redstone]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/9/91/Redstone_Dust_Revision_1.png/64px-Redstone_Dust_Revision_1.png ':size=32'
-[singlechest]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/3/32/Chest_Revision_1.png/64px-Chest_Revision_1.png ':size=32'
-[sign]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/0/0d/Oak_Sign_Revision_1.png/64px-Oak_Sign_Revision_1.png ':size=32'
+[redstone]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/9/91/Redstone_Dust_Revision_1.png/64px-Redstone_Dust_Revision_1.png ':class=img-32'
+[singlechest]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/3/32/Chest_Revision_1.png/64px-Chest_Revision_1.png ':class=img-32'
+[sign]: https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/0/0d/Oak_Sign_Revision_1.png/64px-Oak_Sign_Revision_1.png ':class=img-32'
 
-|                             |      材料       |   用途   |
+| Logo                        |      材料       |   用途   |
 | --------------------------- | :-------------: | :------: |
 | ![redstonedust][redstone]   |      红石       | 设置商店 |
 | ![singlechest][singlechest] | 原版箱子/陷阱箱 | 存放商品 |
@@ -24,7 +24,7 @@
 
 还有你准备出售/收购/交换的物品。
 
-!> ⚠️**商店不支持大箱子，请不要用大箱子创建商店**
+!> 商店不支持大箱子，请不要用大箱子创建商店。
 
 ## 开始创建商店
 
@@ -39,7 +39,7 @@
 创建步骤（按顺序）：
 
 1. 把箱子放下（一般放家里），里面装上 <span style="color: red">单次交易</span> 的物品（及你期望的数量）
-   - 玩家每次 <kbd>鼠标右键</kbd> 你的 *商店木牌*，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
+   - 玩家每次<kbd>鼠标右键</kbd>你的 *商店木牌*，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
    - 这个箱子将作为你的 *商店箱子*，也就是存放商品的容器
    - 商店箱子里可只放入一种物品，也可放入多种物品。如果放入多种，则单次交易会包含多种物品
    - 到这一步，箱子里的内容决定了商店单次交易的物品。等你最终设置好商店后，内容就随便啦
@@ -57,7 +57,7 @@
 创建步骤（按顺序）：
 
 1. 把箱子放下（一般放家里），里面装上 <span style="color: red">单次交易</span> 的物品（及你期望的数量）
-   - 玩家每次 <kbd>鼠标右键</kbd> 你的 *商店木牌*，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
+   - 玩家每次<kbd>鼠标右键</kbd>你的 *商店木牌*，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
    - 这个箱子将作为你的 *商店箱子*，也就是存放商品的容器
    - 商店箱子里可只放入一种物品，也可放入多种物品。如果放入多种，则单次交易会包含多种物品
    - 到这一步，箱子里的内容决定了商店单次交易的物品。等你最终设置好商店后，内容就随便啦
@@ -75,7 +75,7 @@
 创建步骤（按顺序）：
 
 1. 放下两个箱子（一般放家里），里面分别装上 <span style="color: red">单次交易</span> 的物品（及你期望的数量）。例如你想用 金锭×2 换 钻石×1，那么一个箱子里装上 金锭×2，另一个箱子里装上 钻石×1。
-   - 玩家每次 <kbd>鼠标右键</kbd> 你的商店木牌，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
+   - 玩家每次<kbd>鼠标右键</kbd>你的商店木牌，就会触发一次交易，这称作 <span style="color: red">单次交易</span>
    - 这两个箱子将作为你的 *商店箱子*，也就是存放商品的容器
    - 箱子里可只放入一种物品，也可放入多种物品。如果放入多种，则单次交易会包含多种物品
    - 到这一步，箱子里的内容决定了商店单次交易的物品。等你最终设置好商店后，内容就随便啦
@@ -90,12 +90,12 @@
 小提示：
 
 - 由于贸易市场的店铺空间有限，推荐大家把商店箱子可以放自己家里。
-- 商店箱子的内容可以用物流系统操作，借此特性可实现“无限商店库存”。
+- 商店箱子的内容可以用物流系统操作，借此特性可实现"无限商店库存"。
 
 ## 使用商店
 
 - 如果你看到告示牌的第一行写着`[Sell]`,`[Buy]`,`[Trade]`之类的字样，则说明这是一个 *商店*。
-- <kbd>鼠标左键</kbd> 商店木牌查看这个商店 *做什么*。<kbd>鼠标右键</kbd> 商店木牌即可 *开始交易*。
+-<kbd>鼠标左键</kbd>商店木牌查看这个商店 *做什么*。<kbd>鼠标右键</kbd>商店木牌即可 *开始交易*。
 
 ## 摧毁商店
 

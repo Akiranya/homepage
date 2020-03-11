@@ -1,10 +1,11 @@
 # 常见问题与解答 :id=faq
 
-!> 这里只有一般的常见问题。各个服务器的具体问答请见下方的服务器列表：
-
-- [城镇生存服](/mc-servers/survival.md)
-- [自由创造服](/mc-servers/creative.md)
-- [探索模组服](/mc-servers/modded-v2.md)
+> [!tip|label:导读]
+> 这里只有 **一般的** 常见问题。各个服务器的具体内容请见下方的服务器列表：
+>
+> [城镇生存服](/mc-servers/survival.md)  
+> [自由创造服](/mc-servers/creative.md)  
+> [探索模组服](/mc-servers/modded-v2.md)
 
 ## 为什么叫「上古时代」 :id=naming
 
@@ -26,9 +27,9 @@
 
 不可以。公开地图种子相当于公开地图上所有资源的坐标，这与冒险和探索的主题相悖。
 
-## 你们说的“换周目”是什么意思 :id=ng
+## "换周目"是什么意思 :id=ng
 
-周目原本是个日语词，有“第几”的意思。我们常说的“周目”指的是一段游戏进程的始终。“换周目”简单来讲就是”服务器开新的游戏地图”，通常也意味着游戏内容会有一个比较大的更新。
+周目原本是个日语词，有"第几"的意思。我们常说的"周目"指的是一段游戏进程的始终。"换周目"简单来讲就是"服务器开新的游戏地图"，通常也意味着游戏内容会有一个比较大的更新。
 
 ## 我们的更新策略 :id=update-policy
 
@@ -70,7 +71,7 @@
 
 ## 我是多年前的老玩家 :id=retracing
 
-“我是多年前的老玩家，想去以前的地图里看看……”，当然可以！目前服务器所有的 *旧地图* 都在[创造服](/mc-servers/creative.md)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
+"我是多年前的老玩家，想去以前的地图里看看……"，当然可以！目前服务器所有的 *旧地图* 都在[创造服](/mc-servers/creative.md)。你可以在游戏中输入`/goto`加入创造服，然后使用`/c`前往 *旧世界*。
 
 ## 服务器的开放时间 :id=opening-hours
 
@@ -94,6 +95,6 @@
 
 *原版服* 使用的是 [Paper](https://paper.readthedocs.io/en/stable/)，*模组服* 为 [Sponge](https://www.spongepowered.org/)。
 
-[paper-logo]: https://paper.readthedocs.io/en/stable/_images/papermc_logomark_500.png ':size=16'
-[sponge-logo]: https://www.spongepowered.org/assets/img/icons/spongie-mark-dark.svg ':size=16'
+[paper-logo]: https://paper.readthedocs.io/en/stable/_images/papermc_logomark_500.png ':class=img-16'
+[sponge-logo]: https://www.spongepowered.org/assets/img/icons/spongie-mark-dark.svg ':class=img-16'
 [trade]: /plugins/trade.md
