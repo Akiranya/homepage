@@ -38,7 +38,7 @@
 
 **一切就绪**
 
-都准备好啦？点击 *下方按钮* 选择一个你喜欢的服务器加入吧 ^ ^
+都准备好啦？选择一个你喜欢的服务器加入吧 <3!
 
 <a class="button" href="#/mc-servers/survival.md">城镇生存服</a>
 <a class="button" href="#/mc-servers/creative.md">自由创造服</a>
