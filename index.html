@@ -10,12 +10,12 @@
   <meta name="keywords" content="minecraft,anciage,上古时代,知识库,正版,公益">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"> -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/stylesheets/toc.css">
   <link rel="stylesheet" href="assets/stylesheets/button.css">
   <link rel="stylesheet" href="assets/stylesheets/image.css">
+  <link rel="stylesheet" href="assets/stylesheets/fas.css">
   <style>
     :root {
       --link-text-decoration: ;
@@ -98,7 +98,13 @@
         pre: '<hr/>',
         style: 'text-align: right;',
         style: 'className'
-      }
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -111,6 +117,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
   <script src="//unpkg.com/docsify-copy-code@2"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 
 </html>
