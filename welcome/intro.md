@@ -10,24 +10,24 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /modded-server
 
+# 欢迎！ :id=intro
+
 > [!note|label:近期更新 ｜ Recent Updates]
 > 城镇生存服已升级至 Minecraft `1.15.2`！欢迎一起来玩～（[点击加入][server-survival]）
 
-# 上古时代 :id=get-started
+![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
-![2020跨年烟火晚会](/assets/images/2020_fireworks.jpg)
+> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。欢迎一切志同道合的小伙伴加入我们一起来玩！
 
-「上古时代」是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。欢迎一切志同道合的小伙伴加入我们一起来玩！
-
-### 关于本站
+## 关于本站 :id=about-us
 
 本站主要介绍「上古时代 Minecraft 服务器」的特色内容，也会穿插一点其他游戏服务器的相关信息。如果你想了解 Minecraft 本身的内容与玩法，请访问：[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：[菜鸟手册][beginner-guide]。
 
-### 联系我们
+## 联系我们 :id=contact-us
 
-🍵[茶馆][bbs] | 🐧[QQ交流群][qqgroup] | 🏠[玩家城镇](https://bbs.mimaru.me/t/towns)
+<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
 
-### 加入服务器 :id=join-us
+## 加入服务器 :id=join-us
 
 **前置条件**
 
@@ -44,7 +44,7 @@
 <a class="button" href="#/mc-servers/creative.md">自由创造服</a>
 <a class="button" href="#/modded-server">探索模组服</a>
 
-### 最后
+## 最后 :id=tips
 
 - 有任何疑问欢迎在[QQ群][qqgroup]发问或到[论坛][bbs]发帖 ( * ̀ω*́ )✧
 - 服务器的最新动态、改动都会在论坛第一时间发布，还请多多关注论坛哦！

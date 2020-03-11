@@ -1,5 +1,6 @@
 * <i class="fas fa-heart"></i>欢迎 ( ´ ▽ ` )ﾉ
 
+  * [简介](welcome/intro.md)
   * [游戏规则](welcome/rules.md)
   * [常用指令](welcome/commands.md)
   * [常见问题](welcome/faq.md)
