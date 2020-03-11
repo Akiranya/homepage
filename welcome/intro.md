@@ -13,7 +13,7 @@
 # 欢迎！ :id=intro
 
 > [!note|label:近期更新 ｜ Recent Updates]
-> 城镇生存服已升级至 Minecraft `1.15.2`！欢迎一起来玩～（[点击加入][server-survival]）
+> [城镇生存服][server-survival]已升级至 Minecraft `1.15.2`～欢迎一起来玩！
 
 ![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
