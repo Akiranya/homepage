@@ -10,7 +10,7 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /modded-server
 
-# 欢迎！ :id=intro
+# 欢迎！ :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
 > [城镇生存服][server-survival]已升级至 Minecraft `1.15.2`～欢迎一起来玩！
