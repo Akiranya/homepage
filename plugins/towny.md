@@ -26,7 +26,7 @@
 
 ### 居民常用指令
 
-* 指令 `/town`可以简写为`/t`，例如`/town spawn`⇔`/t spawn`。
+* 指令`/town`可以简写为`/t`，例如`/town spawn`⇔`/t spawn`。
 * 指令`/plot`可以简写为`/p`，例如`/plot claim`⇔`/p claim`
 
 | 指令                                | 说明                     |
