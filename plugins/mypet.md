@@ -139,7 +139,7 @@
 <!-- Hostile mobs -->
 [blaze]: https://gamepedia.cursecdn.com/minecraft_gamepedia/e/e3/BlazeFace.png ':class=img-32'
 [chickenjockey]: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a9/ChickenJockeyFace.png ':class=img-32'
-[creeper]: https://g"me"edia.cursecdn.com/minecraft_gamepedia/5/5e/CreeperFace.png ':class=img-32'
+[creeper]: https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5e/CreeperFace.png ':class=img-32'
 [drowned]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/87/DrownedFace.png ':class=img-32'
 [elderguardian]: https://gamepedia.cursecdn.com/minecraft_gamepedia/c/c1/ElderGuardianFace.png ':class=img-32'
 [endermite]: https://gamepedia.cursecdn.com/minecraft_gamepedia/8/83/EndermiteFace.png ':class=img-32'
