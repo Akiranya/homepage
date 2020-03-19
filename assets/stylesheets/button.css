@@ -1,5 +1,5 @@
 a.button {
-    box-shadow: 0px 8px 12px -5px #276873;
+	box-shadow: 0px 8px 12px -5px #276873;
 	background-color: #599bb3;
 	border-radius: 8px;
 	display: inline-block;
@@ -12,11 +12,11 @@ a.button {
 	text-decoration: none;
 	text-shadow: 0px 1px 0px #3d768a;
 }
-  
+
 a.button:hover {
-    text-decoration: none;
-    background-color: #408c99;
-    color: #ffffff;
+	text-decoration: none;
+	background-color: #408c99;
+	color: #ffffff;
 }
 
 a.button:active {
