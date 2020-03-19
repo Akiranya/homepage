@@ -2,6 +2,10 @@
 
 !> 此页面仍在施工中。
 
-## 可以在创造服里圈地吗
+## 我想圈个地
 
-可以。参考[WorldGuard Region Claiming](https://worldguard.enginehub.org/en/latest/regions/claiming/)
+当然可以！请参考 [WorldGuard Region Claiming](https://worldguard.enginehub.org/en/latest/regions/claiming/)
+
+## 可以用创世神吗
+
+属于设计师[权限组](/welcome/groups.md)的玩家可以在创造服使用[创世神插件](http://mineplugin.org/WorldEdit)。
