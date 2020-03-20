@@ -26,7 +26,7 @@
 
 ## 开放时间 :id=opening-hours
 
-城镇生存服 7×24小时 全年长期开放。
+城镇生存服`7×24`小时全年长期开放。
 
 ## 如何加入 :id=how-to-join
 
@@ -48,6 +48,10 @@
 ## 插件列表 & 帮助 :id=plugins
 
 👉[点击查看](/welcome/plugins.md)
+
+## 常见问题 & 解答 :id=faq
+
+👉[点击查看](/mc-servers/survival/faq.md)
 
 <!-- panels:start -->
 
@@ -94,10 +98,6 @@
 [the_end]: https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
 [bbs]: http://bbs.mimaru.me/
-
-## 常见问题 & 解答 :id=faq
-
-👉[点击查看](/mc-servers/survival/faq.md)
 
 ## 已修复的漏洞 :id=fixed-bugss
 
