@@ -1,6 +1,6 @@
 # 自由创造服
 
-> 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式（包括创造模式、观察者模式），且允许使用部分作弊[指令](/welcome/commands.md#creative)，方便建筑党和红石党发挥想象力[设计师](/welcome/groups.md#designer)还可以在此使用强大的 *WorldEdit* 减少重复劳动。
+> 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式（包括创造模式、观察者模式），且允许使用部分作弊[指令](/welcome/commands.md#creative)，方便建筑党和红石党发挥想象力[设计师](/welcome/groups.md#designer)还可以在此使用强大的`WorldEdit`减少重复劳动。
 
 ![结云村](../assets/images/build/build-1.jpg ':class=img-small')
 ![最开始的地方](../assets/images/build/build-2.jpg ':class=img-small')
