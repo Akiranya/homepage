@@ -119,7 +119,7 @@
 
 ---
 
-**分割线** - <mark>以下指令&权限仅适用于</mark>[模组服](/modded-server) - **分割线**
+**分割线** - <mark>以下指令&权限仅适用于</mark>[模组服](/mod) - **分割线**
 
 ---
 
@@ -148,7 +148,7 @@
 
 #### **记录查询(PR)**
 
-[探索模组服](/modded-server)使用的记录查询插件。使用方法见[官方说明](https://github.com/prism/Prism)。
+[探索模组服](/mod)使用的记录查询插件。使用方法见[官方说明](https://github.com/prism/Prism)。
 
 #### **WG**
 

@@ -1,17 +1,17 @@
 * <i class="fas fa-heart"></i>欢迎 ( ´ ▽ ` )ﾉ
 
-  * [简介](welcome/intro.md)
-  * [游戏规则](welcome/rules.md)
-  * [常用指令](welcome/commands.md)
-  * [常见问题](welcome/faq.md)
-  * [插件帮助](welcome/plugins.md)
-  * [权限组](welcome/groups.md)
+  * [简介](/home)
+  * [游戏规则](/rules)
+  * [常用指令](/cmds)
+  * [常见问题](/faq)
+  * [插件帮助](/plugins)
+  * [权限组](/groups)
 
 * <i class="fas fa-stream"></i>服务器列表 & 帮助
-  * [城镇生存服](mc-servers/survival.md)
-  * [自由创造服](mc-servers/creative.md)
-  * [探索模组服](mc-servers/modded-v2.md)
-  * [休闲游戏服](mc-servers/games.md)
+  * [城镇生存服](/sur)
+  * [自由创造服](/cre)
+  * [探索模组服](/mod)
+  * [休闲游戏服](/games)
 
 <!-- * 📖插件帮助
   

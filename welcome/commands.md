@@ -2,7 +2,7 @@
 
 [survival]: /mc-servers/survival.md
 [creative]: /mc-servers/creative.md
-[modded]: /modded-server
+[modded]: /mod
 
 <!-- tabs:start -->
 

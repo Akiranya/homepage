@@ -8,7 +8,7 @@
 [faq]: /welcome/faq.md
 [server-survival]: /mc-servers/survival.md
 [server-creative]: /mc-servers/creative.md
-[server-modded]: /modded-server
+[server-modded]: /mod
 
 # 欢迎！ :id=intro {docsify-ignore-all}
 
@@ -42,7 +42,7 @@
 
 <a class="button" href="#/mc-servers/survival">城镇生存服</a>
 <a class="button" href="#/mc-servers/creative">自由创造服</a>
-<a class="button" href="#/modded-server">探索模组服</a>
+<a class="button" href="#/mod">探索模组服</a>
 
 ## 最后 :id=tips
 
