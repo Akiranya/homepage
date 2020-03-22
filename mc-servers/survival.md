@@ -94,7 +94,7 @@
 <!-- panels:end -->
 
 > [!tip|label:关于世界命名规则]
-> 世界的命名规则为`世界分类-世界维度`。对于`世界分类`，`wXY`代表这个世界是`家园世界`，`XY`代表世界开始的版本号；`ex`代表这个世界是`资源世界`。对于`维度`，`0`代表[主世界][the_overworld]，`1`代表[下界][the_nether]，`2`代表[末路之地][the_end]。
+> 世界的命名规则为`世界分类-世界维度`。对于`世界分类`，`wXY`代表这个世界是`家园世界`，`XY`代表世界开始的版本号；`ex`代表这个世界是`资源世界`。对于`世界维度`，`0`代表[主世界][the_overworld]，`1`代表[下界][the_nether]，`2`代表[末路之地][the_end]。
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
