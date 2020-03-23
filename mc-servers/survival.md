@@ -14,6 +14,18 @@
 
 以上截图来自`主世界`<sub>(版本1.12)</sub>的玩家城镇。该世界现已迁移至[创造服](/mc-servers/creative.md)。
 
+## 开放时间 :id=opening-hours
+
+城镇生存服`7×24`小时全年长期开放。
+
+## 玩法自由 :id=free-style
+
+这里完全继承原版生存的游戏机制和基本玩法，各种刷怪塔和大型红石机器在这里皆允许建造。游戏节奏完全由玩家自己掌控。
+
+## 建设你的小镇 :id=towns
+
+你可以在这里建设并经营自己的[城镇](/plugins/towny.md)，邀请好朋友一起，最终建设成美丽村庄～
+
 ## 长期不换图 :id=long-lasting-worlds
 
 城镇生存服的每个`家园世界`都会至少保持在线`2`年。
@@ -23,10 +35,6 @@
 并且当世界从服务器离线后，会开放世界存档的下载。届时大家可以下载到自己电脑自行游玩。
 
 具体的换图策略[请看这里](/welcome/faq.md#save-policy)。
-
-## 开放时间 :id=opening-hours
-
-城镇生存服`7×24`小时全年长期开放。
 
 ## 如何加入 :id=how-to-join
 
@@ -43,19 +51,19 @@
 
 ## 指令帮助 :id=cmds
 
+你会经常用到的指令可以在这里查阅到。
+
 👉[点击查看](/welcome/commands.md)
 
 ## 插件列表 & 帮助 :id=plugins
+
+想开设自己的村民商店，养一只可升级可战斗的宠物，建造能快速传送的木牌电梯吗？
 
 👉[点击查看](/welcome/plugins.md)
 
 ## 常见问题 & 解答 :id=faq
 
 👉[点击查看](/mc-servers/survival/faq.md)
-
-<!-- panels:start -->
-
-<!-- div:title -->
 
 ## 世界列表 :id=worlds
 
@@ -69,6 +77,8 @@
 
 > [!tip|label:关于下方表格]
 > `版本`是当时生成世界所使用的 Minecraft 版本。这决定世界拥有的地形和生物种类。
+
+<!-- panels:start -->
 
 <!-- div:left-panel -->
 
@@ -93,7 +103,7 @@
 
 <!-- panels:end -->
 
-> [!tip|label:关于世界命名规则]
+> [!tip|label:世界命名规则]
 > 世界的命名规则为`世界分类-世界维度`。对于`世界分类`，`wXY`代表这个世界是`家园世界`，`XY`代表世界开始的版本号；`ex`代表这个世界是`资源世界`。对于`世界维度`，`0`代表[主世界][the_overworld]，`1`代表[下界][the_nether]，`2`代表[末路之地][the_end]。
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
@@ -102,60 +112,17 @@
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
 [bbs]: http://bbs.mimaru.me/
 
-## 已修复的漏洞 :id=fixed-bugss
+## 已修复漏洞 :id=fixed-bugss
 
 城镇生存服已修复下列漏洞。这意味着使用这些漏洞不会有任何效果：
 
 - 0-tick 农作物瞬间生长 ([详情](https://bugs.mojang.com/browse/MC-113809))
 - 重力方块复制物品 ([详情](https://minecraft.gamepedia.com/Tutorials/Block_and_item_duplication))
 
-对于没有修复的游戏原版漏洞（即 Minecraft 单机纯净版就存在的漏洞），玩家可以自由利用，但上古服不保证这些未修复的漏洞可以一直使用。随着服务端软件的更新，漏洞随时都有可能在不通知玩家的情况下被修复。**使用漏洞需谨慎，后果风险自承担。**
+对于没有修复的游戏原版漏洞（即 Minecraft 单机纯净版就存在的漏洞），玩家可以自由利用，但上古服不保证这些未修复的漏洞可以一直使用。随着服务端软件的更新，漏洞随时都有可能在不通知玩家的情况下被修复。**使用漏洞需谨慎，风险后果自承担。**
 
 ## 服务器优化 :id=optimization
 
-为了保证玩家能在服务器高负载时仍能够正常游玩，
+当城镇生存服的负载过高时，将暂时采取限制措施以保证游戏的正常运作。
 
-<mark>当且仅当</mark>游戏服务器的负载过高时，将自动采取以下一个/多个措施来降低负载：
-
-> [!tip]
-> 建议把高负荷操作放到在线玩家较少时进行，避免触发下列措施使得高负荷操作被迫暂停。
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-### 暂停红石电路 :id=supress-redstone
-
-运行频率过高的红石电路将在服务器负载过高时被自动暂停运行。
-
-为了保证电路整体性，当一个方块上的红石被检测出频率过高时，其周围`3×3`区块内的所有红石也会被暂停。
-
-被暂停的红石电路不会因此而损坏，也不会被拆除任何部件，只是暂时不工作。降低频率/等待负载降低都可以让电路恢复运行。
-
-<!-- div:right-panel -->
-
-### 降低生物智商 :id=supress-ai
-
-降智之后的生物不会对周遭事物做出反应，例如苦力怕遇到玩家不会爆炸，牛羊不会吃草，鸡不会下蛋。
-
-末影人、僵尸猪人、海豚永远不会被降智。
-
-<!-- panels:end -->
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-### 降低[方块刻][random-tick-speed] :id=set-random-tick-speed
-
-当方块刻被降低后，游戏世界里关于方块的随机事件发生频率将会变低，例如植物的生长会变慢等等。
-
-[random-tick-speed]: https://minecraft-zh.gamepedia.com/%E5%88%BB#.E6.96.B9.E5.9D.97.E5.88.BB
-
-<!-- div:right-panel -->
-
-### 解除措施 :id=recovery
-
-<mark>当服务器负载较低时，将自动解除上面的限制措施。</mark>
-
-<!-- panels:end -->
+👉[查看详情](/mc-servers/survival/optimization.md)
