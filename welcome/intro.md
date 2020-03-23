@@ -10,7 +10,7 @@
 [server-creative]: /mc-servers/creative.md
 [server-modded]: /mod
 
-# 欢迎！ :id=intro {docsify-ignore-all}
+# 上古时代 :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
 > [城镇生存服][server-survival]已升级至 Minecraft `1.15.2` - [嗡嗡蜂群更新](https://minecraft-zh.gamepedia.com/1.15)
