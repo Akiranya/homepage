@@ -21,7 +21,7 @@
 
 ## 关于本站 :id=about-us
 
-本站主要介绍`上古时代 Minecraft 服务器`的特色内容，也会穿插一点其他游戏服务器的相关信息。如果你想了解 Minecraft 本身的内容与玩法，请访问：[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：[菜鸟手册][beginner-guide]。
+本站主要介绍「上古时代 Minecraft 服务器」的特色内容，也会穿插一点其他游戏服务器的相关信息。如果你想了解 Minecraft 本身的内容与玩法，请访问：[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：[菜鸟手册][beginner-guide]。
 
 ## 联系我们 :id=contact-us
 

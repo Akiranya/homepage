@@ -17,15 +17,44 @@
   <link rel="stylesheet" href="assets/stylesheets/fontawesome.css">
   <style>
     :root {
+      /* Monochrome shades (darker) and tints (lighter) */
+      --base-font-size: 15px;
+
+      /* Theme */
+      --theme-hue: 153;
+      --theme-saturation: 47%;
+      --theme-lightness: 49%;
+      --theme-color: hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
+
+      /* Link */
       --link-text-decoration: ;
       --link-text-decoration--hover: underline;
-      --link-color: rgb(65, 155, 255);
+      --link-color: hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
+
       --docsify-example-panels-left-panel-width: 50%;
       --docsify-example-panels-right-panel-width: 50%;
+
       /* Keyboard */
       --kbd-margin: 0 0.3em;
       --kbd-min-width: 2.5em;
       --kbd-padding: 0.45em 0.4em;
+
+      /* Code */
+      --code-font-family: Roboto Mono, Monaco, courier, monospace;
+      --code-font-size: calc(var(--font-size-m) * 0.95);
+      --code-font-weight: normal;
+      --code-tab-size: 4;
+
+      --code-block-border-radius: var(--border-radius-m);
+      --code-block-line-height: var(--base-line-height);
+      --code-block-margin: 1em 0;
+      --code-block-padding: 1.75em 1.5em 1.5em 1.5em;
+
+      --code-inline-background: var(--code-theme-background);
+      --code-inline-border-radius: var(--border-radius-s);
+      --code-inline-color: #e96900;
+      --code-inline-margin: 0 0.15em;
+      --code-inline-padding: 0.125em 0.4em;
     }
   </style>
 </head>
@@ -114,12 +143,6 @@
         style: 'text-align: right;',
         style: 'className'
       },
-      pagination: {
-        previousText: '上一章节',
-        nextText: '下一章节',
-        crossChapter: true,
-        crossChapterText: true,
-      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -131,7 +154,6 @@
   <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
-  <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
   <script src="//unpkg.com/docsify-copy-code@2"></script>
   <script src="https://kit.fontawesome.com/bbc04843f6.js" crossorigin="anonymous"></script>
 </body>
