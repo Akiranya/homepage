@@ -91,6 +91,15 @@
     * explosion - 开启/关闭脚下区块的爆炸
     * mob - 开启/关闭脚下区块的怪物生成
   * clear - 清除脚下地皮里的牌子（用于解锁的牌子锁）
+  * group
+    * add|new|create {groupname} - 以玩家脚下区块创建一个组，也可用于把脚下区块添加进现有的组
+    * remove - 将脚下区块从其所属的组中移除
+    * rename {newname} - 重命名组
+    * set {plottype} - 把脚下`组区块`设置成指定的地皮类型。无法用于监狱地皮
+    * set perm ... - 用于设置脚下`组区块`的领地权限。如果忘记 set perm 的用法可以参考上面的 /plot set perm
+    * toggle ... - 用于开关脚下`组区块`的各种设置。如果忘记 toggle 的用法可以参考上面的 /plot toggle
+    * forsale|fs {price} - 设置脚下`组区块`的售价
+    * notforsale|nfs - 设置脚下`组区块`为不出售
 
 ## /resident
 
