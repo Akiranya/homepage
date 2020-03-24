@@ -17,7 +17,7 @@
 
 <i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
 
-## 游戏特色
+## 服务器特色
 
 ### [城镇生存服](/sur)
 
