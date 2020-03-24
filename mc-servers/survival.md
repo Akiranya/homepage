@@ -125,6 +125,4 @@
 
 ## 服务器优化 :id=optimization
 
-当城镇生存服的负载过高时，将暂时采取限制措施以保证游戏的正常运作。
-
 👉[查看详情](/mc-servers/survival/optimization.md)
