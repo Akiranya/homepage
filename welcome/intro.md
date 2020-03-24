@@ -1,15 +1,3 @@
-[homepage]: https://www.mimaru.me/
-[bbs]: http://bbs.mimaru.me/
-[dynmap]: http://map.mimaru.me:8123/
-[qqgroup]: http://shang.qq.com/wpa/qunwpa?idkey=6bf79ba005ae8c932177afa1f64ac96d0e6bf7c59f8c393b0f9ef8f3f69d6f15
-[mcwiki]: https://minecraft-zh.gamepedia.com/
-[beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C
-[java]: https://www.java.com/zh_CN/download/
-[faq]: /welcome/faq.md
-[server-survival]: /mc-servers/survival.md
-[server-creative]: /mc-servers/creative.md
-[server-modded]: /mod
-
 # 上古时代 :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
@@ -48,3 +36,15 @@
 
 - 有任何疑问欢迎在[QQ群][qqgroup]发问或到[论坛][bbs]发帖 ( * ̀ω*́ )✧
 - 服务器的最新动态、改动都会在论坛第一时间发布，还请多多关注论坛哦！
+
+[homepage]: https://www.mimaru.me/
+[bbs]: http://bbs.mimaru.me/
+[dynmap]: http://map.mimaru.me:8123/
+[qqgroup]: http://shang.qq.com/wpa/qunwpa?idkey=6bf79ba005ae8c932177afa1f64ac96d0e6bf7c59f8c393b0f9ef8f3f69d6f15
+[mcwiki]: https://minecraft-zh.gamepedia.com/
+[beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C
+[java]: https://www.java.com/zh_CN/download/
+[faq]: /welcome/faq.md
+[server-survival]: /mc-servers/survival.md
+[server-creative]: /mc-servers/creative.md
+[server-modded]: /mod
