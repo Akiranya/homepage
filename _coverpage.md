@@ -6,4 +6,4 @@
 > 一个兴趣使然的 Minecraft 服务器
 
 [茶馆](https://bbs.mimaru.me/)
-[进入主页](/welcome/intro.md#intro)
+[进入主页](/home)
