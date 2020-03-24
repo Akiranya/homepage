@@ -17,19 +17,19 @@
 
 ## 加入服务器 :id=join-us
 
-**前置条件**
+### 前置条件
 
 - 您拥有正版 Minecraft（国际服）。
 - 您已阅读并且会遵守[游戏规则](welcome/rules.md)。
 
 如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个（可能需要梯子）。
 
-**一切就绪**
+### 一切就绪
 
 都准备好啦？选择一个你喜欢的服务器加入吧 <3!
 
-<a class="button" href="#/mc-servers/survival">城镇生存服</a>
-<a class="button" href="#/mc-servers/creative">自由创造服</a>
+<a class="button" href="#/sur">城镇生存服</a>
+<a class="button" href="#/cre">自由创造服</a>
 <a class="button" href="#/mod">探索模组服</a>
 
 ## 最后 :id=tips
