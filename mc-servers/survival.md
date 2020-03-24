@@ -125,4 +125,6 @@
 
 ## 服务器优化 :id=optimization
 
+为了同时保证高自由度和流畅不卡顿的游戏体验，我们优化了城镇生存服。
+
 👉[查看详情](/mc-servers/survival/optimization.md)
