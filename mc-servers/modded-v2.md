@@ -8,9 +8,17 @@
 ![s1](../assets/images/servers/preview-gaia.jpg ':class=img-small')
 ![s1](../assets/images/servers/preview-tinker.jpg ':class=img-small')
 
-## 开放时间
+## 开放时间 :id=opening-hours
 
 探索模组服`7×24`小时运行。新周目开始/结束的时间一般在学生的寒暑假，具体请关注我们的[论坛][bbs]！
+
+## 服务器特色 :id=features
+
+- 主题化的模组内容，而非各类模组的大杂烩
+- 没有氪金成分和RPG元素，公平且原汁原味的模组体验
+- 每一周目都会制定新的模组主题，体验全新模组
+- 每一周目都会开设新的游戏地图，体验开荒乐趣
+- 虚拟经济系统，可开设店铺、与其他玩家交易
 
 ## 如何加入 :id=how-to-join
 
