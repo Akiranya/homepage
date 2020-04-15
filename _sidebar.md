@@ -4,19 +4,20 @@
   * [游戏规则](/rules)
   * [常用指令](/cmds)
   * [常见问题](/faq)
-  * [插件帮助](/plugins)
+  <!-- * [插件帮助](/plugins) -->
   * [权限组](/groups)
 
 * <i class="fas fa-stream"></i>服务器列表 & 帮助
+  * [陶可尼亚](/mew)
   * [城镇生存](/sur)
   * [自由创造](/cre)
-  * [探索模组](/mod)
+  <!-- * [探索模组](/mod) -->
   * [休闲游戏](/games)
 
 <!-- * 📖插件帮助
   
   * [城镇](plugins/towny.md)
-  * [机械](plugins/craftbook.md)
+  * [机械工艺](plugins/craftbook.md)
   * [宠物](plugins/mypet.md)
   * [交易](plugins/trade.md)
   * [聊天](plugins/chatutil.md)

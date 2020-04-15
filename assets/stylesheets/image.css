@@ -11,18 +11,26 @@
 
 .img-16 {
     width: 16px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .img-24 {
     width: 24px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .img-32 {
     width: 32px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .img-64 {
-    width: 32px;
+    width: 64px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .img-uni {

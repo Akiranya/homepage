@@ -30,9 +30,10 @@
 
 都准备好啦？选择一个你喜欢的服务器看看吧 <3!
 
-<a class="button" href="#/sur">城镇生存服</a>
-<a class="button" href="#/cre">自由创造服</a>
-<a class="button" href="#/mod">探索模组服</a>
+<a class="button" href="#/mew">陶可尼亚</a>
+<a class="button" href="#/sur">城镇生存</a>
+<a class="button" href="#/cre">自由创造</a>
+<!-- <a class="button" href="#/mod">探索模组服</a> -->
 
 ## 最后 :id=tips
 

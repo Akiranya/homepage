@@ -56,7 +56,14 @@
 
 ## 插件列表 & 帮助
 
-👉[点击查看](/welcome/plugins.md)
+这里只列出了玩家可用的插件列表。
+
+- [机械工艺](/plugins/craftbook.md)
+- [聊天拓展](/plugins/chatutil.md)
+- [记录查询](/plugins/logblock.md)
+- [盔甲架编辑器](/plugins/ast.md)
+- [建筑师工具](/plugins/bu.md)
+- [创世神](http://mineplugin.org/WorldEdit)
 
 ## 常见问题 & 解答
 
