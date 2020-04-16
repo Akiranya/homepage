@@ -59,7 +59,6 @@
 点击下方链接查看帮助。P.S. 这里只列出了玩家可用的插件列表。
  
 - [城镇](/plugins/towny.md)
-- [粘液科技](/plugins/slimefun.md)
 - [宠物](/plugins/mypet.md)
 - [村民商店](/plugins/shopkeepers.md)
 - [机械工艺](/plugins/craftbook.md)
