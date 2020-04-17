@@ -140,7 +140,7 @@
 
 无论你身处何方，只要敲击指令`/ah`，就可以打开`拍卖行`进行交易。
 
-![auctionhouse](/assets/images/plugins/auction-house.png)
+![auctionhouse](../assets/images/plugins/auction-house.png)
 
 ## 换图策略 :id=save-policy
 
