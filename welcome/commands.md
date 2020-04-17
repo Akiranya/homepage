@@ -1,6 +1,6 @@
 # 常用指令
 
-[tokenia]: /mc-servers/mew.md
+[mew]: /mc-servers/mew.md
 [survival]: /mc-servers/survival.md
 [creative]: /mc-servers/creative.md
 [modded]: /mod
