@@ -47,7 +47,7 @@
 [mcwiki]: https://minecraft-zh.gamepedia.com/
 [beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C
 [java]: https://www.java.com/zh_CN/download/
-[faq]: /welcome/faq.md
-[server-survival]: /mc-servers/survival.md
-[server-creative]: /mc-servers/creative.md
+[faq]: /faq
+[server-survival]: /sur
+[server-creative]: /cre
 [server-modded]: /mod
