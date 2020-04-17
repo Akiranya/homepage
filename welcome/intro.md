@@ -1,7 +1,7 @@
 # 上古时代 :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
-> [城镇生存服][server-survival]已升级至 Minecraft `1.15.2` - [嗡嗡蜂群更新](https://minecraft-zh.gamepedia.com/1.15)
+> 新服[陶可尼亚](/mc-servers/mew.md)已正式开放 - 全员开荒中！
 
 ![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
