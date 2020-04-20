@@ -1,6 +1,6 @@
 # 城镇生存服·第十四周目
 
-> 城镇生存服是一个以冒险与探索、收集与建造为主题的服务器。建设并经营自己的[城镇](/plugins/towny.md)是这里的主要玩法之一。并且[家园世界](#home_worlds)长期不换图，适合喜欢玩长期地图的玩家。此外我们还添加了一些完善联机游戏体验的插件，详见[插件列表](#plugins)。
+> 城镇生存服是一个以冒险与探索、收集与建造为主题的服务器。建设并经营自己的[城镇](/plugins/towny.md)是这里的主要玩法之一。并且[家园世界](#home_worlds)长期不换图，适合喜欢玩长期地图的玩家（建筑党的福音）。此外我们还添加了一些有趣且实用的插件，详见[插件列表](#plugins)。
 
 ![ruin](../assets/images/townsgallery/ruin.jpg ':class=img-small')
 ![cover-yukumo](../assets/images/cover-yukumo-fixed.jpg ':class=img-small')

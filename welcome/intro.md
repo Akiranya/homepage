@@ -1,7 +1,7 @@
 # 上古时代 MewCraft :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
-> 新服[陶可尼亚](/mc-servers/mew.md)已正式开放 - 全员开荒中！
+> 新服[陶可尼亚](/mc-servers/mew.md)现已正式开放 - 粘液科技下的城镇生存 - 全员开荒中！
 
 ![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
