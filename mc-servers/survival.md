@@ -68,7 +68,7 @@
 
 ## 常见问题 & 解答 :id=faq
 
-👉[点击查看](/mc-servers/survival/faq.md)
+👉[点击查看](/mc-servers/survival/faq.$$md)
 
 ## 世界列表 :id=worlds
 

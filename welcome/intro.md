@@ -1,4 +1,4 @@
-# 上古时代 :id=intro {docsify-ignore-all}
+# 上古时代 MewCraft :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
 > 新服[陶可尼亚](/mc-servers/mew.md)已正式开放 - 全员开荒中！
