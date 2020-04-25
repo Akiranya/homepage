@@ -165,9 +165,7 @@ plots.info
 plots.set.biome
 plots.set.home
 plots.use
-plots.visit
-plots.visit.unowned
-plots.list
+plots.visit.*
 plots.list.*
 ```
 
