@@ -60,7 +60,7 @@
 |:-:|:-:|:-:|
 |![shopkeepers-step5](../assets/images/plugins/shopkeepers-step5.jpg ':class=img-uni')|![shopkeepers-step6](../assets/images/plugins/shopkeepers-step6.jpg ':class=img-uni')|![shopkeepers-step7](../assets/images/plugins/shopkeepers-step7.jpg ':class=img-uni')|
 
-商店编辑器里的`每一竖列`代表的是`1`个村民交易公式；箱子有`9`竖列，所以单个页面可以创建`9`个交易公式。通过翻页<sub>（点击商店编辑器里的书与笔）</sub>玩家最多可以在单个商店里设置`45`个交易公式。
+商店编辑器里的`每一竖列`代表的是`1`个村民交易公式；箱子有`9`竖列，所以单个页面可以创建`9`个交易公式。通过翻页<small>（点击商店编辑器里的书与笔）</small>玩家最多可以在单个商店里设置`45`个交易公式。
 
 5、设置好商店后，直接关掉商店编辑器界面即可保存。
 
