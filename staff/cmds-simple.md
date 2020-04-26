@@ -57,7 +57,7 @@
 
 ## CoreProtect | [记录查询](/plugins/logblock.md)
 
-可用于查询&回档，详见下面[插件教程](#tuts)
+可用于查询&回档，详见[进阶指南](/staff/cmds-advanced.md)
 
 ## Ess | Essntials
 
