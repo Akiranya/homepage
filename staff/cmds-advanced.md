@@ -10,7 +10,7 @@
 
 ## 记录查询 | CoreProtect
 
-[城镇生存服](/mc-servers/survival.md)和[自由创造服](/mc-servers/creative.md)使用的记录查询插件。
+原版服（非模组服）都在使用的[记录查询](/plugins/logblock.md)插件。
 
 了解子指令`lookup`，`rollback`和`restore`的用法就足够啦。
 
@@ -25,7 +25,9 @@
 
 ## 保护区 | WorldGuard
 
-保护区插件，主要了解以下功能：
+保护区插件，简单来说是一个给管理员使用的领地插件。
+
+了解以下功能就足以应付大多数情况：
 
 - 创建/删除保护区
 - 给保护区添加成员
@@ -36,7 +38,7 @@
 
 ## 创世神 | WorldEdit
 
-地图编辑器，也叫创世神。
+再熟悉不过的游戏内地图编辑器了，也叫“WE”、“创世神”。
 
 - [MinePlugin](http://mineplugin.org/WorldEdit)
 - [官方百科 - 全部用法](https://worldedit.enginehub.org/en/latest/usage/)
@@ -44,18 +46,20 @@
 
 ## Ess | Essentials
 
-Ess 的相关指令。
+Ess 这个插件的主要功能就是提供最基础的指令。大家常用的`tp`，`home`等都是 Ess 的功能。
 
-TODO 写上如何用 Ess 刷出特定的物品。
+TO-DO 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**或**制作活动奖励**。
 
-`/enchant` - 用来给物品附魔
-`/item` - 用来产生指定物品
+- `/enchant` - 用来给物品附魔
+- `/item` - 用来产生指定物品
 
 [官方百科 - Ess 的所有指令列表](https://essinfo.xeya.me/commands.html)
 
 ## 自定义村民 | ShopKeepers
 
-自定义村民的交易。
+让你可以随意编辑村民的交易公式。
+
+城镇生存服的**建材兑换商店**、**玩家村民商店**就是该插件的实际应用。
 
 [官方百科 - 如何创建村民商店](https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki/Creating-Shops)
 
@@ -67,7 +71,7 @@ TODO 写上如何用 Ess 刷出特定的物品。
 
 ## 违禁品管理 | MMCRestrict
 
-违禁品管理插件。该插件只能在`模组服`使用。
+违禁品管理插件，用来控制特定物品的使用权限。该插件只能在`模组服`使用。
 
 基本用法：
 
