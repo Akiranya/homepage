@@ -45,4 +45,4 @@
 * [上古梗](stories.md)
 * [捐助我们](sponsor.md)
 * [参与贡献](contribution.md)
-* [管理员手册](staff.md)
+* [运维手册](staff.md)
