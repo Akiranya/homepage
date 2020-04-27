@@ -138,7 +138,7 @@
   禁止圈地权限:
     MenuItem:
     - type:player_head
-    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNiYTAyNGMwNzRiNWQ5YWRmNTJlY2VjZGVkNmI0YTlkMTRmMWEyZjQxMzg2MzVkYjc5YTk1NmZiYWIxNDM1MCJ9fX0=
+    - customskull:...
     - amount:1
     - name:&c[swords] &f&l关闭 &6&l圈地权限
     RewardType: command
@@ -151,7 +151,7 @@
   开放圈地权限:
     MenuItem:
     - type:player_head
-    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWI2N2VkYjZhYjIxMjlhM2I0MzlkZGU5ODg2OWUwNWFmODFjODZkOTQ4MTVlMzdkMzEzNTliY2QzZGRmNDU4ZCJ9fX0=
+    - customskull:...
     - amount:1
     - name:&a[v] &f&l开放 &6&l圈地权限
     RewardType: command
