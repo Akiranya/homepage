@@ -89,7 +89,7 @@
 
 #### menu.yml
 
-更新快捷菜单`{创造服目录}/plugins/BossShopPro/shops/menu.yml`，把下面图标里的`name`更新一下：
+快捷菜单`{创造服目录}/plugins/BossShopPro/shops/menu.yml`，更新以下图标的`name`：
 
 - 如果比赛已结束，需要标明`&c(已结束)`（注意颜色代码）
 - 如果比赛即将开始/进行当中，需要标明`&a(即将开始)`或`&a(进行当中)`
@@ -110,7 +110,7 @@
 
 #### game.yml
 
-更新快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game.yml`，更新下面图标的`Reward`：
+快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game.yml`，更新下面图标的`Reward`：
 
 ```yaml
   go-battle:
@@ -130,9 +130,26 @@
     CloseShopAfterPurchase: true
 ```
 
+还有这个图标的`Message`：
+
+```yaml
+  game-info:
+    MenuItem:
+    - type:book
+    - amount:1
+    - name:&b&l比赛详情 &e(必读)
+    - lore:&7
+    - lore:&7查看本届比赛的规则与评分细则.
+    RewardType: CLOSE
+    Reward: wiki
+    PriceType: NOTHING
+    Message: '&7建筑比赛·第八届公示 &6https://bbs.mimaru.me/d/431-2020'
+    InventoryLocation: 1
+```
+
 #### game_host.yml
 
-更新快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game_host.yml`，更新下面图标的`Reward`：
+快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game_host.yml`，更新下面图标的`Reward`：
 
 ```yaml
   禁止圈地权限:
@@ -189,7 +206,7 @@ plots.list.*
 
 这是玩家仅仅在比赛期间才继承的权限组。
 
-该权限组的作用是控制玩家是否能`领新地皮`和`清空地皮`。
+该权限组的作用是控制玩家是否能`领新地皮`和`清空地皮`，以及能否在地皮里使用`WE`。
 
 ```group: game_ongoing
 plots.claim
@@ -197,6 +214,8 @@ plots.delete
 plots.plot.1
 plots.plot.2
 plots.plot.{x} # 这个是玩家可以声明的最大地皮数。随着往届建筑比赛越来越多，这个数值也应该相应提高
+group.worldedit
+group.worldedit_basic
 ```
 
 #### 比赛开始之前的操作
