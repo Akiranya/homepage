@@ -5,29 +5,29 @@
 
 ![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
-> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。这里欢迎所有志同道合的小伙伴加入我们( * ̀ω*́ )✧！
+> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。这里欢迎一切友善的小伙伴加入我们( * ̀ω*́ )✧！
 
-## 加入服务器 :id=join-us
+## 联系我们 :id=contact-us
 
-### 前置条件
+<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
 
-- 您拥有**正版** Minecraft<em>（国际服）</em>。
-- 您已阅读并且会遵守[服务器规则](welcome/rules.md)。
+## 加入游戏 :id=join-us
+
+**前置条件**
+
+- 您拥有**正版** Minecraft（国际服）
+- 您已阅读并且会遵守[服务器规则](welcome/rules.md)
 
 如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个。
 
 ---
 
-然后从下面选择一个你喜欢的服务器看看吧 <3!
+**然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ**
 
 <a class="button" href="#/mew">陶可尼亚</a>
 <a class="button" href="#/sur">城镇生存</a>
 <a class="button" href="#/cre">自由创造</a>
 <!-- <a class="button" href="#/mod">探索模组服</a> -->
-
-## 联系我们 :id=contact-us
-
-<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
 
 ## 最后 :id=tips
 
