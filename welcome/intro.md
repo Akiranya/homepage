@@ -5,40 +5,35 @@
 
 ![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
 
-> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。欢迎一切志同道合的小伙伴加入我们一起来玩！
-
-## 关于本站 :id=about-us
-
-本站主要介绍「上古时代 Minecraft 服务器」的特色内容 & 帮助信息，也会穿插一点其他游戏服务器的相关内容。
-
-如果你想了解 Minecraft 本身的内容与玩法，请访问：[Minecraft 官方百科][mcwiki]。如果是刚接触这款游戏，可以参考：[菜鸟手册][beginner-guide]。
-
-## 联系我们 :id=contact-us
-
-<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
+> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。这里欢迎所有志同道合的小伙伴加入我们( * ̀ω*́ )✧！
 
 ## 加入服务器 :id=join-us
 
 ### 前置条件
 
-- 您拥有正版 Minecraft（国际服）。
-- 您已阅读并且会遵守[游戏规则](welcome/rules.md)。
+- 您拥有**正版** Minecraft<em>（国际服）</em>。
+- 您已阅读并且会遵守[服务器规则](welcome/rules.md)。
 
-如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个（可能需要梯子）。
+如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个。
 
-### 准备就绪
+---
 
-都准备好啦？选择一个你喜欢的服务器看看吧 <3!
+正版已就绪？那么选择一个你喜欢的服务器看看吧 <3!
 
 <a class="button" href="#/mew">陶可尼亚</a>
 <a class="button" href="#/sur">城镇生存</a>
 <a class="button" href="#/cre">自由创造</a>
 <!-- <a class="button" href="#/mod">探索模组服</a> -->
 
+## 联系我们 :id=contact-us
+
+<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
+
 ## 最后 :id=tips
 
-- 有任何疑问欢迎在[QQ群][qqgroup]发问或到[论坛][bbs]发帖 ( * ̀ω*́ )✧
-- 服务器的最新动态、改动都会在论坛第一时间发布，还请多多关注论坛哦！
+- 有任何疑问欢迎在[QQ群][qqgroup]发问，或到[上古茶馆][bbs]发帖。
+- 服务器的最新动态都会在茶馆第一时间发布，请多多关注～
+- 如果您是初次游玩 Minecraft，可以参考攻略：[菜鸟手册][beginner-guide]。
 
 [homepage]: https://www.mimaru.me/
 [bbs]: http://bbs.mimaru.me/
