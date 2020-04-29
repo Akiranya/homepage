@@ -101,7 +101,8 @@
     MenuItem:
       - type:bookshelf
       - amount:1
-      - name:&a[v] &7参加 &e&l第{x}届个人建筑比赛 {&c(已结束)|&a(即将开始)|&a(进行中)} # 更新下 "name:" 后面的内容
+      # 更新下 "name:" 后面的内容
+      - name:&a[v] &7参加 &e&l第{x}届个人建筑比赛 {&c(已结束)|&a(即将开始)|&a(进行中)}
     RewardType: shop
     Reward: game
     PriceType: nothing
@@ -160,7 +161,8 @@
     - name:&c[swords] &f&l关闭 &6&l圈地权限
     RewardType: command
     Reward:
-    - lp group default_build parent remove game_ongoing world={当前比赛世界} # 更新 world= 后面的世界为当前的建筑比赛世界
+    # 更新 world= 后面的世界为当前的建筑比赛世界
+    - lp group default_build parent remove game_ongoing world={当前比赛世界}
     PriceType: nothing
     InventoryLocation: 20
     CloseShopAfterPurchase: true
@@ -173,7 +175,8 @@
     - name:&a[v] &f&l开放 &6&l圈地权限
     RewardType: command
     Reward:
-    - lp group default_build parent add game_ongoing world={当前比赛世界} # 更新 world= 后面的世界为当前的建筑比赛世界
+    # 更新 world= 后面的世界为当前的建筑比赛世界
+    - lp group default_build parent add game_ongoing world={当前比赛世界}
     PriceType: nothing
     InventoryLocation: 21
     CloseShopAfterPurchase: true
@@ -312,8 +315,8 @@ lp group default_build parent remove game_ongoing world={当前比赛的世界�
       auto_merge: false
       create_signs: true
     wall:
-      block: stone_slab # 地皮边框为 stone_slab（地皮还未被 claimed 时）
-      block_claimed: quartz_slab # 已经被 claimed 的地皮边框应该为 quartz_slab（石英台阶）
+      block: stone_slab # 还未被 claimed 的地皮的边框
+      block_claimed: quartz_slab # 已经被 claimed 的地皮的边框
       filling: oak_planks # 边框之下填充为 oak_planks
       height: 60 # 围墙高度，请保持全部一致
     road:
