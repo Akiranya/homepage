@@ -11,7 +11,7 @@
 
 <!-- panels:start -->
 <!-- div:left-panel -->
-![电梯](../assets/images/plugins/cb-elevator.png ':class=img-center')
+![电梯](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-elevator.png ':class=img-center')
 <!-- div:right-panel -->
 这台电梯的一楼告示牌的第二行写的是`[Lift Up]`，二楼告示牌的第二行写的是`[Lift Down]`。
 <!-- panels:end -->
@@ -44,7 +44,7 @@
 
 #### 三层楼的建造方案
 
-下面是一个三层楼的建造方案（![三层楼](../assets/images/plugins/cb-elevator-3-floors.png ':class=img-16') 点击看大图）
+下面是一个三层楼的建造方案（![三层楼](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-elevator-3-floors.png ':class=img-16') 点击看大图）
 
 | 楼层 | 告示牌          | 告示牌          |
 | ---- | ------------- | ------------- |
@@ -91,18 +91,18 @@
 > [!tip|label:操作说明]
 > 用煤炭右键一段红石电路，可以检测电流强度（范围`0-15 A`）。
 
-![电表](../assets/images/plugins/cb-ammeter.png ':class=img-center')
+![电表](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-ammeter.png ':class=img-center')
 
 ## 光感器
 
 > [!tip|label:操作说明]
 > 用萤石粉右键一个地方，可以检测光照强度（范围`0-15 L`）。
 
-![光感器](../assets/images/plugins/cb-lightstone.png ':class=img-center')
+![光感器](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-lightstone.png ':class=img-center')
 
 ## 换画
 
 > [!tip|label:操作说明]
 > 先鼠标右键一幅画，然后滚动<kbd>鼠标滚轮</kbd>就可以更换墙壁上的画。
 
-![换画](../assets/images/plugins/cb-painting-switcher.png ':class=img-center')
+![换画](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-painting-switcher.png ':class=img-center')

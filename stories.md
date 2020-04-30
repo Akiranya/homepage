@@ -49,7 +49,7 @@
 
 一些人认为，"可乐脸"一词最早由上古服玩家Zeal*（上古服内玩家，原Deng城城主，管理着红魔馆建筑群）*在上古群内使用，当时的发言如下图所示：
 
-![zeal的聊天记录](assets/images/stories/kelelian-1.png)
+![zeal的聊天记录](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/kelelian-1.png)
 
 > 戴上面具，就是伊甸之主。
 
@@ -59,20 +59,20 @@
 
 由HUHU79*（Eden王国的雕塑师，擅长动物类雕塑，作品有"休斯顿狮鹫像"等）*和Casdy*（Eden王国的高阶设计师之一，塔利亚城主，作品有遗弃灯塔等）*等人带头恶搞可乐的头像，后逐渐发展成一个系列表情，在上古群内流传使用，现在依然有人不断添加完善这个系列。这套表情的特点在于：全部基于可乐的老虎头像修改而成，可卖萌可鬼畜，简直无所不能，故而被大家广泛接受。
 
-![face1](assets/images/stories/qq20131108173646.jpg)
-![face2](assets/images/stories/qq20131108173648.jpg)
-![face3](assets/images/stories/qq20131108173650.jpg)
-![face4](assets/images/stories/qq20131108173653.jpg)
-![face5](assets/images/stories/qq20131108173655.jpg)
-![face6](assets/images/stories/qq20131108173709.jpg)
-![face7](assets/images/stories/qq20131108173701.jpg)
-![face8](assets/images/stories/qq20131108173703.jpg)
-![face9](assets/images/stories/qq20131108173706.jpg)
-![face11](assets/images/stories/qq20131108173712.jpg)
-![face12](assets/images/stories/qq20131111130216.jpg)
-![face13](assets/images/stories/qq20131111191102.jpg)
-![face14](assets/images/stories/qq20131112131645.jpg)
-![face15](assets/images/stories/qq20131115173536.jpg)
+![face1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173646.jpg)
+![face2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173648.jpg)
+![face3](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173650.jpg)
+![face4](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173653.jpg)
+![face5](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173655.jpg)
+![face6](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173709.jpg)
+![face7](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173701.jpg)
+![face8](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173703.jpg)
+![face9](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173706.jpg)
+![face11](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131108173712.jpg)
+![face12](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131111130216.jpg)
+![face13](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131111191102.jpg)
+![face14](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131112131645.jpg)
+![face15](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20131115173536.jpg)
 
 ## 🥳小Q好妹妹
 
@@ -200,8 +200,8 @@
 - 与人类友好程度：高
 - 属性：LL神教
 
-![三星自画像](assets/images/stories/qq20150623055007.png)
-![三星屎出来](assets/images/stories/sanxingshichunan.jpg)
+![三星自画像](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20150623055007.png)
+![三星屎出来](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/sanxingshichunan.jpg)
 
 ## 🤦‍喜多米**
 
@@ -211,8 +211,8 @@
 
 某个阴雨绵绵的夜晚，身为上古好变态的喜多米突然开始询问起「痛经」……
 
-![喜多米聊天记录1](assets/images/stories/qq20150622035955.png)
-![喜多米聊天记录2](assets/images/stories/qq20150622040009.png)
+![喜多米聊天记录1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20150622035955.png)
+![喜多米聊天记录2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/qq20150622040009.png)
 
 ### 人物详解
 
@@ -222,25 +222,25 @@
 
 *看穿一切* 是从上古内阁群开始流传。当时小天使将 *某某看穿一切* 用在 *小米看穿一切* 图片上，并当表情使用，使得内阁各大小米控翻起prpr（请脑补）的巨浪。后被菜萌重制成：
 
-![BR看穿一切](assets/images/stories/br-kan-chuan-yi-qie.png)
-![大Q看穿一切](assets/images/stories/daq-kan-chuan-yi-qie.png)
-![可乐看穿一切](assets/images/stories/kele-kan-chuan-yi-qie.png)
-![山妈看穿一切](assets/images/stories/shanma-kan-chuan-yi-qie.png)
+![BR看穿一切](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/br-kan-chuan-yi-qie.png)
+![大Q看穿一切](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/daq-kan-chuan-yi-qie.png)
+![可乐看穿一切](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/kele-kan-chuan-yi-qie.png)
+![山妈看穿一切](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/shanma-kan-chuan-yi-qie.png)
 
 下面是小天使的原图
 
-![小米看穿一切](assets/images/stories/xiaomi-kan-chuan-yi-qie.jpg)
+![小米看穿一切](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/xiaomi-kan-chuan-yi-qie.jpg)
 
 ## 🎭灵魂画师
 
 我们上古有一位名为DD的少年，我们都叫他灵魂画师。
 
-![小米的忧愁](assets/images/stories/ling-hun-hua-shi-1.png)
-![狂野的忧愁](assets/images/stories/ling-hun-hua-shi-2.png)
-![天播音的忧愁](assets/images/stories/ling-hun-hua-shi-3.png)
-![山花的忧愁](assets/images/stories/ling-hun-hua-shi-4.png)
-![RD的忧愁](assets/images/stories/ling-hun-hua-shi-5.png)
-![喜多米的忧愁](assets/images/stories/ling-hun-hua-shi-6.png)
+![小米的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-1.png)
+![狂野的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-2.png)
+![天播音的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-3.png)
+![山花的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-4.png)
+![RD的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-5.png)
+![喜多米的忧愁](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ling-hun-hua-shi-6.png)
 
 ### 舔
 
@@ -248,7 +248,7 @@
 
 关于"舔"系列背景故事：~~已删除~~
 
-![舔BB](assets/images/stories/tian-1.png)
-![舔波音（扑倒）](assets/images/stories/tian-2.png)
-![舔BB（绿光）](assets/images/stories/tian-3.png)
-![舔波音](assets/images/stories/tian-4.png)
+![舔BB](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tian-1.png)
+![舔波音（扑倒）](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tian-2.png)
+![舔BB（绿光）](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tian-3.png)
+![舔波音](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tian-4.png)

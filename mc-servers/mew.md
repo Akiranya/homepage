@@ -116,7 +116,7 @@
 
 ## 自由市场经济 :id=eco
 
-在陶可尼亚，<mark>黄金</mark>![gold_ingot](https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/5/57/Gold_Ingot_JE3_BE2.png ':class=img-16')就是本位币。
+在陶可尼亚，<mark>黄金</mark>![gold_ingot](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/Gold_Ingot_JE3_BE2.png ':class=img-16')就是本位币。
 
 这里有两大交易平台：`中央集市`与`拍卖行`。
 
@@ -140,7 +140,7 @@
 
 无论你身处何方，只要敲击指令`/ah`，就可以打开`拍卖行`进行交易。
 
-![auctionhouse](../assets/images/plugins/auction-house.png)
+![auctionhouse](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/auction-house.png)
 
 ## 换图策略 :id=save-policy
 

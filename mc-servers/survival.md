@@ -2,15 +2,15 @@
 
 > 城镇生存服是一个以冒险与探索、收集与建造为主题的服务器。建设并经营自己的[城镇](/plugins/towny.md)是这里的主要玩法之一。并且[家园世界](#home_worlds)长期不换图，适合喜欢玩长期地图的玩家（建筑党的福音）。此外我们还添加了一些有趣且实用的插件，详见[插件列表](#plugins)。
 
-![ruin](../assets/images/townsgallery/ruin.jpg ':class=img-small')
-![cover-yukumo](../assets/images/cover-yukumo-fixed.jpg ':class=img-small')
-![fantasy](../assets/images/townsgallery/fantasy.jpg ':class=img-small')
-![kong-1](../assets/images/townsgallery/kong-1.jpg ':class=img-small')
-![suno-3](../assets/images/townsgallery/suno-3.jpg ':class=img-small')
-![scv](../assets/images/townsgallery/scv.jpg ':class=img-small')
-![hongmoguan](../assets/images/townsgallery/hongmoguan.jpg ':class=img-small')
-![cafe-1](../assets/images/townsgallery/cafe-1.jpg ':class=img-small')
-![purple_fox-1](../assets/images/townsgallery/purple-fox-1.jpg ':class=img-small')
+![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')
+![cover-yukumo](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
+![fantasy](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/fantasy.jpg ':class=img-small')
+![kong-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/kong-1.jpg ':class=img-small')
+![suno-3](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/suno-3.jpg ':class=img-small')
+![scv](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/scv.jpg ':class=img-small')
+![hongmoguan](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/hongmoguan.jpg ':class=img-small')
+![cafe-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cafe-1.jpg ':class=img-small')
+![purple_fox-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/purple-fox-1.jpg ':class=img-small')
 
 以上截图来自`主世界`<small>(版本1.12)</small>的玩家城镇。该世界现已迁移至[创造服](/mc-servers/creative.md)。
 

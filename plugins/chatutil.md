@@ -18,7 +18,7 @@
 
 如果要达到下面这样的效果：
 
-![秀秀我们的爱](../assets/images/plugins/color-code-example.png)
+![秀秀我们的爱](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/color-code-example.png)
 
 那么像下面这样使用颜色代码即可
 

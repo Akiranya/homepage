@@ -5,11 +5,11 @@
 
 > 欢迎来到`探索模组服·二周目`！这是一个以探索各大模组（即非游戏原版的额外游戏内容）直到最终"毕业"为主题的服务器。本周目的模组主题元素是`魔幻`，游戏模式为生存模式。有方便的[传送指令](/welcome/commands.md)以快速位移，还有[次元币经济系统](#eco)支持和其他玩家做交易。
 
-![s1](../assets/images/servers/preview-bloodmagic.jpg ':class=img-small')
-![s1](../assets/images/servers/preview-as.jpg ':class=img-small')
+![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-bloodmagic.jpg ':class=img-small')
+![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-as.jpg ':class=img-small')
 
-![s1](../assets/images/servers/preview-gaia.jpg ':class=img-small')
-![s1](../assets/images/servers/preview-tinker.jpg ':class=img-small')
+![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-gaia.jpg ':class=img-small')
+![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-tinker.jpg ':class=img-small')
 
 ## 开放时间 :id=opening-hours
 
@@ -153,7 +153,7 @@
 
 本周目采用了真实地形模组，使得主世界的地貌更加真实。主世界预览：
 
-![rtg](https://bbs.mcmod.cn/data/attachment/album/201704/25/172612s9u999z78d7gk85z.gif)
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/172612s9u999z78d7gk85z.gif)
 
 ## 更有趣的死亡
 

@@ -3,7 +3,7 @@
 > [!note|label:近期更新 ｜ Recent Updates]
 > 新服[陶可尼亚](/mc-servers/mew.md)现已正式开放 - 粘液科技下的城镇生存 - 全员开荒中！
 
-![2020跨年烟火晚会](../assets/images/2020_fireworks.jpg)
+![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg)
 
 > "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。这里欢迎一切友善的小伙伴加入我们( * ̀ω*́ )✧！
 

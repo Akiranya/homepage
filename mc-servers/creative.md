@@ -2,15 +2,15 @@
 
 > 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式（包括创造模式、观察者模式），且允许使用部分作弊[指令](/welcome/commands.md#creative)，建筑党和红石党可在此自由发挥想象力。此外[设计师](/welcome/groups.md#designer)还可以在此使用强大的`WorldEdit`减少重复劳动。
 
-![结云村](../assets/images/build/build-1.jpg ':class=img-small')
-![最开始的地方](../assets/images/build/build-2.jpg ':class=img-small')
-![建筑比赛的玩家人偶](../assets/images/build/build-3.jpg ':class=img-small')
-![Koishi的东方作品-1](../assets/images/build/build-4.jpg ':class=img-small')
-![puzioh的作品](../assets/images/build/build-5.jpg ':class=img-small')
-![Koishi的东方作品-2](../assets/images/build/build-6.jpg ':class=img-small')
-![CS地图运输船](../assets/images/build/build-7.jpg ':class=img-small')
-![帝国时代的建筑复刻](../assets/images/build/build-8.jpg ':class=img-small')
-![恋恋像素画](../assets/images/build/build-9.jpg ':class=img-small')
+![结云村](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-1.jpg ':class=img-small')
+![最开始的地方](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-2.jpg ':class=img-small')
+![建筑比赛的玩家人偶](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-3.jpg ':class=img-small')
+![Koishi的东方作品-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-4.jpg ':class=img-small')
+![puzioh的作品](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-5.jpg ':class=img-small')
+![Koishi的东方作品-2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-6.jpg ':class=img-small')
+![CS地图运输船](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-7.jpg ':class=img-small')
+![帝国时代的建筑复刻](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-8.jpg ':class=img-small')
+![恋恋像素画](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-9.jpg ':class=img-small')
 
 ## 开放时间 :id=opening-hours
 

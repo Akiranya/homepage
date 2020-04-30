@@ -1,7 +1,7 @@
 # 宠物
 
 > [!note|label:宠物系统]
-> ![宠物系统](https://mypet-plugin.de/img/logo_100.png ':class=img-16') 宠物系统可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当你的移动背包，甚至是移动信标。部分宠物还可以当成🐴来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
+> ![宠物系统](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-logo-100.png ':class=img-16') 宠物系统可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当你的移动背包，甚至是移动信标。部分宠物还可以当成🐴来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
 
 ?> 如有问题，请先参考[常见问题](#faq)。
 
@@ -358,7 +358,7 @@
   - `/petcst`
 - 使用该指令后会出现一个箱子界面，如下图：
 
-![选择职业](../assets/images/plugins/mypet-pcst.png)
+![选择职业](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-pcst.png)
 
 ### /petcapturehelper
 
@@ -396,7 +396,7 @@
   - `/pi`
   - `/peti`
 
-![宠物的物品栏](../assets/images/plugins/mypet-inventory.gif)
+![宠物的物品栏](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-inventory.gif)
 
 ### /petpickup
 
@@ -406,7 +406,7 @@
   - `/pp`
   - `/petp`
 
-![宠物拾取东西](../assets/images/plugins/mypet-pickup.gif)
+![宠物拾取东西](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-pickup.gif)
 
 ### /petbehavior
 
@@ -425,17 +425,17 @@
   - `/pb`
   - `/petb`
 
-![宠物的行为模式](../assets/images/plugins/mypet-behavior.gif)
+![宠物的行为模式](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-behavior.gif)
 
 ### /petbeacon
 
-- 打开宠物的信标技能窗口 ![宠物信标界面](../assets/images/plugins/mypet-beacon-inv.png ':class=img-32')（点击查看大图）。
+- 打开宠物的信标技能窗口 ![宠物信标界面](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-beacon-inv.png ':class=img-32')（点击查看大图）。
 - 默认情况，当信标开启时会持续消耗宠物的饥饿值。️
 - 短指令：
   - `/pbeacon`
   - `/petbeacon`
 
-![宠物信标操作](../assets/images/plugins/mypet-beacon.gif)
+![宠物信标操作](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-beacon.gif)
 
 ## 管理指令
 

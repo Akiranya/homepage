@@ -1,6 +1,6 @@
 # 记录查询
 
-![记录查询](../assets/images/plugins/coreprotect2-banner_bukkit.png)
+![记录查询](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/coreprotect2-banner_bukkit.png)
 
 `CoreProtect`（下面简称 `co`）让玩家可以追溯游戏世界里的大部分事件的记录，例如方块的破坏，实体的死亡。如果是管理员，还可以使用该插件回滚指定记录（一般用于恢复熊孩子造成的破坏）。
 
@@ -38,4 +38,4 @@
 
 ## 截图
 
-![记录查询](../assets/images/plugins/coreprotect-view.png)
+![记录查询](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/coreprotect-view.png)
