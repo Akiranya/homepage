@@ -1,7 +1,7 @@
 # 宠物
 
 > [!note|label:宠物系统]
-> ![宠物系统](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-logo-100.png ':class=img-16') 宠物系统可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当你的移动背包，甚至是移动信标。部分宠物还可以当成🐴来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
+> ![宠物系统](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-logo-100.png ':class=img-16')宠物系统可以让你将一只普通的生物转换为`宠物`。宠物可以冒险时和你一起战斗，探索时充当移动背包，甚至是移动信标！部分宠物还可以当成🐴来骑。如果宠物具有飞行属性，你甚至还可以骑着宠物飞行～
 
 ?> 如有问题，请先参考[常见问题](#faq)。
 
