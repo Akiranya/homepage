@@ -1,6 +1,6 @@
 # 陶可尼亚·第一周目
 
-> 陶可尼亚是一个以冒险与探索、收集与建造为主题的生存服务器。建设并经营自己的[城镇](/plugins/towny.md)是这里的主线，与此同时还有以黄金为本位币、玩家自己主导的[自由市场经济](#eco)。陶可尼亚还有可玩性极高的插件，例如仿模组的[粘液科技](/plugins/slimefun.md)，养成类的[宠物系统](/plugins/mypet.md)，实用类的[机械工艺](/plugins/craftbook.md)等等。
+> **陶可尼亚**完全继承了原版生存的游戏体验。在此基础上，这里添加了很多趣味十足的插件～建设并经营自己的[城镇](/plugins/towny.md)是这里的主线。除此之外还有玩家自己主导、以黄金为本位币的[自由市场经济](#eco)。这里还有新增了500多种科技/魔法物品的[粘液科技](/plugins/slimefun.md)，养成类的[宠物系统](/plugins/mypet.md)，实用类的[机械工艺](/plugins/craftbook.md)，以及额外的、带有阶段性奖励的成就系统。
 
 ## 周目信息 :id=genernal-info
 
@@ -105,8 +105,8 @@
 
 <!-- panels:end -->
 
-> [!tip|label:世界命名规则]
-> 世界的命名规则为`世界分类-世界维度`。对于`-`前半部分`世界分类`，以`w`开头代表这个世界是`家园世界`，后面跟着的`数字`代表`家园世界`开始的`版本号`；`ex`代表这个世界是`资源世界`。对于`-`后半部分`世界维度`，为`0`代表[主世界][the_overworld]，为`1`代表[下界][the_nether]，为`2`代表[末路之地][the_end]。
+<!-- > [!tip|label:世界命名规则]
+> 世界的命名规则为`世界分类-世界维度`。对于`-`前半部分`世界分类`，以`w`开头代表这个世界是`家园世界`，后面跟着的`数字`代表`家园世界`开始的`版本号`；`ex`代表这个世界是`资源世界`。对于`-`后半部分`世界维度`，为`0`代表[主世界][the_overworld]，为`1`代表[下界][the_nether]，为`2`代表[末路之地][the_end]。 -->
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
@@ -116,7 +116,7 @@
 
 ## 自由市场经济 :id=eco
 
-在陶可尼亚，<mark>黄金</mark>![gold_ingot](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/Gold_Ingot_JE3_BE2.png ':class=img-16')就是本位币。
+在陶可尼亚，<mark>黄金</mark>![gold_ingot](https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/5/57/Gold_Ingot_JE3_BE2.png ':class=img-16')就是本位币。
 
 这里有两大交易平台：`中央集市`与`拍卖行`。
 
