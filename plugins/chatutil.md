@@ -8,8 +8,101 @@
 
 在使用颜色代码之前，你需要知道颜色代码所对应的颜色什么。可以参考：
 
-- 网页 - [颜色代码对照表](https://wiki.ess3.net/mc/)
-- 在游戏中输入指令`/nu format`直接查看
+<html>
+<body>
+  <table>
+    <tbody>
+      <tr>
+        <th>颜色</th>
+        <th>技术名</th>
+        <th>颜色代码</th>
+      </tr>
+      <tr style="background: #aa0000; color: #fafafa;">
+        <td>暗红色</td>
+        <td>dark_red</td>
+        <td>&4</td>
+      </tr>
+      <tr style="background: #ff5555; color: #fafafa;">
+        <td>红色</td>
+        <td>red</td>
+        <td>&c</td>
+      </tr>
+      <tr style="background: #ffaa00; color: black;">
+        <td>金色</td>
+        <td>gold</td>
+        <td>&6</td>
+      </tr>
+      <tr style="background: #ffff55; color: black;">
+        <td>黄色</td>
+        <td>yellow</td>
+        <td>&e</td>
+      </tr>
+      <tr style="background: #00aa00; color: #fafafa;">
+        <td>暗绿色</td>
+        <td>dark_green</td>
+        <td>&2</td>
+      </tr>
+      <tr style="background: #55ff55; color: black;">
+        <td>绿色</td>
+        <td>green</td>
+        <td>&a</td>
+      </tr>
+      <tr style="background: #55ffff; color: black;">
+        <td>青色</td>
+        <td>aqua</td>
+        <td>&b</td>
+      </tr>
+      <tr style="background: #00aaaa; color: #fafafa;">
+        <td>暗青色</td>
+        <td>dark_aqua</td>
+        <td>&3</td>
+      </tr>
+      <tr style="background: #0000aa; color: #fafafa;">
+        <td>深蓝色</td>
+        <td>dark_blue</td>
+        <td>&1</td>
+      </tr>
+      <tr style="background: #5555ff; color: #fafafa;">
+        <td>蓝色</td>
+        <td>blue</td>
+        <td>&9</td>
+      </tr>
+      <tr style="background: #ff55ff; color: #fafafa;">
+        <td>亮紫色</td>
+        <td>light_purple</td>
+        <td>&d</td>
+      </tr>
+      <tr style="background: #aa00aa; color: #fafafa;">
+        <td>暗紫色</td>
+        <td>dark_purple</td>
+        <td>&5</td>
+      </tr>
+      <tr style="background: #ffffff; color: black;">
+        <td>白色</td>
+        <td>white</td>
+        <td>&f</td>
+      </tr>
+      <tr style="background: #aaaaaa; color: black;">
+        <td>灰色</td>
+        <td>gray</td>
+        <td>&7</td>
+      </tr>
+      <tr style="background: #555555; color: #fafafa;">
+        <td>深灰色</td>
+        <td>dark_gray</td>
+        <td>&8</td>
+      </tr>
+      <tr style="background: #000000; color: #fafafa;">
+        <td>黑色</td>
+        <td>black</td>
+        <td>&0</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
+
+或者直接在游戏中输入指令`/nu format`查看。  
 
 颜色代码的使用规则：
 
@@ -22,7 +115,7 @@
 
 那么像下面这样使用颜色代码即可
 
-```颜色代码
+```
 &a溴 &b溴 &c我 &d们 &e的 &f爱
 ```
 
