@@ -1,3 +1,7 @@
+.markdown-section {
+    max-width: 800px;
+}
+
 .markdown-section em {
     color: palevioletred;
     font-weight: bold;
