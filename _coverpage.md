@@ -7,3 +7,5 @@
 
 [茶馆](https://bbs.mimaru.me/)
 [进入主页](/welcome/intro.md)
+
+![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg)

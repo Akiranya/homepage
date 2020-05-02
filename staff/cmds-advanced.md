@@ -4,11 +4,9 @@
 
 !> 请注意本页面仍在施工中。
 
-虽然仍在施工，但下面的每个介绍都已经贴上了插件的**官方/非官方的资料**。这些一般是英文，也是小米经常参考的一手资料。
+以下每个插件都包含了**官方/非官方资料**。有条件的话可以直接看官方资料（往往更佳全面）不用等这个页面更新。
 
-有条件的话可以直接看官方的资料（往往更佳全面）不用等这个页面（由小米龟速）更新。
-
-## 记录查询 | CoreProtect
+## 记录查询 CO
 
 原版服（非模组服）都在使用的[记录查询](/plugins/logblock.md)插件。
 
@@ -17,13 +15,13 @@
 - [官方说明 - 作者的教程帖](http://minerealm.com/community/viewtopic.php?f=32&t=6781)
 - [MinePlugin](http://mineplugin.org/CoreProtect)
 
-## 记录查询 | Prism
+## 记录查询 Prism
 
 [探索模组服](/mod)使用的记录查询插件。
 
 [官方说明 - GitHub 仓库](https://github.com/prism/Prism)
 
-## 保护区 | WorldGuard
+## 保护区 WG
 
 保护区插件，简单来说是一个给管理员使用的领地插件。
 
@@ -36,7 +34,7 @@
 
 [官方百科 - 保护区的创建](https://worldguard.enginehub.org/en/latest/regions/)
 
-## 创世神 | WorldEdit
+## 创世神 WE
 
 再熟悉不过的游戏内地图编辑器了，也叫“WE”、“创世神”。
 
@@ -44,7 +42,7 @@
 - [官方百科 - 全部用法](https://worldedit.enginehub.org/en/latest/usage/)
 - [视频教程 by MaxKim](https://www.bilibili.com/video/av1379382/)
 
-## Ess | Essentials
+## 基础指令 Ess
 
 Ess 这个插件的主要功能就是提供最基础的指令。大家常用的`tp`，`home`等都是 Ess 的功能。
 
@@ -55,7 +53,7 @@ TO-DO 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**�
 
 [官方百科 - Ess 的所有指令列表](https://essinfo.xeya.me/commands.html)
 
-## 自定义村民 | ShopKeepers
+## 村民商店 ShopKeepers
 
 让你可以随意编辑村民的交易公式。
 
@@ -63,13 +61,13 @@ TO-DO 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**�
 
 [官方百科 - 如何创建村民商店](https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki/Creating-Shops)
 
-## 悬浮文字 | Holographic Display
+## 悬浮文字 HD
 
 创建/编辑/调整悬浮文字。
 
 [官方说明 - 如何创建/移动/删除悬浮文字](https://filoghost.me/docs/holographic-displays/basics)
 
-## 违禁品管理 | MMCRestrict
+## 物品管理 MMCRestrict
 
 违禁品管理插件，用来控制特定物品的使用权限。该插件只能在`模组服`使用。
 

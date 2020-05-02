@@ -53,7 +53,7 @@
 
 建造方式为把一个工作台放置在发射器的正上方。
 
-![enhanced-crafting-table](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/multiblock-enhanced-crafting-table.png ':class=img-uni')
+![multiblock-enhanced-crafting-table](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/multiblock-enhanced-crafting-table.png ':class=img-uni')
 
 粘液科技的大部分合成都是通过把材料按一定方式摆在`发射器`里，然后再<kbd>右击</kbd>`合成台`来触发合成。
 
