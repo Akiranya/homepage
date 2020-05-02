@@ -6,6 +6,6 @@
 > 一个兴趣使然的 Minecraft 服务器
 
 [茶馆](https://bbs.mimaru.me/)
-[进入主页](/welcome/intro.md)
+[进入主页](#start)
 
 ![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg)
