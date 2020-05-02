@@ -39,7 +39,7 @@
 7. （若干天过去后...）
 8. （比赛结束的时间到了！）
 9. 主持人打开`主持人菜单`
-10. 主持人**关闭**比赛世界的`建造权限`和`圈地权限`
+10. 主持人**关闭**比赛世界的`建造权限`和`圈地权限`
 11. 技术指南到此结束，接下来就是企划指南
 
 #### 如何删除捣乱的地皮
@@ -231,7 +231,7 @@ group.worldedit_basic
 lp group default_build parent add game_ongoing world={当前比赛的世界名}
 ``` -->
 
-设置可声明的地皮数量上限 +1：
+设置可声明的地皮数量上限 +1：
 
 ```
 lp group game_ongoing permission set plots.plot.{原最大数量+1}

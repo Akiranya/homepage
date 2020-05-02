@@ -12,7 +12,7 @@
 - `[参数]`代表这个参数是**选填**的。忽略掉这个参数，指令依然能执行，通常也意味着"忽略参数"本身也是种用法。
 - `参数A|参数B|参数C|参数...`代表你需要从中选一个参数。
 
-## 聊天频道 | MultiChat
+## MultiChat
 
 - `/mc` - 进入/退出管理员聊天频道
   - 管理员频道的信息只有风纪委及更高级权限组的玩家可以看到
@@ -55,7 +55,7 @@
   - `all`代表所有服务器里的在线玩家
   - `服务器`必须写`/glist`中列出的
 
-## CoreProtect | [记录查询](/plugins/logblock.md)
+## CoreProtect | 记录查询
 
 可用于查询&回档，详见[进阶指南](/staff/cmds-advanced.md)
 
@@ -93,7 +93,7 @@
   - 接收`HelpOp`的消息
     - 可以看到玩家使用`/helpop`发送出来的消息
 
-## HamsterEcoHelper | [天喵商城](/plugins/trade.md)
+## HamsterEcoHelper | 天喵商城
 
 - 动作
   - 移除玩家的木牌商店
@@ -105,7 +105,7 @@
   - 编辑牌子锁
   - 打开上锁的箱子
 
-## ShopKeepers | [村民商店](/plugins/shopkeepers.md)
+## ShopKeepers | 村民商店
 
 - 动作
   - 打开其他玩家的商店箱子
@@ -113,7 +113,7 @@
   - `/shopkeeper list [玩家] [页码]` - 查看指定玩家的所有商店
   - `/shopkeeper remove [玩家]` - 删除指定玩家的所有商店
 
-## Towny | [城镇](/plugins/towny.md)
+## Towny | 城镇
 
 - 动作
   - 拥有任意城镇的领地里`Build`,`Destory`,`Switch`,`Itemuse`权限

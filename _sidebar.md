@@ -1,18 +1,18 @@
 * <i class="fas fa-heart"></i>欢迎 ( ´ ▽ ` )ﾉ
 
-  * [简介](/home)
-  * [游戏规则](/rules)
-  * [常用指令](/cmds)
-  * [常见问题](/faq)
+  * [简介](/welcome/intro.md)
+  * [游戏规则](/welcome/rules.md)
+  <!-- * [常用指令](/welcome/commands.md) -->
+  * [常见问题](/welcome/faq.md)
   <!-- * [插件帮助](/plugins) -->
-  * [权限组](/groups)
+  * [权限组](/welcome/groups.md)
 
 * <i class="fas fa-stream"></i>服务器列表 & 帮助
-  * [陶可尼亚](/mew)
-  * [城镇生存](/sur)
-  * [自由创造](/cre)
+  * [陶可尼亚](/mc-servers/mew.md)
+  * [城镇生存](/mc-servers/survival.md)
+  * [自由创造](/mc-servers/creative.md)
   <!-- * [探索模组](/mod) -->
-  * [休闲游戏](/games)
+  * [休闲游戏](/mc-servers/games.md)
 
 <!-- * 📖插件帮助
   

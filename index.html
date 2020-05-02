@@ -10,14 +10,16 @@
   <meta name="keywords" content="minecraft,anciage,上古时代,知识库,正版,公益">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <link rel="stylesheet" href="assets/stylesheets/toc.css">
-  <link rel="stylesheet" href="assets/stylesheets/button.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <!-- <link rel="stylesheet" href="assets/stylesheets/toc.css"> -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify-toc@1.0.0/dist/toc.css">
   <link rel="stylesheet" href="assets/stylesheets/image.css">
+  <link rel="stylesheet" href="assets/stylesheets/button.css">
+  <!-- <link rel="stylesheet" href="assets/stylesheets/custom.css"> -->
   <link rel="stylesheet" href="assets/stylesheets/fontawesome.css">
-  <link rel="stylesheet" href="assets/stylesheets/custom.css">
   <link rel="stylesheet" href="assets/stylesheets/prism-themes/prism-coy.css">
-  <style>
+  <!-- <style>
     :root {
       --base-color: #34495e;
       --base-font-size: 15px;
@@ -63,15 +65,21 @@
       --code-inline-margin: 0 0.15em;
       --code-inline-padding: 0.125em 0.4em;
     }
-  </style>
+  </style> -->
 </head>
 
 <body>
   <div id="app">Loading...</div>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
   <script>
+    var docBase = 'https://github.com/Akiranya/homepage/blob/master/';
+    var docEditBase = 'https://github.com/Akiranya/homepage/edit/master/';
+    var title = "在 GitHub 上编辑";
     window.$docsify = {
       name: '上古时代 Mewcraft',
       homepage: '/welcome/intro.md',
+      repo: 'https://github.com/Akiranya/homepage',
       coverpage: true,
       onlyCover: false,
       loadNavbar: true,
@@ -81,9 +89,11 @@
       relativePath: false,
       namespace: 'Mewcraft',
       mergeNavbar: true,
-      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+      formatUpdated: '{YYYY}年{MM}月{DD}日 {HH}点{mm}分',
       externalLinkTarget: '_blank',
+      executeScript: true,
       notFoundPage: true,
+      topMargin: 90,
       search: 'auto',
       search: {
         maxAge: 86400000,
@@ -107,13 +117,12 @@
         '/home': '/welcome/intro.md',
         '/rules': '/welcome/rules.md',
         '/faq': '/welcome/faq.md',
-        '/cmds': '/welcome/commands.md',
         '/plugins': '/welcome/plugins.md',
         '/groups': '/welcome/groups.md'
       },
       toc: {
         scope: '.markdown-section',
-        headings: 'h2',
+        headings: 'h2,h3',
         title: '目录',
       },
       flexibleAlerts: {
@@ -145,19 +154,21 @@
         errorText: '错误',
         successText: '已复制到剪切板'
       },
+      plugins: [
+        EditOnGithubPlugin.create(docBase, docEditBase, title)
+      ]
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0"></script> -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
   <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
   <script src="//unpkg.com/docsify-copy-code@2"></script>
   <script src="//kit.fontawesome.com/bbc04843f6.js" crossorigin="anonymous"></script>
   <script src="assets/javascripts/prism-yaml.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script> -->
 </body>
 
 </html>

@@ -1,11 +1,11 @@
-# 上古时代 | Mewcraft :id=intro {docsify-ignore-all}
+# 上古时代 Mewcraft | 我的世界服务器 :id=intro {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
 > 新服[陶可尼亚](/mc-servers/mew.md)现已正式开放 - 粘液科技下的城镇生存 - 全员开荒中！
 
-![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg)
+![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
-> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有长期稳定开放的 Minecraft 服务器，同时也会偶尔开放一些其他沙盒类的游戏服务器。这里欢迎一切友善的小伙伴加入我们( * ̀ω*́ )✧！
+> "上古时代"是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有**长期稳定开放**的 Minecraft 服务器，有时也会开放一些泰拉瑞亚/饥荒的游戏服务器。欢迎一切友善的小伙伴加入我们( * ̀ω*́ )✧！
 
 ## 联系我们 :id=contact-us
 
@@ -22,7 +22,7 @@
 
 ---
 
-**然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ**
+然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ
 
 <a class="button" href="#/mew">陶可尼亚</a>
 <a class="button" href="#/sur">城镇生存</a>

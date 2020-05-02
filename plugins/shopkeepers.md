@@ -56,7 +56,7 @@
 
 详见下面的操作。
 
-|首先"拿起"一个物品|然后拿着物品左键点击|这样就设置好`花费物品`啦|
+|首先"拿起"一个物品|然后拿着物品左键点击|这样就设置好花费物品啦|
 |:-:|:-:|:-:|
 |![shopkeepers-step5](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/shopkeepers-step5.jpg ':class=img-uni')|![shopkeepers-step6](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/shopkeepers-step6.jpg ':class=img-uni')|![shopkeepers-step7](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/shopkeepers-step7.jpg ':class=img-uni')|
 

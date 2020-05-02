@@ -23,7 +23,7 @@
 
 ## 客户端 :id=client
 
-<a href="#/downloads.md" target="_blank" class="button">点击前往下载页面</a>
+<a href="#/navbar/downloads/clients.md" target="_blank" class="button">点击前往下载页面</a>
 
 ## 开放时间
 

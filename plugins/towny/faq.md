@@ -54,7 +54,7 @@
 
 |边界显示关闭|边界显示打开|
 |:-:|:-:|
-|![边界显示关闭](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-chunk-border-on.jpg ':class=img-uni')|
+|![边界显示关闭](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-chunk-border-off.jpg ':class=img-uni')|![边界显示打开](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-chunk-border-on.jpg ':class=img-uni')|
 
 ### 如何确定城镇的领地范围
 

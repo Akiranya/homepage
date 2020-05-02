@@ -29,7 +29,7 @@
 这里贴出**往届**建筑比赛的茶馆帖子供大家参考：
 
 - [第六届建筑比赛·春之图书馆](https://bbs.mimaru.me/d/108-2019)
-- [第七届建筑比赛·名胜古迹](https://bbs.mimaru.me/d/208-2019)
+- [第七届建筑比赛·名胜古迹](https://bbs.mimaru.me/d/208-2019)
 - [第八届建筑比赛·酒店](https://bbs.mimaru.me/d/431-2020)
 
 ## 🎊最后 :id=preface

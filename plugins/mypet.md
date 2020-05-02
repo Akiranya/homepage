@@ -249,11 +249,11 @@
 
 ?> `通用指令`适用于所有宠物。
 
-### /mypet
+**/mypet**
 
 - 显示宠物插件的所有指令。
 
-### /petinfo
+**/petinfo**
 
 - 用法：`/petinfo [玩家名]`
 - 显示指定玩家的下列宠物信息:
@@ -265,19 +265,19 @@
 - 短指令:
   - `/pinfo`
 
-### /petname
+**/petname**
 
 - 用法：`/petname [新的宠物名字]`
 - 为你的宠物设置新的名字。
 - 你可以用下面的颜色代码让名字变成彩色：
   - `<black>`, `<darkaqua>`, `<darkblue>`, `<darkgreen>`, `<darkred>`, `<darkpurple>`, `<gold>`, `<gray>`, `<darkgray>`, `<blue>`, `<green>`, `<aqua>`, `<red>`, `<lightpurple>`, `<yellow>`, `<white>`, `<magic>`, `<bold>`, `<strikethrough>`, `<underline>`, `<italic>`, `<reset>`
 
-### /petrelease
+**/petrelease**
 
 - 用法：`/petrelease [宠物名]`
 - 解放你的宠物，让它回归大自然。
 
-### /petcall
+**/petcall**
 
 - 用法：`/petcall [宠物名]`
 - 召唤你的宠物到你的身边。
@@ -285,7 +285,7 @@
   - `/pc`
   - `/petc`
 
-### /petsendaway
+**/petsendaway**
 
 - 暂时把你的宠物送走。
 - 之后你仍可以使用`/petcall`把宠物召回。
@@ -293,7 +293,7 @@
   - `/psa`
   - `/petsa`
 
-### /petrespawn
+**/petrespawn**
 
 - 用法：`/petrespawn [pay 或 show 或 auto]`
 - 显示下列关于你的或其他玩家的宠物信息。
@@ -303,13 +303,13 @@
     - `/petr`
     - `/pr`
 
-### /petswitch
+**/petswitch**
 
 - 在你拥有的宠物之间切换宠物。
 - 短指令：
   - `/pswitch`
 
-### /petstore
+**/petstore**
 
 - 可以让你把宠物存起来。
 - 被存起来的宠物可以使用指令`/petswitch`来取出。
@@ -317,7 +317,7 @@
   - `/pstore`
   - `/pst`
 
-### /pettrade
+**/pettrade**
 
 - 用法：
   - `/pettrade [accept 或 reject 或 cancel 或 <玩家名>] <交易价格>`
@@ -327,13 +327,13 @@
   - `/pett`
   - `/pt`
 
-### /petskill
+**/petskill**
 
 - 用法：`/petskill [玩家名]`
 - 显示自己宠物的技能树信息。
 管理可通过该指令查看其他玩家的宠物的技能树信息
 
-### /petstop
+**/petstop**
 
 - 使宠物停止攻击目标。
 - 在农场和侵略行为模式中无效。
@@ -341,14 +341,14 @@
   - `/ps`
   - `/pets`
 
-### /petskilltree
+**/petskilltree**
 
 - 用法：`/petskilltree <怪物类型> [技能树名]`
 - 查看指定物种的可用技能树。
 - 查看指定物种的技能树包含的技能和等级。
 - WIP.
 
-### /petchooseskilltree
+**/petchooseskilltree**
 
 - 用法：`/petchooseskilltree [技能树名]`
 - 显示所有可用的技能树，并让你为你的宠物选择一个技能树。
@@ -360,20 +360,20 @@
 
 ![选择职业](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-pcst.png)
 
-### /petcapturehelper
+**/petcapturehelper**
 
 - 启用/禁用 CaptureHelper
 - 短指令：
   - `/pch`
 
-### ~~/pettype~~
+~~**/pettype**~~
 
 !> 该指令不再可用。要查询捕获条件请参考[这里](#leash-flags)。
 
 - 用法：`/pettype <宠物类型>`
 - 显示关于宠物的信息，如`默认HP`、`捕获条件`、`食物`
 
-### /petoptions
+**/petoptions**
 
 - 用法：`/petoptions <选项> [参数…]`
 - 选项:
@@ -386,7 +386,7 @@
 
 ?> `技能指令`能否使用取决于宠物的技能树和已解锁的技能。
 
-### /petinventory
+**/petinventory**
 
 - 用法：`/petinventory [玩家名]`
 - 打开宠物的物品栏（如下图）。
@@ -398,7 +398,7 @@
 
 ![宠物的物品栏](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-inventory.gif)
 
-### /petpickup
+**/petpickup**
 
 - 开启/关闭宠物自动拾取（如下图）。
 - 至少需要一整排空的物品栏，宠物才会拾取物品
@@ -408,7 +408,7 @@
 
 ![宠物拾取东西](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-pickup.gif)
 
-### /petbehavior
+**/petbehavior**
 
 - 用法：`/petbehavior [模式]`
 - 切换宠物行为（如下图）
@@ -427,7 +427,7 @@
 
 ![宠物的行为模式](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-behavior.gif)
 
-### /petbeacon
+**/petbeacon**
 
 - 打开宠物的信标技能窗口 ![宠物信标界面](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mypet-beacon-inv.png ':class=img-32')（点击查看大图）。
 - 默认情况，当信标开启时会持续消耗宠物的饥饿值。️
@@ -441,7 +441,7 @@
 
 ?> `管理指令`仅限服务器OP使用。
 
-### /petadmin
+**/petadmin**
 
 - 用法：`/petadmin <选项> [参数…]`
 - 只有拥有`mypet.admin`权限的玩家可使用该指令。
@@ -508,59 +508,59 @@
 
 ## 常见问题 :id=faq
 
-### 宠物有最高等级上限吗
+**宠物有最高等级上限吗**
 
 每只宠物的最高`等级`为`500`。
 
-### 如何给僵尸/骷髅/僵尸猪人穿装备
+**如何给僵尸/骷髅/僵尸猪人穿装备**
 
 !> 装备只有视觉效果，没有防御加成等实际作用
 
 拿着装备<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物即可。要移除装备，拿着剪刀<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物。
 
-### 如何在骑宠物的时候控制它
+**如何在骑宠物的时候控制它**
 
 骑宠物就像骑带有鞍的🐎一样。
 
-### 如何让宠物飞起来
+**如何让宠物飞起来**
 
 1. 宠物需要有`Ride(骑乘)`技能树
 2. `fly`属性在技能树里必须开启
 3. 然后骑上你的宠物
 4. 按下<kbd>空格</kbd>
 
-### 如何得到一只宠物
+**如何得到一只宠物**
 
 👉[抓一只宠物](#how-to-get-a-pet)
 
-### 如何喂宠物
+**如何喂宠物**
 
 首先从[这里](#leash-flags)查看宠物需要吃什么，然后拿着正确的食物<kbd>鼠标右键</kbd>宠物即可喂食。喂食后，你首先会看到宠物提升了[饱食度](#hunger-system)（每个食物相当于`6`点饱食度）。当饱食度到`100`时，继续喂食将治疗宠物。每个缺少的饱食度和生命值将使用`1`点饱食度（？）。
 
-### 可以有两只宠物吗
+**可以有两只宠物吗**
 
 不可以。你只能同时拥有一只`活跃`的宠物。不过你可以把宠物存起来，然后在他们之间切换（使用[指令](#petswitch)或[NPC](#NPC)）。
 
-### 为什么我的宠物不会攻击
+**为什么我的宠物不会攻击**
 
 因为你的宠物没有伤害技能（[伤害][skill-damage]或[远程][skill-ranged]）。选择一个带有伤害的[技能树](#skilltrees)就好啦。
 
 [skill-damage]: https://wiki.mypet-plugin.de/skills/damage
 [skill-ranged]: https://wiki.mypet-plugin.de/skills/ranged
 
-### 为什么我不能驯服末影龙/凋零
+**为什么我不能驯服末影龙/凋零**
 
 服务器的设定为凋零无法捕获。
 
 末影龙的话需要服务器安装[ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)插件。然而该插件存在降低服务器TPS的嫌疑，现已暂时移除。
 
-### 为什么末影龙/蝙蝠/幻翼...看起来在走路
+**为什么末影龙/蝙蝠/幻翼...看起来在走路**
 
 这是因为 Minecraft 没有`飞行AI`。
 
 在生物变成宠物后，宠物插件会将生物的AI替换成`宠物狼AI`。宠物狼不会飞，因此宠物也不会飞。玩家骑宠物飞行另当别论，那不是宠物自己在飞，而是玩家在控制。
 
-### 可以让宠物坐下吗
+**可以让宠物坐下吗**
 
 你可以用<kbd>Shift</kbd><kbd>鼠标右键</kbd>宠物来让它坐下`呆在原地`。
 

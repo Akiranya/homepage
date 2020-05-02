@@ -1,15 +1,9 @@
 # 探索模组服·第二周目·魔幻
 
 > [!danger|label:停服通知]
-> `探索模组服·二周目`将在2020年5月1日关闭，届时会上传服务器地图存档至[网盘](/downloads.md)供大家下载到本地。在那之前模组服仍会正常开放。
+> `探索模组服·二周目`将在2020年5月1日关闭，届时会上传服务器地图存档至[网盘](http://pan.baidu.com/s/1mg2vwqk)供大家下载到本地。在那之前模组服仍会正常开放。
 
-> 欢迎来到`探索模组服·二周目`！这是一个以探索各大模组（即非游戏原版的额外游戏内容）直到最终"毕业"为主题的服务器。本周目的模组主题元素是`魔幻`，游戏模式为生存模式。有方便的[传送指令](/welcome/commands.md)以快速位移，还有[次元币经济系统](#eco)支持和其他玩家做交易。
-
-![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-bloodmagic.jpg ':class=img-small')
-![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-as.jpg ':class=img-small')
-
-![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-gaia.jpg ':class=img-small')
-![s1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/preview-tinker.jpg ':class=img-small')
+> 欢迎来到`探索模组服·二周目`！这是一个以探索各大模组（即非游戏原版的额外游戏内容）直到最终"毕业"为主题的服务器。本周目的模组主题元素是`魔幻`，游戏模式为生存模式。有方便的[传送指令](/navbar/cmds/modded.md)以快速位移，还有[次元币经济系统](#eco)支持和其他玩家做交易。
 
 ## 开放时间 :id=opening-hours
 
@@ -27,7 +21,7 @@
 
 首先你需要下载好本周目的`客户端整合包`
 
-<a href="#/downloads.md" target="_blank" class="button">下载专用客户端</a>
+<a href="#/navbar/downloads/clients.md" target="_blank" class="button">点击前往下载页面</a>
 
 然后使用刚刚下载好的整合包加入以下服务器地址
 
@@ -109,7 +103,7 @@
 
 ## 指令帮助 :id=plugins
 
-👉[点击查看](/welcome/commands.md)
+👉[点击查看](/navbar/cmds/modded.md)
 
 ## 插件列表 & 帮助
 
@@ -153,7 +147,7 @@
 
 本周目采用了真实地形模组，使得主世界的地貌更加真实。主世界预览：
 
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/172612s9u999z78d7gk85z.gif)
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/rtg.gif)
 
 ## 更有趣的死亡
 
@@ -167,7 +161,13 @@
 
 墓碑模组的内容远不仅限于此。
 
-关于`有灵魂的墓碑`和`死神知识`这里就不再赘述啦，大家可以看看酒石酸君精心制作的[墓碑模组视频介绍][ct]。注：视频里的模组物品中文翻译和[专用客户端](/downloads.md)里使用的不太一样，观看时还请灵活变通一下 ^ ^
+关于`有灵魂的墓碑`和`死神知识`这里就不再赘述啦，大家可以看看酒石酸君精心制作的[墓碑模组视频介绍][ct]。注：视频里的模组物品中文翻译和[专用客户端](/navbar/downloads/clients.md)里使用的不太一样，观看时还请灵活变通一下 ^ ^
+
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/simple_grave_remake21.jpg ':class=img-small')
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/xcircle.jpg ':class=img-small')
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/grave_smoke.png ':class=img-small')
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/grave_plate_test.jpg ':class=img-small')
+![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tombstone_seamless2.jpg ':class=img-small')
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
