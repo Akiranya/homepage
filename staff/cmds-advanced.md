@@ -10,7 +10,7 @@
 
 原版服（非模组服）都在使用的[记录查询](/plugins/logblock.md)插件。
 
-了解子指令`lookup`，`rollback`和`restore`的用法就足够啦。
+了解指令`lookup`，`rollback`和`restore`的用法就足够啦。
 
 - [官方说明 - 作者的教程帖](http://minerealm.com/community/viewtopic.php?f=32&t=6781)
 - [MinePlugin](http://mineplugin.org/CoreProtect)
@@ -31,6 +31,7 @@
 - 给保护区添加成员
 - 修改 flags
 - 重新确定保护区的位置
+- 保护区的优先级
 
 [官方百科 - 保护区的创建](https://worldguard.enginehub.org/en/latest/regions/)
 
@@ -44,9 +45,9 @@
 
 ## 基础指令 Ess
 
-Ess 这个插件的主要功能就是提供最基础的指令。大家常用的`tp`，`home`等都是 Ess 的功能。
+Ess 这个插件的第一个用处就是提供最基础的指令，大家常用的`tp`，`home`等都是 Ess 的功能。除此之外，常用的功能还有自定义新手礼包（初次进服务器所给予的物品），修改 MOTD（进服时看到的提示信息），设置服务器级别的重生点，自定义聊天样式等等。所有功能都可在`{plugin_dir}/Essentials/config.yml`里找到。
 
-TO-DO 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**或**制作活动奖励**。
+*TO-DO* 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**或**制作活动奖励**。
 
 - `/enchant` - 用来给物品附魔
 - `/item` - 用来产生指定物品
@@ -83,3 +84,19 @@ TO-DO 写上如何用 Ess 刷出特定的物品以用来**补偿特定物品**�
 如果箱子是大箱子，则需要用打火石分别<kbd>Shift</kbd><kbd>鼠标右键</kbd>左右两个小箱子。
 
 [官方说明 - 插件发布页](https://ore.spongepowered.org/leelawd93/MMCRestrict)
+
+## 多世界管理 MultiVerse-Core
+
+多世界管理（简称 MV）支持快速添加/删除世界。还可以编辑单个世界的游戏设定，如PVP，游戏模式。
+
+[官方说明 - GitHub 仓库](https://github.com/Multiverse/Multiverse-Core/wiki)
+
+*施工中……*
+
+## 边界管理 WorldBorder
+
+边界管理（简称 WB）可以给世界创建边界，限制玩家走出边界。此边界管理比原版的更加强大，例如支持设置圆形边界。另一个主要用途是**事先填充好边界内的所有区块**，以加快世界的加载速度和防止生成区块带来的服务器卡顿。
+
+*施工中……*
+
+[官方说明 - Spigot 发布页](https://www.spigotmc.org/resources/worldborder.60905/)
