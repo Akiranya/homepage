@@ -70,8 +70,6 @@
 
 ### 其他信息
 
-以下技术细节也许对你的企划指南有所帮助。
-
 - 主持人可以使用`/p2 wea`指令让自己在任意地皮里使用WE
 - 主持人拥有在任意地皮里的所有权限（建造/破坏/交互等）
 - 主持人可以使用`/lp search`指令来查看现有的工匠、建筑师和设计师有哪些（详见[简单管理指令](/staff/cmds-simple.md#lp)）
@@ -80,6 +78,96 @@
 ## 后台备忘录 :id=console
 
 ?> 以下内容仅仅供有后台权限的人参考。建筑比赛的游戏内主持人可以忽略以下内容。
+
+### 创建比赛世界
+
+!> 由于没有办法区分作品属于哪一届比赛，每一届**新的**建筑比赛应该在**新的**超平坦地皮世界中进行。
+
+创建比赛世界的指令是`/p2 setup`。
+
+输入该指令后，插件会问你问题，让你用指令`/p2 setup <值>`设置好对应的参数。
+
+每当你用`/p2 setup <值>`设置好一个参数后，就会问你下一个问题，直到全部设置完毕。
+
+请以下面的参数设置好：
+
+- 第一个问题`What generator do you want?`，输入`/p2 setup plotsquared`
+- 第二个问题`What world type do you want?`，输入`/p2 setup default`
+
+从第三个问题开始，就是设置地皮的具体参数，例如地皮大小，地皮地板的方块种类。
+
+这些参数请直接参考下面列出的地皮世界（`build_8`）的配置文件，这里就不再说了。
+
+我已经给`/p2 setup`会用到的参数加上了注释（`#`右边的内容）。
+
+```yaml
+  build_8: # 世界的名字，在你使用 /p2 setup 进行到最后一步时会用到
+    plot:
+      height: 60 # 地皮高度，请保持全部一致
+      size: 128 # 地皮尺寸为 128*128
+      filling: stone # 地皮的地板之下填充为石头
+      floor: grass_block # 地皮的地板设置为 grass_block
+      bedrock: true # 地皮的最底层是否带基岩
+      biome: FOREST # 默认生物群系是 FOREST
+      auto_merge: false
+      create_signs: true
+    wall:
+      block: stone_slab # 还未被 claimed 的地皮的边框
+      block_claimed: quartz_slab # 已经被 claimed 的地皮的边框
+      filling: oak_planks # 边框之下填充为 oak_planks
+      height: 60 # 围墙高度，请保持全部一致
+    road:
+      width: 7 # 路面宽度，别太宽，也别太窄，7 刚刚好
+      height: 60 # 地面高度，请保持全部一致
+      block: oak_planks # 路面之下填充为 oak_planks
+    misc_spawn_unowned: false
+    # ...已省略不需要用到的参数
+```
+
+### 设置世界边界
+
+在创建好比赛世界后，不要忘记设置世界的边界！指令是`/wb build_{x} set 800 800 0 0`
+
+在夜深人静的时候，还可以考虑事先生成好比赛世界的区块，以加快比赛进行时区块的载入速度。指令是`/wb build_{x} fill`然后再输入`/wb fill confirm`以确认执行指令。
+
+### 更新卫星地图
+
+要**正确**启用新一届建筑比赛的卫星地图，需要在`{创造服文件夹}/plugins/dynmap/worlds.txt`中加上新的地图配置。
+
+建议直接复制上一届建筑比赛的地图配置，然后分别修改`key:name`和`key:title`这两个的`value`。其中，`key:name`指世界的技术名。`key:title`指在[卫星地图](http://map.mimaru.me:8123/creative)网页上看到的世界的标题。
+
+以下是第七届和第八届的卫星地图配置。
+
+> [!note|label:关于 title 的设置]
+> 考虑到卫星地图一般会在比赛正式之前就设置好，而`title`中又包含了建筑比赛的主题，所以在当前比赛正式开始之前，主题应该隐藏起来（在下面的例子里，主题用`???`代替了）以避免过早泄题。等到比赛正式开始后，再把`???`改成当前实际的比赛主题，然后执行`/dynmap reload`重启卫星地图。
+
+> [!note|label:地图配置在文件中的顺序]
+> 这些地图配置在文件`worlds.txt`中是有顺序的，这些顺序会直接体现在卫星地图的网页上。这点你可以仔细观察`worlds.txt`中地图配置和实际网页呈现之间的关系。例如下面的例子中，`build_8`在`build_7`之上。
+
+```yaml
+  - name: build_8
+    title: "建筑比赛第八届 : ???"
+    enabled: true
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: "立体视图"
+        prefix: t
+        perspective: iso_SE_30_vlowres
+        shader: stdtexture
+        lighting: shadows
+  - name: build_7
+    title: "建筑比赛第七届 : 名胜古迹"
+    enabled: true
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: "立体视图"
+        prefix: t
+        perspective: iso_SE_30_vlowres
+        shader: stdtexture
+        lighting: shadows
+```
 
 ### 控制建造
 
@@ -205,90 +293,6 @@ lp group game_ongoing permission set plots.plot.{原最大数量+1}
 lp group default_build parent remove game_ongoing world={当前比赛的世界名}
 ``` -->
 
-### 设置卫星地图
+### 完工
 
-要**正确**启用新一届建筑比赛的卫星地图，需要在`{创造服文件夹}/plugins/dynmap/worlds.txt`中加上新的地图配置。
-
-建议直接复制上一届建筑比赛的地图配置，然后分别修改`key:name`和`key:title`这两个的`value`。其中，`key:name`指世界的技术名。`key:title`指在[卫星地图](http://map.mimaru.me:8123/creative)网页上看到的世界的标题。
-
-以下是第七届和第八届的卫星地图配置。
-
-> [!note|label:关于 title 的设置]
-> 考虑到卫星地图一般会在比赛正式之前就设置好，而`title`中又包含了建筑比赛的主题，所以在当前比赛正式开始之前，主题应该隐藏起来（在下面的例子里，主题用`???`代替了）以避免过早泄题。等到比赛正式开始后，再把`???`改成当前实际的比赛主题，然后执行`/dynmap reload`重启卫星地图。
-
-> [!note|label:地图配置在文件中的顺序]
-> 这些地图配置在文件`worlds.txt`中是有顺序的，这些顺序会直接体现在卫星地图的网页上。这点你可以仔细观察`worlds.txt`中地图配置和实际网页呈现之间的关系。例如下面的例子中，`build_8`在`build_7`之上。
-
-```yaml
-  - name: build_8
-    title: "建筑比赛第八届 : ???"
-    enabled: true
-    maps:
-      - class: org.dynmap.hdmap.HDMap
-        name: surface
-        title: "立体视图"
-        prefix: t
-        perspective: iso_SE_30_vlowres
-        shader: stdtexture
-        lighting: shadows
-  - name: build_7
-    title: "建筑比赛第七届 : 名胜古迹"
-    enabled: true
-    maps:
-      - class: org.dynmap.hdmap.HDMap
-        name: surface
-        title: "立体视图"
-        prefix: t
-        perspective: iso_SE_30_vlowres
-        shader: stdtexture
-        lighting: shadows
-```
-
-### 创建比赛世界
-
-!> 每一届**新的**建筑比赛应该在**新的**超平坦地皮世界中进行，因为没有好办法区分地皮上的作品属于哪一届比赛。
-
-创建比赛世界的指令是`/p2 setup`。
-
-输入该指令后，插件会问你问题，让你用指令`/p2 setup <值>`设置好对应的参数。
-
-每当你用`/p2 setup <值>`设置好一个参数后，就会问你下一个问题，直到全部设置完毕。
-
-请以下面的参数设置好：
-
-- 第一个问题`What generator do you want?`，输入`/p2 setup plotsquared`
-- 第二个问题`What world type do you want?`，输入`/p2 setup default`
-
-从第三个问题开始，就是设置地皮的具体参数，例如地皮大小，地皮地板的方块种类。
-
-这些参数请直接参考下面列出的地皮世界（`build_8`）的配置文件，这里就不再说了。
-
-我已经给`/p2 setup`会用到的参数加上了注释（`#`右边的内容）。
-
-```yaml
-  build_8: # 世界的名字，在你使用 /p2 setup 进行到最后一步时会用到
-    plot:
-      height: 60 # 地皮高度，请保持全部一致
-      size: 128 # 地皮尺寸为 128*128
-      filling: stone # 地皮的地板之下填充为石头
-      floor: grass_block # 地皮的地板设置为 grass_block
-      bedrock: true # 地皮的最底层是否带基岩
-      biome: FOREST # 默认生物群系是 FOREST
-      auto_merge: false
-      create_signs: true
-    wall:
-      block: stone_slab # 还未被 claimed 的地皮的边框
-      block_claimed: quartz_slab # 已经被 claimed 的地皮的边框
-      filling: oak_planks # 边框之下填充为 oak_planks
-      height: 60 # 围墙高度，请保持全部一致
-    road:
-      width: 7 # 路面宽度，别太宽，也别太窄，7 刚刚好
-      height: 60 # 地面高度，请保持全部一致
-      block: oak_planks # 路面之下填充为 oak_planks
-    misc_spawn_unowned: false
-    # ...s
-```
-
-### 设置世界边界
-
-在创建好比赛世界后，不要忘记设置世界的边界！指令是`/wb build_{x} set 800 800 0 0`
+到此为止，后台操作已完全说明。不要忘记在比赛结束后，再次更新一下[菜单](#menuyml)！
