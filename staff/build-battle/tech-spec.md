@@ -102,14 +102,9 @@
 ```yaml
   game:
     MenuItem:
-      - type:bookshelf
-      - amount:1
-      # 更新下 "name:" 后面的内容
+      # ...
       - name:&a[v] &7参加 &e&l第{x}届个人建筑比赛 {&c(已结束)|&a(即将开始)|&a(进行中)}
-    RewardType: shop
-    Reward: game
-    PriceType: nothing
-    InventoryLocation: 12
+      # ...
 ```
 
 #### game.yml
@@ -118,37 +113,19 @@
 
 ```yaml
   go-battle:
-    MenuItem:
-    - type:ender_pearl
-    - amount:1
-    - name:&a[v] &7前往 &6&l建筑比赛世界
-    - lore:&7
-    - lore:&7前往当前建筑比赛所在的世界.
-    - lore:&7
-    - lore:&7这是参与建筑比赛的第一步～
-    RewardType: playercommand
+    # ...
     Reward:
     - mv tp {当前比赛世界} # 这里更新成新一届建筑比赛所在的世界
-    PriceType: nothing
-    InventoryLocation: 11
-    CloseShopAfterPurchase: true
+    # ...
 ```
 
 还有这个图标的`Message`：
 
 ```yaml
   game-info:
-    MenuItem:
-    - type:book
-    - amount:1
-    - name:&b&l比赛详情 &e(必读)
-    - lore:&7
-    - lore:&7查看本届比赛的规则与评分细则.
-    RewardType: CLOSE
-    Reward: wiki
-    PriceType: NOTHING
+    # ...
     Message: '&7建筑比赛·第八届公示 &6https://bbs.mimaru.me/d/431-2020'
-    InventoryLocation: 1
+    # ...
 ```
 
 #### game_host.yml
@@ -157,33 +134,17 @@
 
 ```yaml
   禁止圈地权限:
-    MenuItem:
-    - type:player_head
-    - customskull:...
-    - amount:1
-    - name:&c[swords] &f&l关闭 &6&l圈地权限
-    RewardType: command
+    # ...
     Reward:
     # 更新 world= 后面的世界为当前的建筑比赛世界
     - lp group default_build parent remove game_ongoing world={当前比赛世界}
-    PriceType: nothing
-    InventoryLocation: 20
-    CloseShopAfterPurchase: true
-    Message: '已关闭玩家的圈地权限.'
+    # ...
   开放圈地权限:
-    MenuItem:
-    - type:player_head
-    - customskull:...
-    - amount:1
-    - name:&a[v] &f&l开放 &6&l圈地权限
-    RewardType: command
+    # ...
     Reward:
     # 更新 world= 后面的世界为当前的建筑比赛世界
     - lp group default_build parent add game_ongoing world={当前比赛世界}
-    PriceType: nothing
-    InventoryLocation: 21
-    CloseShopAfterPurchase: true
-    Message: '已开放玩家的圈地权限.'
+    # ...
 ```
 
 ### 调整权限
@@ -217,8 +178,6 @@ plots.list.*
 ```
 plots.claim
 plots.delete
-plots.plot.1
-plots.plot.2
 plots.plot.{x} # 这个是玩家可以声明的最大地皮数。随着往届建筑比赛越来越多，这个数值也应该相应提高
 group.worldedit
 group.worldedit_basic
@@ -327,36 +286,7 @@ lp group default_build parent remove game_ongoing world={当前比赛的世界�
       height: 60 # 地面高度，请保持全部一致
       block: oak_planks # 路面之下填充为 oak_planks
     misc_spawn_unowned: false
-    home:
-      nonmembers: side
-      default: side
-    schematic:
-      specify_on_claim: false
-      on_claim: false
-      file: 'null'
-    economy:
-      prices:
-        merge: 100
-        sell: 100
-        claim: 100
-      use: false
-    chat:
-      enabled: false
-    limits:
-      max-members: 128
-    world:
-      max_height: 256
-      gamemode: creative
-      min_height: 1
-      border: false
-    event:
-      spawn:
-        egg: false
-        breeding: false
-        custom: true
-    natural_mob_spawning: false
-    mob_spawner_spawning: false
-    flags: {}
+    # ...s
 ```
 
 ### 设置世界边界
