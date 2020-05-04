@@ -4,11 +4,27 @@
 
 <!-- div:left-panel -->
 
+### 纯净整合包
+
+?> 这类整合包适用于原版服务器（包括上古的[陶可尼亚](/mc-servers/mew.md)、[城镇生存](/mc-servers/survival.md)、[自由创造服](/mc-servers/creative.md)）。
+
+*理论上只要 Minecraft 的版本符合，你可以使用**任意整合包**进入任何**纯净服务器**。*
+
+|    项目    | 游戏版本 |         下载链接          |
+| :--------: | :------: | :-----------------------: |
+| 完整客户端 | `1.14.4` | [阿里云OSS][1.14.4整合包] |
+| 完整客户端 | `1.15.2` | 暂无 |
+
+[1.14.4整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.14.4_vanilla.zip
+[1.15.2整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.15.2_vanilla.zip
+
+<!-- div:right-panel -->
+
 ### 专用整合包
 
 ?> 这类整合包适用于[上古时代](/)的探索模组服。
 
-*模组整合包通常存在大量的<mark>按键冲突</mark>，在正式开始游戏前，请大家按照自己的习惯调整下键位设置。*
+*模组整合包通常存在大量的**按键冲突**，在正式开始游戏前，请大家按照自己的习惯调整下键位设置。*
 
 |    项目    |                 适用周目                  |          下载链接           |
 | :--------: | :---------------------------------------: | :-------------------------: |
@@ -19,22 +35,6 @@
 [一周目整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v1.2.zip
 [二周目整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.3.zip
 [二周目可选模组]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2_optional_mods.zip
-
-<!-- div:right-panel -->
-
-### 纯净整合包
-
-?> 这类整合包适用于原版服务器（包括上古的[陶可尼亚](/mc-servers/mew.md)、[城镇生存](/mc-servers/survival.md)、[自由创造服](/mc-servers/creative.md)）。
-
-*理论上只要 Minecraft 的版本符合，你可以使用`任意整合包`进入任何`纯净服务器`。*
-
-|    项目    | 游戏版本 |         下载链接          |
-| :--------: | :------: | :-----------------------: |
-| 完整客户端 | `1.14.4` | [阿里云OSS][1.14.4整合包] |
-| 完整客户端 | `1.15.2` | 暂无 |
-
-[1.14.4整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.14.4_vanilla.zip
-[1.15.2整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.15.2_vanilla.zip
 
 <!-- panels:end -->
 
