@@ -60,7 +60,7 @@
 
 可用于查询&回档，详见[进阶指南](/staff/cmds-advanced.md)
 
-## 基础指令 Ess :id=ess
+## 基础指令 ESS :id=ess
 
 - 指令
   - `/bal [玩家]` - 查看软妹币余额
@@ -114,7 +114,7 @@
   - `/shopkeeper list [玩家] [页码]` - 查看指定玩家的所有商店
   - `/shopkeeper remove [玩家]` - 删除指定玩家的所有商店
 
-## 城镇 Towny :id=towny
+## 城镇系统 Towny :id=towny
 
 - 动作
   - 拥有任意城镇的领地里`Build`,`Destory`,`Switch`,`Itemuse`权限
@@ -166,6 +166,6 @@
 
 该插件是模组服使用的基础插件，待下次模组服更新时会进行补充。
 
-## 记录查询 Pr :id=pr
+## 记录查询 PR :id=pr
 
 该插件是模组服使用的记录查询插件，待下次模组服更新时会进行补充。
