@@ -71,7 +71,7 @@
 
 基于 Bukkit API 的插件
 
-- [Mcbbs 服务端插件板块](https://www.spigotmc.org/resources/) / 国内最大的 Bukkit 插件发布平台，也包含基于其他 API 的插件
+- [Mcbbs 服务端插件板块](http://www.mcbbs.net/forum-servermod-1.html) / 国内最大的 Bukkit 插件发布平台，也包含基于其他 API 的插件
 - [Spigot Resources](https://www.spigotmc.org/resources/) / 国外最大的 Bukkit 插件发布平台，也包含 BungeeCord 的插件及其他资源
 
 基于 Sponge API 的插件
