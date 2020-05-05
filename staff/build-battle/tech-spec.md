@@ -318,6 +318,6 @@ lp group game_ongoing permission set plots.plot.{原最大数量+1}
 lp group default_build parent remove game_ongoing world={当前比赛的世界名}
 ``` -->
 
-### 完工
+### 完工收场
 
 到此为止，后台操作已完全说明。不要忘记在比赛结束后，再次更新一下[菜单](#menuyml)！
