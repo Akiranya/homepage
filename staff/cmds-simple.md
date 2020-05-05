@@ -158,6 +158,7 @@
 
 - `/lp search <权限> [页码]`搜索全服务器中拥有指定`权限`的`玩家`/`组`
   - 常用`<权限>`
+    - `group.mod` / 风纪委
     - `group.gongjiang` / 工匠
     - `group.jianzhushi` / 建筑师
     - `group.shejishi` / 设计师
