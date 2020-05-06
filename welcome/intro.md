@@ -24,7 +24,7 @@
 
 然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ
 
-<a class="button" href="#/mew"><i class="fas fa-dice"></i>陶可尼亚<br><small class="text-vs">趣味原版生存</small></a>
+<a class="button" href="#/mew"><i class="fas fa-fan"></i>陶可尼亚<br><small>趣味原版生存</small></a>
 <a class="button" href="#/sur"><i class="fas fa-mug-hot"></i>城镇生存<br><small>长期不换地图</small></a>
 <a class="button" href="#/cre"><i class="fas fa-splotch"></i>自由创造<br><small>发挥无限想象</small></a>
 <!-- <a class="button" href="#/mod">探索模组服</a> -->
