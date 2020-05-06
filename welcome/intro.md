@@ -24,12 +24,12 @@
 
 然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ
 
-<a class="button" href="#/mew">陶可尼亚</a>
-<a class="button" href="#/sur">城镇生存</a>
-<a class="button" href="#/cre">自由创造</a>
+<a class="button" href="#/mew"><i class="fas fa-dice"></i>陶可尼亚<br><small class="text-vs">趣味原版生存</small></a>
+<a class="button" href="#/sur"><i class="fas fa-mug-hot"></i>城镇生存<br><small>长期不换地图</small></a>
+<a class="button" href="#/cre"><i class="fas fa-splotch"></i>自由创造<br><small>发挥无限想象</small></a>
 <!-- <a class="button" href="#/mod">探索模组服</a> -->
 
-## 最后 :id=tips
+## 最后<i class="fas fa-quote-right"></i> :id=tips
 
 - 有任何疑问欢迎在[QQ群][qqgroup]发问，或到[上古茶馆][bbs]发帖。
 - 服务器的最新动态都会在茶馆第一时间发布，请多多关注～
