@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft | 我的世界服务器 :id=start {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
-> 新服[陶可尼亚](/mc-servers/mew.md)现已正式开放 - 粘液科技下的城镇生存 - 全员开荒中！
+> [陶可尼亚·第二周目](/mc-servers/mew.md)现已启动 - 全员开荒中！
 
 ![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
