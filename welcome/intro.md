@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft | 我的世界服务器 :id=start {docsify-ignore-all}
 
 > [!note|label:近期更新 ｜ Recent Updates]
-> [陶可尼亚·第二周目](/mc-servers/mew.md)现已启动 - 全员开荒中！
+> [陶可尼亚·第三周目·虚无世界III](/mc-servers/mew.md)现已启动 - 全员开荒中！
 
 ![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
@@ -24,16 +24,16 @@
 
 然后从下面选择一个你喜欢的服务器看看吧( ´ ▽ ` )ﾉ
 
-<a class="button" href="#/mew"><i class="fas fa-fan"></i>陶可尼亚<br><small>趣味原版生存</small></a>
-<a class="button" href="#/sur"><i class="fas fa-mug-hot"></i>城镇生存<br><small>长期不换地图</small></a>
+<a class="button" href="#/mew"><i class="fas fa-fan"></i>陶可尼亚<br><small>探索虚无世界</small></a>
+<a class="button" href="#/sur"><i class="fas fa-mug-hot"></i>城镇生存<br><small>趣味原版生存</small></a>
 <a class="button" href="#/cre"><i class="fas fa-splotch"></i>自由创造<br><small>发挥无限想象</small></a>
 <!-- <a class="button" href="#/mod">探索模组服</a> -->
 
 ## 最后<i class="fas fa-quote-right"></i> :id=tips
 
 - 有任何疑问欢迎在[QQ群][qqgroup]发问，或到[上古茶馆][bbs]发帖。
-- 服务器的最新动态都会在茶馆第一时间发布，请多多关注～
-- 如果您是初次游玩 Minecraft，可以参考攻略：[菜鸟手册][beginner-guide]。
+- 服务器的最新动态都会在**上古茶馆**第一时间发布，请多多关注～
+- 如果您是初次游玩 Minecraft，可以参考游戏攻略：[菜鸟手册][beginner-guide]。
 
 [homepage]: https://www.mimaru.me/
 [bbs]: http://bbs.mimaru.me/

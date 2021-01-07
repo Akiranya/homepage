@@ -1,5 +1,7 @@
 # 城镇生存服·第十四周目
 
+!> 城镇生存服目前已暂时关闭，正在筹备升级等工作事项。大家可以先去[陶可尼亚](/mc-servers/mew.md)玩哦～
+
 > **城镇生存服**完全继承原版生存的游戏玩法。建设并经营自己的[城镇](/plugins/towny.md)是贯穿这里的主线。这里对建筑党有特别的援助，例如主城拥有以**原木**换万物的`系统兑换商店`，是建材源源不断的无限来源。并且**[家园世界](#home_worlds)长期不换图**，适合~~开无底坑~~规划大型项目。当然～这里也添加了几个趣味插件（如[宠物](/plugins/mypet.md)），详见[服务器插件列表](#plugins)。
 
 ![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')

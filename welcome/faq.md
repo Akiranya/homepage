@@ -51,15 +51,11 @@
 
 以下是上古各个服务器的换图策略：
 
-**<i class="fas fa-fan"></i>陶可尼亚的策略**
-
-核心策略：<mark>每周目都开新图</mark>
+**<i class="fas fa-fan"></i>陶可尼亚** <mark>每周目都开新图</mark>
 
 [陶可尼亚](/mc-servers/mew.md)每一个周目都会换图，也就是都不会继承上一个周目的内容。
 
-**<i class="fas fa-mug-hot"></i>城镇生存服的策略**
-
-核心策略：<mark>尽可能的不换图</mark>
+**<i class="fas fa-mug-hot"></i>城镇生存** <mark>尽可能的不换图</mark>
 
 [城镇生存服](/mc-servers/survival.md)在升级到新版本后是否**换图**取决于新版本的**内容丰富程度**。
 
@@ -67,9 +63,7 @@
 
 如果新版本的内容不够丰富，仅仅是性能改进/装饰性内容，则不会新开新地图，只会更新游戏版本。
 
-**<i class="fas fa-splotch"></i>自由创造服的策略**
-
-核心策略：<mark>永远不换图/删图</mark>
+**<i class="fas fa-splotch"></i>自由创造** <mark>永远不换图/删图</mark>
 
 [自由创造服](/mc-servers/creative.md)的所有地图永远不会转移或更换，只会在现有的基础上添加新地图。
 
@@ -88,23 +82,5 @@
 ## 服务器的开放时间 :id=opening-hours
 
 7×24 小时不间断运行（除去间接性的维护、升级），欢迎各位肝帝来上古服肝个痛快 (⁎⁍̴̛ᴗ⁍̴̛⁎)
-
-## 服务器的硬件配置 :id=server-hardware
-
-我们目前分别租用了一台游戏服务器和一台网站服务器。
-
-游戏服务器使用的是`阿里云ECS 高主频内存型 hfr6`，以下是具体配置：
-
-- 实例规格 - ecs.hfr6.large
-- vCPU - 2 vCPU
-- 内存 - 16 GiB
-- 处理器型号 - Intel Xeon (Cascade Lake) Platinum 8269
-- 处理器主频/睿频 - 3.1 GHz/3.5 GHz
-
-网站服务器使用的是`阿里云轻量应用服务器`，位于香港。
-
-## 所使用的服务端 :id=server-software
-
-`原版服`<small>（指[陶可尼亚](/mc-servers/mew.md)、[城镇生存](/mc-servers/survival.md)、[自由创造](/mc-servers/creative.md)）</small>使用的是 [Paper](https://papermc.io/)，`模组服`使用的是 [Sponge](https://www.spongepowered.org/)。
 
 [trade]: /plugins/trade.md
