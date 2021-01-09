@@ -23,8 +23,8 @@
 
 ## 客户端下载 :id=client-download
 
-<a class="button" target="_blank" href="https://share.weiyun.com/rcqVX2JE"><i class="fas fa-dove"></i>腾讯微云<br><small>提取码 无</small></a>
-<a class="button" target="_blank" href="https://pan.baidu.com/s/1D3mPkjmWSGA8RDtZWIb2ig"><i class="fas fa-cat"></i>百度网盘<br><small>提取码 mmod</small></a>
+<a class="button" target="_blank" href="https://share.weiyun.com/dzDvGBxU"><i class="fas fa-dove"></i>腾讯微云<br><small>提取码 无</small></a>
+<a class="button" target="_blank" href="https://pan.baidu.com/s/1qkwHUytDIeOpazRUfLl3fQ"><i class="fas fa-cat"></i>百度网盘<br><small>提取码 Pmew</small></a>
 
 ## 周目信息 :id=genernal-info
 
