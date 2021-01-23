@@ -57,6 +57,7 @@
 > 名单以捐赠者在上古时代 Minecraft 服务器内的角色名或昵称呈现。
 
 - 2021年1月
+  - Violet
   - 2yd_
   - ChesNez 西木
   - Nailm 小米
