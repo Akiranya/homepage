@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft | 我的世界服务器 :id=start {docsify-ignore-all}
 
 > [!note|label:2021年7月 近期更新 ｜ Recent Updates]
-> [城镇生存服·第十五周目](/mc-servers/survival.md)现已刚刚启动 - 全员开荒中！
+> [城镇生存服·第十五周目](/mc-servers/survival.md) 现已启动 - 全员开荒中！
 
 ![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
