@@ -1,7 +1,7 @@
 * [上古茶馆](https://bbs.mimaru.me)
 * [卫星地图](http://map.mimaru.me:8123)
 * 常用指令
-  * [陶可尼亚](/navbar/cmds/mew.md)
+  <!-- * [陶可尼亚](/navbar/cmds/mew.md) -->
   * [城镇生存服](/navbar/cmds/survival.md)
   * [自由创造服](/navbar/cmds/creative.md)
 * 下载<i class="fas fa-cloud-download-alt"></i>

@@ -8,7 +8,7 @@
   * [<i class="fas fa-user-tag"></i>权限组](/welcome/groups.md)
 
 * <i class="fas fa-stream"></i>服务器列表 & 帮助
-  * [陶可尼亚<i class="fas fa-dice"></i>探索虚无世界III](/mc-servers/mew.md)
+  <!-- * [陶可尼亚<i class="fas fa-dice"></i>探索虚无世界III](/mc-servers/mew.md) -->
   * [城镇生存<i class="fas fa-mug-hot"></i>长期地图 休闲养老](/mc-servers/survival.md)
   * [自由创造<i class="fas fa-splotch"></i>创造模式 作弊指令](/mc-servers/creative.md)
   <!-- * [探索模组](/mod) -->
