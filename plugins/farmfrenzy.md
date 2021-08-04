@@ -2,8 +2,6 @@
 
 > 以下内容参考了 Mcbbs 的[服务端插件帖子](https://www.mcbbs.net/thread-1211227-1-1.html)。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803233524.png ':class=img-uni')
-
 ## 什么是牧场物语
 
 牧场物语让服务器的动物农场更加有趣！比起原版所生成的动物，牧场物语所带来的动物更具玩法，它使得玩家们可以升级自己的农场动物，通过生成券生成自己的动物。由牧场物语生成的动物拥有水和度和饱和度两大属性。你必须不断喂食它们以避免它们死亡，当然，它们也会回报你——随着等级的提升，它们会掉落更好的东西，也会为你繁殖下一代可爱的幼崽...还有其他的玩法等着你的探索！
@@ -11,6 +9,12 @@
 ![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803233626.png)
 
 上图解释了该插件的主要玩法：喂食动物后，它们则可以掉落物品。给它们喝水，它们则可以繁衍。增益器使得附近的动物都获得某种增益。如：自动喂食、饮水槽等。牧场物语的目的在于为玩家带来牧场效益，让养殖在服务器中变得火热起来！
+
+![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210804133718.png ':class=img-uni')
+
+![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210804133824.png ':class=img-uni')
+
+![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210804134331.png ':class=img-uni')
 
 ## 动物等级
 
