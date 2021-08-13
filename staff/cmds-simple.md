@@ -99,25 +99,12 @@
   - 接收`HelpOp`的消息
     - 可以看到玩家使用`/helpop`发送出来的消息
 
-## 天喵商城 HEH :id=heh
-
-- 动作
-  - 移除玩家的木牌商店
-
 ## 木牌锁 Lock :id=lock
 
 - 动作
   - 拆除牌子锁
   - 编辑牌子锁
   - 打开上锁的箱子
-
-## 村民商店 ShopKeepers :id=shopkeepers
-
-- 动作
-  - 打开其他玩家的商店箱子
-- 指令
-  - `/shopkeeper list [玩家] [页码]` - 查看指定玩家的所有商店
-  - `/shopkeeper remove [玩家]` - 删除指定玩家的所有商店
 
 ## 城镇系统 Towny :id=towny
 
