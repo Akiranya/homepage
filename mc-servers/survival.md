@@ -1,6 +1,6 @@
 # 城镇生存服·第十五周目
 
-> **城镇生存服**继承原版生存的游戏玩法的同时，还有很多趣味内容！**循环经济**，与其他玩家**交易**，建设并经营自己的[城镇](/plugins/towny.md)是贯穿这里的主线。这里对建筑党还有特别的援助，例如主城拥有使用**软妹币**购买建筑材料的**建材商店**，是建材源源不断的无限来源。[家园世界](#home_worlds)长期不换图，适合~~开无底坑~~规划大型项目。还有～这里也添加了很多趣味插件，体验不一样的MC，详见游戏特色和[插件帮助](#plugins)。
+> **城镇生存服**继承原版生存的游戏玩法的同时，还有很多趣味内容！建设并经营自己的[城镇](/plugins/towny.md)是贯穿这里的主线，同时攻略BOSS副本和强化自己的装备和人物属性也是主要内容之一。这里对建筑党还有特别的援助，你可以在主城的**建材商店**用**软妹币**无限购买建筑材料，并且有机会在城镇领地使用飞行模式。[家园世界](#home_worlds)长期不换图，适合~~开无底坑~~规划大型项目。游戏内容详见下面的游戏特色和[插件帮助](#plugins)。
 
 ![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')
 ![cover-yukumo](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
