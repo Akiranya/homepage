@@ -1,6 +1,6 @@
 # 城镇生存服·第十五周目
 
-> **城镇生存服**继承原版生存的游戏玩法的同时，还有很多趣味内容！**循环经济**，与其他玩家**交易**，建设并经营自己的[城镇](/plugins/towny.md)是贯穿这里的主线。这里对建筑党还有特别的援助，例如主城拥有使用**软妹币**购买建筑材料的**建材商店**，是建材源源不断的无限来源。[家园世界](#home_worlds)长期不换图，适合~~开无底坑~~规划大型项目。还有～这里也添加了很多趣味插件，体验不一样的MC，详见游戏特色和[插件帮助](#plugins)。
+> **城镇生存服**继承原版生存的游戏玩法的同时，还有很多趣味内容！建设并经营自己的[城镇](/plugins/towny.md)是贯穿这里的主线，同时攻略BOSS副本和强化自己的装备和人物属性也是主要内容之一。这里对建筑党还有特别的援助，你可以在主城的**建材商店**用**软妹币**无限购买建筑材料，并且有机会在城镇领地使用飞行模式。[家园世界](#home_worlds)长期不换图，适合~~开无底坑~~规划大型项目。游戏内容详见下面的游戏特色和[插件帮助](#plugins)。
 
 ![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')
 ![cover-yukumo](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
@@ -71,7 +71,7 @@
 - [机械工艺](/plugins/craftbook.md) - 可以借助告示牌来建造快速电梯、自动城门
 - [牧场物语](/plugins/farmfrenzy.md) - 领养稀有动物并好好照顾它们，会有意想不到的惊喜
 - [更多枪械](/plugins/crackshot.md) - 大量服务器原创枪械模型，快来完成你的米国梦吧！
-- [RPG技能](plugins/rpg.md) - 过挖矿、钓鱼、砍树等操作升级你的人物属性和技能等级，解锁新的超能力
+- [RPG技能](plugins/skills.md) - 过挖矿、钓鱼、砍树等操作升级你的人物属性和技能等级，解锁新的超能力
 - [盲盒](/plugins/crates.md) - 使用盲盒钥匙开启神秘盲盒，赢得意想不到的奖励
 - [小功能](/plugins/nu.md) - 提供了一些实用功能，给你更好的游戏体验~
 - [记录查询](/plugins/logblock.md) - 使用它来追溯游戏里的一举一动
