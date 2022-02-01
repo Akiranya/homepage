@@ -17,7 +17,7 @@
 我们目前提供 **支付宝** 与 **微信** 的个人收款码来接收捐助款项。
 
 ![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/donation-qrcode.JPG ':size=300')
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/14C8570593484D82D42456250F28617F.png ':size=300')
+![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/wechat-payment-qrcode.JPG ':size=300')
 
 ## 捐助奖励
 
