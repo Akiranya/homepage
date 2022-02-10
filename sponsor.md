@@ -65,6 +65,19 @@
 > 同一个体、不同时间段多次捐助，将展示多次名单。  
 > 名单以捐赠者在上古时代 Minecraft 服务器内的角色名或昵称呈现。
 
+- 2022年2月
+  - 小伤的爸爸
+  - 奶猫
+  - 桃子
+  - AutumnMaple_64
+  - BrAs9
+  - ao_hanxue
+  - Violet
+  - Fryn3404
+  - phlhaha
+  - RushClear
+  - preycow
+  - DDRS
 - 2021年7月
   - Brealsk
   - Kr_onos
