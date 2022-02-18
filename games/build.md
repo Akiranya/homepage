@@ -42,6 +42,6 @@
 
 ![build-battle-online-players](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-battle-online-players.jpg)
 
-[crafter]: /welcome/groups.md#crafter "工匠"
-[designer]: /welcome/groups.md#designer "设计师"
-[architect]: /welcome/groups.md#arch "建筑师"
+[crafter]: /main/groups.md#crafter "工匠"
+[designer]: /main/groups.md#designer "设计师"
+[architect]: /main/groups.md#arch "建筑师"

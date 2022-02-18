@@ -1,6 +1,6 @@
 # 自由创造服
 
-> 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式，且允许使用部分作弊[指令](/navbar/cmds/creative.md)，让每个玩家都可在此自由发挥想象力。除此之外[设计师](/welcome/groups.md#designer)还可以在此使用强大的`WorldEdit`（地图编辑器）加快创作效率～
+> 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式，且允许使用部分作弊[指令](/navbar/cmds/creative.md)，让每个玩家都可在此自由发挥想象力。除此之外[设计师](/main/groups.md#designer)还可以在此使用强大的`WorldEdit`（地图编辑器）加快创作效率～
 
 ![结云村](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-1.jpg ':class=img-small')
 ![最开始的地方](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-2.jpg ':class=img-small')

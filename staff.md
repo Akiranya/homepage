@@ -12,13 +12,13 @@
 
 ## 风纪委指令 :id=cmds
 
-👉[查看详情](/staff/cmds-simple.md)
+👉[点击查看详情](/staff/cmds-simple.md)
 
 ## OP常用指令 :id=tuts
 
 如策划活动需要用到的创建保护区、编辑悬浮文字、改变世界设定等。
 
-👉[查看详情](/staff/cmds-advanced.md)
+👉[点击查看详情](/staff/cmds-advanced.md)
 
 ## 建筑比赛流程 :id=build-battle-processes
 
@@ -34,7 +34,7 @@
 
 你也可以把这部分内容当成是教你使用基于 Bukkit 的 MC 服务端。
 
-- [MC Java 版的服务端种类的概述](/staff/game-design/server-intro.md)
+- [MC Java 版的服务端种类的概述](/staff/game-design/server-homepage.md)
 - [使用 PufferPanel 管理 MC 服务端](/staff/game-design/pufferpanel.md)
 - [查找、安装、配置、使用你的第一个插件](/staff/game-design/your-first-plugin.md)
 - [一切就绪 - 开始策划属于你的活动！](/staff/game-design/prep.md) -->

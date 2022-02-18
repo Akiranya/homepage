@@ -16,7 +16,7 @@
 **前置条件**
 
 - 您拥有**正版** Minecraft（Java 国际，非网易）
-- 您已阅读并且会遵守我们的[服务器游戏规则](welcome/rules.md)
+- 您已阅读并且会遵守我们的[服务器游戏规则](main/rules.md)
 
 如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个。
 

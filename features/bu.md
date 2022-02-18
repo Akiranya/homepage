@@ -2,7 +2,7 @@
 
 ?> 该插件提供了许多方便的小功能，可以协助建筑师更方便的进行建造。
 
-!> 该插件仅限[设计师](/welcome/groups.md#designer)（或更高级权限组）在[创造服](/servers/creative.md)使用。
+!> 该插件仅限[设计师](/main/groups.md#designer)（或更高级权限组）在[创造服](/servers/creative.md)使用。
 
 ## 秘密方块
 

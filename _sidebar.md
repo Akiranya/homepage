@@ -1,17 +1,13 @@
 * <i class="fas fa-heart"></i>欢迎 ( ´ ▽ ` )ﾉ
 
-  * [<i class="fab fa-gratipay"></i>简介](/welcome/intro.md)
-  * [<i class="fas fa-gavel"></i>游戏规则](/welcome/rules.md)
-  <!-- * [常用指令](/welcome/commands.md) -->
-  * [<i class="fas fa-question-circle"></i>常见问题](/welcome/faq.md)
-  <!-- * [插件帮助](/features) -->
-  * [<i class="fas fa-user-tag"></i>权限组](/welcome/groups.md)
+  * [<i class="fab fa-gratipay"></i>简介](/main/homepage.md)
+  * [<i class="fas fa-gavel"></i>游戏规则](/main/rules.md)
+  * [<i class="fas fa-question-circle"></i>常见问题](/main/faq.md)
+  * [<i class="fas fa-user-tag"></i>权限组](/main/groups.md)
 
 * <i class="fas fa-stream"></i>服务器列表 & 帮助
-  <!-- * [陶可尼亚<i class="fas fa-dice"></i>探索虚无世界III](/servers/mew.md) -->
   * [城镇生存<i class="fas fa-mug-hot"></i>长期地图 休闲养老](/servers/survival.md)
   * [自由创造<i class="fas fa-splotch"></i>创造模式 作弊指令](/servers/creative.md)
-  <!-- * [探索模组](/mod) -->
   * [休闲游戏<i class="fas fa-ghost"></i>寒暑假开放](/servers/games.md)
 
 <!-- * 📖插件帮助
@@ -41,7 +37,6 @@
 
 ----
 
-<!-- * [如何在论坛插入图片](https://bbs.mimaru.me/d/46) -->
 * [捐助我们](sponsor.md)
 * [参与贡献](contribution.md)
 * [运维手册](staff.md)

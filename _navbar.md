@@ -9,4 +9,4 @@
   <!-- * [客户端整合包](/navbar/downloads/clients.md) -->
   * [服务器地图存档](/navbar/downloads/saves.md)
 <!-- * [皮肤站](https://skin.mimaru.me) -->
-<!-- * [TeamSpeak](welcome/teamspeak.md) -->
+<!-- * [TeamSpeak](main/teamspeak.md) -->
