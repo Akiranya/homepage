@@ -1,6 +1,6 @@
 # 城镇生存服
 
-!> 本页介绍的是[城镇生存服](/mc-servers/survival.md)的常用指令。
+!> 本页介绍的是[城镇生存服](/servers/survival.md)的常用指令。
 
 ## 快捷菜单
 
@@ -32,7 +32,7 @@
   - `/delhome` 删除家的传送点
   - `/warp [传送点名字]` 传送到固定地点
 - 聊天
-  - `/nick <昵称>` 修改昵称，支持[颜色代码](/plugins/chatutil.md)
+  - `/nick <昵称>` 修改昵称，支持[颜色代码](/features/chatutil.md)
   - `/helpme <信息>` 向`在线`管理员发送消息来请求帮助
   - `/ignore [玩家名]` 屏蔽玩家/解除屏蔽玩家
 - 经济
@@ -67,7 +67,7 @@
 
 ## 城镇
 
-- 详见[城镇](/plugins/towny.md)
+- 详见[城镇](/features/towny.md)
 
 ## 记录查询
 

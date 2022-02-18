@@ -22,7 +22,7 @@
 
 ## 怎么圈地 :id=land-claiming
 
-在陶可尼亚，创建城镇就相当于圈地。点[这里](/plugins/towny.md)查看创建城镇的方法。
+在陶可尼亚，创建城镇就相当于圈地。点[这里](/features/towny.md)查看创建城镇的方法。
 
 ## 怎么锁箱 :id=chest-protection
 

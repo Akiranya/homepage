@@ -6,7 +6,7 @@
 
 ### 纯净整合包
 
-?> 这类整合包适用于原版服务器（包括上古的[陶可尼亚](/mc-servers/mew.md)、[城镇生存](/mc-servers/survival.md)、[自由创造服](/mc-servers/creative.md)）。
+?> 这类整合包适用于原版服务器（包括上古的[陶可尼亚](/servers/mew.md)、[城镇生存](/servers/survival.md)、[自由创造服](/servers/creative.md)）。
 
 *理论上只要 Minecraft 的版本符合，你可以使用**任意整合包**进入任何**纯净服务器**。*
 
@@ -28,9 +28,9 @@
 
 |    项目    |                 适用周目                  |          下载链接           |
 | :--------: | :---------------------------------------: | :-------------------------: |
-|  可选模组  | [模组服·第二周目](/mc-servers/modded-v2.md) | [阿里云OSS][二周目可选模组] |
-| 完整客户端 | [模组服·第二周目](/mc-servers/modded-v2.md) |  [阿里云OSS][二周目整合包]  |
-| 完整客户端 | [模组服·第一周目](/mc-servers/modded-v1.md) |  [阿里云OSS][一周目整合包]  |
+|  可选模组  | [模组服·第二周目](/servers/modded-v2.md) | [阿里云OSS][二周目可选模组] |
+| 完整客户端 | [模组服·第二周目](/servers/modded-v2.md) |  [阿里云OSS][二周目整合包]  |
+| 完整客户端 | [模组服·第一周目](/servers/modded-v1.md) |  [阿里云OSS][一周目整合包]  |
 
 [一周目整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v1.2.zip
 [二周目整合包]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/1.12.2_mod_v2.3.zip

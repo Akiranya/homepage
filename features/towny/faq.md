@@ -114,7 +114,7 @@
 
 当你使用`/plot group`进行`批量操作`时，操作的区块具体指`脚下区块所在分组内的所有区块`。
 
-完整的`/plot group`指令见[所有指令](/plugins/towny/cmds.md#plot)。
+完整的`/plot group`指令见[所有指令](/features/towny/cmds.md#plot)。
 
 ## 国家相关
 

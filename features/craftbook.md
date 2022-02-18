@@ -84,21 +84,7 @@
 2. 告示牌+特定的文字内容
 3. 红石电路<small>（可选）</small>
 
-详细的建造方法请在[城镇生存服](/mc-servers/survival.md)输入指令`/warp mech-demo`查看演示。
-
-## 电表
-
-> [!tip|label:操作说明]
-> 用煤炭右键一段红石电路，可以检测电流强度（范围`0-15 A`）。
-
-![电表](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-ammeter.png ':class=img-center')
-
-## 光感器
-
-> [!tip|label:操作说明]
-> 用萤石粉右键一个地方，可以检测光照强度（范围`0-15 L`）。
-
-![光感器](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cb-lightstone.png ':class=img-center')
+详细的建造方法请在[城镇生存服](/servers/survival.md)输入指令`/warp mech-demo`查看演示。
 
 ## 换画
 

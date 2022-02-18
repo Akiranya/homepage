@@ -1,6 +1,6 @@
-[server-survival]: /mc-servers/survival.md
-[server-creative]: /mc-servers/creative.md
-[worlds-of-survival]: /mc-servers/survival.md#home
+[server-survival]: /servers/survival.md
+[server-creative]: /servers/creative.md
+[worlds-of-survival]: /servers/survival.md#home
 
 # 权限组 {docsify-ignore-all}
 
@@ -46,7 +46,7 @@
 **拥有权限**
 
 - 继承`初心者`的所有权限
-- 可以在[城镇领地](/plugins/towny.md)里飞行（俗称`城镇飞行`）
+- 可以在[城镇领地](/features/towny.md)里飞行（俗称`城镇飞行`）
 - 修改当前世界的天气（在[自由创造服][server-creative]）
 
 #### **建筑师**
@@ -61,7 +61,7 @@
 
 - 继承`工匠`的所有权限
 - 在[自由创造服][server-creative]使用`WorldEdit`
-- 使用[盔甲架编辑器](/plugins/ast.md)（在[自由创造服][server-creative]）
+- 使用[盔甲架编辑器](/features/ast.md)（在[自由创造服][server-creative]）
 
 #### **设计师**
 
@@ -127,7 +127,7 @@
 
 **风纪委**当中的元老级人物，负责监督和引导新的/现有的所有风纪委。
 
-拥有更高级的管理权限，如使用[记录查询](/plugins/logblock.md)的回档指令`/co rollback(rb)`。
+拥有更高级的管理权限，如使用[记录查询](/features/logblock.md)的回档指令`/co rollback(rb)`。
 
 <!-- tabs:end -->
 

@@ -31,7 +31,7 @@
 #### 如何控制比赛的开始与结束
 
 1. （比赛开始的时间到了！）
-2. *主持人*进入[自由创造服](/mc-servers/creative.md)
+2. *主持人*进入[自由创造服](/servers/creative.md)
 3. 主持人打开`快捷菜单`-`建筑比赛菜单`-`主持人菜单`
 4. 主持人*开放*比赛世界的`建造权限`和`圈地权限`
 5. 主持人*修复*比赛世界的`游戏模式`
@@ -94,7 +94,7 @@
 - 主持人可以使用`/p2 wea`指令让自己在任意地皮里使用WE
 - 主持人可以使用`/hd`来创建[悬浮文字](/staff/cmds-advanced.md#hd)
 - 主持人可以编辑（名人堂的）NPC
-- 主持人可以使用[盔甲架工具包](/plugins/ast.md)
+- 主持人可以使用[盔甲架工具包](/features/ast.md)
 - 主持人拥有在任意**地皮**的所有权限（建造/破坏/交互等）
 - 主持人拥有在任意**保护区**的所有权限（建造/破坏/交互等）
 - 主持人可以使用`/lp search`指令来查看现有的工匠、建筑师和设计师有哪些（详见[简单管理指令](/staff/cmds-simple.md#lp)）
@@ -157,7 +157,7 @@
 
 ### 更新卫星地图
 
-要**正确**启用新一届建筑比赛的卫星地图，需要在`{创造服文件夹}/plugins/dynmap/worlds.txt`中加上新的地图配置。
+要**正确**启用新一届建筑比赛的卫星地图，需要在`{创造服文件夹}/features/dynmap/worlds.txt`中加上新的地图配置。
 
 建议直接复制上一届建筑比赛的地图配置，然后分别修改`key:name`和`key:title`这两个的`value`。其中，`key:name`指世界的技术名。`key:title`指在[卫星地图](http://map.mimaru.me:8123/creative)网页上看到的世界的标题。
 
@@ -205,7 +205,7 @@
 
 #### menu.yml
 
-快捷菜单`{创造服目录}/plugins/BossShopPro/shops/menu.yml`，更新以下图标的`name`：
+快捷菜单`{创造服目录}/features/BossShopPro/shops/menu.yml`，更新以下图标的`name`：
 
 - 如果比赛已结束，需要标明`&c(已结束)`（注意颜色代码）
 - 如果比赛即将开始/进行当中，需要标明`&a(即将开始)`或`&a(进行当中)`
@@ -222,7 +222,7 @@
 
 #### game.yml
 
-快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game.yml`，更新下面图标的`Reward`：
+快捷菜单`{创造服目录}/features/BossShopPro/shops/game.yml`，更新下面图标的`Reward`：
 
 ```yaml
   go-battle:
@@ -243,7 +243,7 @@
 
 #### game_host.yml
 
-快捷菜单`{创造服目录}/plugins/BossShopPro/shops/game_host.yml`，更新下面图标的`Reward`：
+快捷菜单`{创造服目录}/features/BossShopPro/shops/game_host.yml`，更新下面图标的`Reward`：
 
 ```yaml
   禁止圈地权限:

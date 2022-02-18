@@ -15,13 +15,13 @@
 
 ## 怎么用记录查询
 
-基本用法：输入`/pr i`开启/关闭查询模式。详细用法请参照[记录查询](/plugins/logblock.md#usage)。
+基本用法：输入`/pr i`开启/关闭查询模式。详细用法请参照[记录查询](/features/logblock.md#usage)。
 
 开启查询模式后，要查询容器的物品流动记录，使用<kbd>鼠标左键</kbd>点击容器。
 
 ## 怎么修改后缀
 
-请前往[城镇生存服](/mc-servers/survival.md)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
+请前往[城镇生存服](/servers/survival.md)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
 
 ## 如何清除死亡地点标记
 

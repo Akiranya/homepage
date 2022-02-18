@@ -40,11 +40,11 @@
 
 👉[点击查看](/navbar/cmds/mew.md)
 
-## 插件列表 & 帮助 :id=plugins
+## 插件列表 & 帮助 :id=features
  
-- [机械工艺](/plugins/craftbook.md)
-- [聊天拓展](/plugins/chatutil.md)
-- [记录查询](/plugins/logblock.md)
+- [机械工艺](/features/craftbook.md)
+- [聊天拓展](/features/chatutil.md)
+- [记录查询](/features/logblock.md)
 
 ## 更新日志 :id=changelog
 

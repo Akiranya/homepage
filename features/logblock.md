@@ -6,7 +6,7 @@
 
 ## 记录范围
 
-[城镇生存服](/mc-servers/survival.md)和[自由创造服](/mc-servers/creative.md)都安装了 `co`，玩家可以查询这两个服务器的记录。
+[城镇生存服](/servers/survival.md)和[自由创造服](/servers/creative.md)都安装了 `co`，玩家可以查询这两个服务器的记录。
 
 ?> 在城镇生存服，`co`只记录发生在`家园世界`的变动。而在`自由创造服`会记录全部世界。
 

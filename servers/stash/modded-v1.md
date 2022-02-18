@@ -1,4 +1,4 @@
-!> **模组服·壹周目**将于2019年12月17日停服。预计在圣诞节前后开放[模组服·二周目](/mc-servers/modded-v2.md)，敬请期待！
+!> **模组服·壹周目**将于2019年12月17日停服。预计在圣诞节前后开放[模组服·二周目](/servers/modded-v2.md)，敬请期待！
 
 # 探索模组服·第一周目
 
@@ -123,7 +123,7 @@
 [ct]: https://www.bilibili.com/video/av55562073
 [jec]: https://www.mcbbs.net/thread-561503-1-1.html
 
-## 指令帮助 :id=plugins
+## 指令帮助 :id=features
 
 👉[常用指令·模组探索服](/welcome/commands-modded-v1.md)
 
@@ -184,7 +184,7 @@
 
 ### 怎么用记录查询
 
-输入`/pr i`开启/关闭查询模式。用法请参照[记录查询](/plugins/logblock.md#usage)。
+输入`/pr i`开启/关闭查询模式。用法请参照[记录查询](/features/logblock.md#usage)。
 
 > P.S.1 模组服使用的记录查询插件叫做 [Prism](https://github.com/prism/Prism)（简称 pr），不是大家熟悉的 CoreProtect（简称 co）。目前 Prism 的功能还没有 co 完善，只能简单的记录方块的变动和容器内物品流动。pr 的用法基本和 co 的一致。
 
@@ -192,7 +192,7 @@
 
 ### 怎么修改后缀
 
-由于技术限制，玩家不能直接在模组服修改后缀。请前往[原版·生存服](/mc-servers/survival.md)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
+由于技术限制，玩家不能直接在模组服修改后缀。请前往[原版·生存服](/servers/survival.md)使用指令`/nu suffix`修改。你的后缀会实时同步到模组服。
 
 ### 如何清除死亡地点标记
 

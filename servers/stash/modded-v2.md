@@ -101,7 +101,7 @@
 [rtg]: https://www.mcmod.cn/class/635.html
 [hwyla]: https://www.mcbbs.net/thread-648893-1-1.html
 
-## 指令帮助 :id=plugins
+## 指令帮助 :id=features
 
 👉[点击查看](/navbar/cmds/modded.md)
 
@@ -109,11 +109,11 @@
 
 点击下方链接查看帮助。P.S. 这里只列出了玩家可用的插件列表。
 
-- [萝卜商店](/plugins/carrotshop.md)
+- [萝卜商店](/features/carrotshop.md)
 
 ## 常见问题 & 解答
 
-👉[点击查看](/mc-servers/modded-v2/faq.md)
+👉[点击查看](/servers/modded-v2/faq.md)
 
 ## 世界列表
 
@@ -138,7 +138,7 @@
 
 `店铺`支持三种交易模式 - `出售`/`收购`/`物物交换`。
 
-<a href="#/plugins/carrotshop.md" target="_blank" class="button">店铺使用指南</a>
+<a href="#/features/carrotshop.md" target="_blank" class="button">店铺使用指南</a>
 
 ## 更真实的地形
 

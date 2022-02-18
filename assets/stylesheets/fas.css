@@ -1,4 +1,4 @@
-.fas, .fab {
-    margin-right: 0.15em;
-    margin-left: 0.15em;
+.fas, .fab, kbd {
+    margin-right: 0.20em;
+    margin-left: 0.20em;
 }

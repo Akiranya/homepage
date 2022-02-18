@@ -40,7 +40,7 @@ a) 了解[软妹币如何产生](#how-ruanmeibi-is-generated)（直接简单）�
 
 ## 怎么圈地 :id=land-claiming
 
-在城镇生存服，创建城镇就相当于圈地。点[这里](/plugins/towny.md)查看创建城镇的方法。
+在城镇生存服，创建城镇就相当于圈地。点[这里](/features/towny.md)查看创建城镇的方法。
 
 ## 怎么锁箱 :id=chest-protection
 
@@ -50,7 +50,7 @@ a) 了解[软妹币如何产生](#how-ruanmeibi-is-generated)（直接简单）�
 
 在城镇生存服，你可以通过以下方式拥有飞行能力：
 
-- 方式一：捕捉一只可以选择`飞行技能树`的[宠物](/plugins/mypet.md)
+- 方式一：捕捉一只可以选择`飞行技能树`的[宠物](/features/mypet.md)
 - 方式二：升级为`工匠`或`建筑师`或`设计师`[权限组](/welcome/groups.md)
 
 ## 刷怪上限是怎样的
