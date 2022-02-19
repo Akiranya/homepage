@@ -5,6 +5,8 @@
 .markdown-section em {
     color: palevioletred;
     font-weight: bold;
+    margin-right: 0.20em;
+    margin-left: 0.20em;
 }
 
 .markdown-section mark {
