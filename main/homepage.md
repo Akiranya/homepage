@@ -37,7 +37,7 @@
 
 [homepage]: https://www.mimaru.me/
 [bbs]: http://bbs.mimaru.me/
-[dynmap]: http://map.mimaru.me:8123/
+[dynmap]: http://map.mewcraft.cc/
 [qqgroup]: https://qm.qq.com/cgi-bin/qm/qr?k=hXMrpi7526OY0Q0SDZemVw1VJEB58Cyh&authKey=Mp6lZ5bZ1l58nDf99s7z0NudcugDWbNx3wVSeKFSSyiBSL7VupJuQZoPmnBWm9gd&noverify=0
 [mcwiki]: https://minecraft-zh.gamepedia.com/
 [beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C

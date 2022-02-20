@@ -59,7 +59,7 @@
 ### 如何确定城镇的领地范围
 
 - 方式一：使用卫星地图
-  - 打开[卫星地图](http://map.mimaru.me:8123/)
+  - 打开[卫星地图](http://map.mewcraft.cc/)
   - 找到带有你城镇名字的图标
   - 蓝色半透明域就是城镇的领地范围
   - ![卫星地图](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/dynmap-kong.png ':class=img-uni')

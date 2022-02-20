@@ -159,7 +159,7 @@
 
 要**正确**启用新一届建筑比赛的卫星地图，需要在`{创造服文件夹}/features/dynmap/worlds.txt`中加上新的地图配置。
 
-建议直接复制上一届建筑比赛的地图配置，然后分别修改`key:name`和`key:title`这两个的`value`。其中，`key:name`指世界的技术名。`key:title`指在[卫星地图](http://map.mimaru.me:8123/creative)网页上看到的世界的标题。
+建议直接复制上一届建筑比赛的地图配置，然后分别修改`key:name`和`key:title`这两个的`value`。其中，`key:name`指世界的技术名。`key:title`指在[卫星地图](http://map.mewcraft.cc/creative)网页上看到的世界的标题。
 
 以下是第七届和第八届的卫星地图配置。
 
