@@ -7,7 +7,7 @@
 - "无法加入 sur: 客户端版本过低！请使用 1.15.2"
 - "无法加入 build: 客户端版本过低！请使用 1.13.2"
 
-这是因为你进错了服务器（你进入了原版服）。确认服务器地址为`play-mod.mimaru.me`再试。如果你确认服务器地址为`play-mod.mimaru.me`但仍然出现以上提示，则说明`模组服`正在维护。遇到这种情况请关注我们的QQ群动态。
+这是因为你进错了服务器（你进入了原版服）。确认服务器地址为`play-mod.mewcraft.cc`再试。如果你确认服务器地址为`play-mod.mewcraft.cc`但仍然出现以上提示，则说明`模组服`正在维护。遇到这种情况请关注我们的QQ群动态。
 
 ## 怎么锁箱子/圈领地
 
@@ -41,7 +41,7 @@
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
 [the_end]: https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
-[bbs]: http://bbs.mimaru.me/
+[bbs]: http://bbs.mewcraft.cc/
 
 [bm]: https://www.bilibili.com/video/av11364354
 [as]: https://www.bilibili.com/video/av21988235
@@ -52,7 +52,7 @@
 [tc_conarm]: https://www.bilibili.com/video/av37293887
 [gaia3]: https://www.mcbbs.net/thread-445944-1-1.html
 [ironchest]: https://www.mcbbs.net/thread-372723-1-1.html
-[betterrecords]: https://bbs.mimaru.me/d/320
+[betterrecords]: https://bbs.mewcraft.cc/d/320
 [ts]: https://www.mcmod.cn/class/557.html
 [sb]: https://www.mcmod.cn/class/366.html
 [ct]: https://www.bilibili.com/video/av55562073

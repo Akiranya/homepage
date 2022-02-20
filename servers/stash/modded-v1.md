@@ -17,7 +17,7 @@
 
 然后直接加入以下服务器地址即可
 
-    play-mod.mimaru.me
+    play-mod.mewcraft.cc
 
 当前模组探索服的版本为`1.12.2`。记得使用与此版本一致的客户端加入游戏哦～
 
@@ -33,7 +33,7 @@
 
 ?> 模组服没有资源世界。除了游戏原版自带的三个世界外，其他的额外世界全部由当前周目安装的模组本身决定。
 
-这次`模组服·壹周目`新增的世界为`交错次元`。这是模组`交错次元`（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mimaru.me/d/323)。
+这次`模组服·壹周目`新增的世界为`交错次元`。这是模组`交错次元`（没错世界和模组同名qwq）添加的一个剧情向的大型冒险世界。具体的流程和攻略可以参考**@陶可**编写的交错次元教程：[如何从容地在沼泽地中摸爬滚打](https://bbs.mewcraft.cc/d/323)。
 
 来自官方的`交错次元`世界预览：
 
@@ -113,7 +113,7 @@
 [storagedrawers]: https://www.bilibili.com/video/av36088780
 [omt]: https://www.mcmod.cn/class/539.html
 [theoneprobe]: https://www.mcmod.cn/class/782.html
-[betterrecords]: https://bbs.mimaru.me/d/320
+[betterrecords]: https://bbs.mewcraft.cc/d/320
 [ts]: https://www.mcmod.cn/class/557.html
 [sb]: https://www.mcmod.cn/class/366.html
 [tls]: https://www.mcmod.cn/class/966.html
@@ -172,7 +172,7 @@
 - 无法加入 sur: 客户端版本过低！请使用 1.14.4
 - 无法加入 build: 客户端版本过低！请使用 1.13.2
 
-这是因为你进错了服务器（你进入了原版服）。确认服务器地址为`play-mod.mimaru.me`再试。如果你确认服务器地址为`play-mod.mimaru.me`但仍然出现以上提示，则说明`模组服`正在维护。遇到这种情况请关注我们的QQ群动态。
+这是因为你进错了服务器（你进入了原版服）。确认服务器地址为`play-mod.mewcraft.cc`再试。如果你确认服务器地址为`play-mod.mewcraft.cc`但仍然出现以上提示，则说明`模组服`正在维护。遇到这种情况请关注我们的QQ群动态。
 
 ### 怎么锁箱子/圈领地
 
@@ -208,4 +208,4 @@
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
 [the_end]: https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
-[bbs]: http://bbs.mimaru.me/
+[bbs]: http://bbs.mewcraft.cc/

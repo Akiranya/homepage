@@ -13,7 +13,7 @@
 
 使用`专门的整合包`直接加入以下服务器地址即可
 
-    play-mew.mimaru.me
+    play-mew.mewcraft.cc
 
 当前陶可尼亚的版本为`1.12.2`，服务端为 `CatServer (Bukkit+Forge)`。
 
@@ -50,7 +50,7 @@
 
 如果你有任何疑问&建议，请在下方帖子里反馈，这很重要，谢谢！
 
-<a class="button" target="_blank" href="https://bbs.mimaru.me/d/484"><i class="fas fa-clipboard-list"></i>建议&反馈<br><small>包含更新日志</small></a>
+<a class="button" target="_blank" href="https://bbs.mewcraft.cc/d/484"><i class="fas fa-clipboard-list"></i>建议&反馈<br><small>包含更新日志</small></a>
 
 所有关于陶可尼亚·三周目的更新日志也会记录在上面的帖子里。
 

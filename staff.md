@@ -24,8 +24,8 @@
 
 这里将介绍服务器如何从零举行一场建筑比赛。
 
-- [建筑比赛·大纲](https://bbs.mimaru.me/d/435) / 教你如何从零开始申请并主持一场建筑比赛
-- [建筑比赛·企划书](https://bbs.mimaru.me/d/436) / 建筑比赛的公告模版，撰写[茶馆](https://bbs.mimaru.me/)帖子时会用到
+- [建筑比赛·大纲](https://bbs.mewcraft.cc/d/435) / 教你如何从零开始申请并主持一场建筑比赛
+- [建筑比赛·企划书](https://bbs.mewcraft.cc/d/436) / 建筑比赛的公告模版，撰写[茶馆](https://bbs.mewcraft.cc/)帖子时会用到
 - [建筑比赛·技术指南](staff/build-battle/tech-spec.md) / 举行建筑比赛所需要用到的指令和后台操作
 
 <!-- ## 小游戏策划 :id=game-design

@@ -14,7 +14,7 @@
 
 ## 怎么联系管理组 :id=how-to-contact
 
-请参考[如何正确的提交举报、投诉、建议](https://bbs.mimaru.me/d/70)。
+请参考[如何正确的提交举报、投诉、建议](https://bbs.mewcraft.cc/d/70)。
 
 ## 可以公开地图种子吗 :id=world-seed
 

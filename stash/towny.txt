@@ -1,5 +1,5 @@
 <WRAP center round box 50%>
-本詞條尚未完善，如果玩家有不理解/語句有誤，可以向邮箱 <admin@mimaru.me> 反饋。
+本詞條尚未完善，如果玩家有不理解/語句有誤，可以向邮箱 <admin@mewcraft.cc> 反饋。
 </WRAP>
 
 <WRAP center round info 50%>
@@ -65,9 +65,9 @@
 有这些方式可以联系到他们：
 
   * 游戏里说出他们的城镇名字
-  * 论坛的 [[https://bbs.mimaru.me/t/towns|城镇招人]] 版块
+  * 论坛的 [[https://bbs.mewcraft.cc/t/towns|城镇招人]] 版块
   * 加入QQ群 363119095
-  * [[https://www.mimaru.me|主页]] 的城镇介绍
+  * [[https://www.mewcraft.cc|主页]] 的城镇介绍
 
 ==== (2) 第二种方式（主动加入） ====
 
@@ -528,7 +528,7 @@
 
   * 一个城镇与另一个城镇的 **市中心** 必须相距 10 区块及以上，
   * 城镇的 **重生点**((使用指令 ''/town set spawn'' 来设置)) 必须设置在`市中心`地皮里面，
-  * [[http://map.mimaru.me:2018|卫星地图]] 中小绿旗的位置就是 **重生点** 所在的位置。
+  * [[http://map.mewcraft.cc|卫星地图]] 中小绿旗的位置就是 **重生点** 所在的位置。
 
 ++++
 

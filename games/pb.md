@@ -114,4 +114,4 @@
 👉所有奖励向下叠加。比如你拿了3号奖励，你同时也可以获得2号和1号奖励。  
 👉奖励会在每日活动结束后由OP手动发放。
 
-[bbs]: https://bbs.mimaru.me
+[bbs]: https://bbs.mewcraft.cc

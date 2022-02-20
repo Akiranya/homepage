@@ -25,11 +25,11 @@
 
 使用`原版客户端`（允许加模组）直接加入以下服务器地址即可
 
-    play-build.mimaru.me
+    play-build.mewcraft.cc
 
 或者加入下面的通用服务器地址，然后使用 `/c` 中的**跨服网络**按钮进入**自由创造服**
 
-    play.mimaru.me
+    play.mewcraft.cc
 
 当前自由创造服的版本为`1.16.5`，但玩家可以使用**更高版本**的客户端加入。
 
@@ -134,4 +134,4 @@
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
 [the_end]: https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
-[bbs]: http://bbs.mimaru.me/
+[bbs]: http://bbs.mewcraft.cc/

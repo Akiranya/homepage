@@ -9,7 +9,7 @@
 
 ## 联系我们 :id=contact-us
 
-<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mimaru.me/t/towns)
+<i class="fab fa-forumbee"></i>[茶馆][bbs] | <i class="fab fa-qq"></i>[QQ交流群][qqgroup] | <i class="fas fa-home"></i>[玩家城镇](https://bbs.mewcraft.cc/t/towns)
 
 ## 加入游戏！ :id=join-us
 
@@ -35,8 +35,8 @@
 - 服务器的最新动态都会在[上古茶馆][bbs]第一时间发布，请多多关注～
 - 如果您是初次游玩 Minecraft，可以参考游戏攻略：[菜鸟手册][beginner-guide]。
 
-[homepage]: https://www.mimaru.me/
-[bbs]: http://bbs.mimaru.me/
+[homepage]: https://www.mewcraft.cc/
+[bbs]: http://bbs.mewcraft.cc/
 [dynmap]: http://map.mewcraft.cc/
 [qqgroup]: https://qm.qq.com/cgi-bin/qm/qr?k=hXMrpi7526OY0Q0SDZemVw1VJEB58Cyh&authKey=Mp6lZ5bZ1l58nDf99s7z0NudcugDWbNx3wVSeKFSSyiBSL7VupJuQZoPmnBWm9gd&noverify=0
 [mcwiki]: https://minecraft-zh.gamepedia.com/

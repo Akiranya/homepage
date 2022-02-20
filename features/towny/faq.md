@@ -15,7 +15,7 @@
   - 输入`/town online {城镇名}`来查看城镇内有谁在线
   - 问他是否可以拉你加入他们的城镇
 - 方式4：
-  - 浏览茶馆的[城镇专栏](https://bbs.mimaru.me/t/towns)
+  - 浏览茶馆的[城镇专栏](https://bbs.mewcraft.cc/t/towns)
   - 查看每个帖子，看是否留下了什么联系方式
 - 方式5：
   - 在我们的[QQ群](http://shang.qq.com/wpa/qunwpa?idkey=6bf79ba005ae8c932177afa1f64ac96d0e6bf7c59f8c393b0f9ef8f3f69d6f15)里喊话

@@ -25,7 +25,7 @@
 
 然后使用刚刚下载好的整合包加入以下服务器地址
 
-    play-mod.mimaru.me
+    play-mod.mewcraft.cc
 
 当前模组探索服的 Minecraft 版本为`1.12.2`。
 
@@ -91,7 +91,7 @@
 [tc_conarm]: https://www.bilibili.com/video/av37293887
 [gaia3]: https://www.mcbbs.net/thread-445944-1-1.html
 [ironchest]: https://www.mcbbs.net/thread-372723-1-1.html
-[betterrecords]: https://bbs.mimaru.me/d/320
+[betterrecords]: https://bbs.mewcraft.cc/d/320
 [ts]: https://www.mcmod.cn/class/557.html
 [sb]: https://www.mcmod.cn/class/366.html
 [ct]: https://www.bilibili.com/video/av55562073
@@ -173,4 +173,4 @@
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
 [the_end]: https://minecraft-zh.gamepedia.com/%E6%9C%AB%E8%B7%AF%E4%B9%8B%E5%9C%B0
 [superflat]: https://minecraft-zh.gamepedia.com/%E8%B6%85%E5%B9%B3%E5%9D%A6%E4%B8%96%E7%95%8C
-[bbs]: http://bbs.mimaru.me/
+[bbs]: http://bbs.mewcraft.cc/

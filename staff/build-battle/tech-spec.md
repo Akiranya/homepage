@@ -237,7 +237,7 @@
 ```yaml
   game-info:
     # ...
-    Message: '&7建筑比赛·第八届公示 &6https://bbs.mimaru.me/d/431-2020'
+    Message: '&7建筑比赛·第八届公示 &6https://bbs.mewcraft.cc/d/431-2020'
     # ...
 ```
 

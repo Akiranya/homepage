@@ -2,7 +2,7 @@
 
 > 一个兴趣使然的 Minecraft 服务器社区
 
-[茶馆](https://bbs.mimaru.me/)
+[茶馆](https://bbs.mewcraft.cc/)
 [进入主页](README)
 
 ![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg)

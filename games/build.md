@@ -6,7 +6,7 @@
 
 ## 📅比赛安排 :id=theme
 
-?> 比赛的`开始时间`和`主题`会在比赛正式开始的前的两个星期左右在[论坛](https://bbs.mimaru.me/)放出。
+?> 比赛的`开始时间`和`主题`会在比赛正式开始的前的两个星期左右在[论坛](https://bbs.mewcraft.cc/)放出。
 
 ## ⏳比赛时长 :id=arrangement
 
@@ -28,11 +28,11 @@
 
 这里贴出**往届**建筑比赛的茶馆帖子供大家参考：
 
-- [第六届建筑比赛·春之图书馆](https://bbs.mimaru.me/d/108-2019)
-- [第七届建筑比赛·名胜古迹](https://bbs.mimaru.me/d/208-2019)
-- [第八届建筑比赛·酒店](https://bbs.mimaru.me/d/431-2020)
-- [第九届建筑比赛·大学城](https://bbs.mimaru.me/d/488-1202)
-- [第十届建筑比赛·自由发挥](https://bbs.mimaru.me/d/512-2021)
+- [第六届建筑比赛·春之图书馆](https://bbs.mewcraft.cc/d/108-2019)
+- [第七届建筑比赛·名胜古迹](https://bbs.mewcraft.cc/d/208-2019)
+- [第八届建筑比赛·酒店](https://bbs.mewcraft.cc/d/431-2020)
+- [第九届建筑比赛·大学城](https://bbs.mewcraft.cc/d/488-1202)
+- [第十届建筑比赛·自由发挥](https://bbs.mewcraft.cc/d/512-2021)
 
 ## 🎊最后 :id=preface
 
