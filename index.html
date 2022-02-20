@@ -17,18 +17,14 @@
 </head>
 
 <body>
-  <div id="app">Loading...</div>
+  <div id="app">努力加载中...</div>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
   <script>
-    var docBase = 'https://github.com/Akiranya/homepage/blob/master/';
-    var docEditBase = 'https://github.com/Akiranya/homepage/edit/master/';
-    var title = "在 GitHub 上编辑";
     window.$docsify = {
       name: '上古时代 Mewcraft',
       homepage: '/main/homepage.md',
       repo: 'https://github.com/Akiranya/homepage',
-      coverpage: false,
+      coverpage: true,
       onlyCover: true,
       loadNavbar: true,
       loadSidebar: true,
@@ -48,7 +44,7 @@
         paths: 'auto',
         placeholder: '搜索从这里开始...',
         noData: '没有找到结果',
-        namespace: 'MewCraft',
+        namespace: 'Mewcraft',
         hideOtherSidebarContent: false,
       },
       alias: {
@@ -109,10 +105,7 @@
         buttonText: '复制到剪切板',
         errorText: '错误',
         successText: '已复制到剪切板'
-      },
-      plugins: [
-        EditOnGithubPlugin.create(docBase, docEditBase, title)
-      ]
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>

@@ -1,6 +1,6 @@
 # 城镇生存服·第十六周目
 
-> **城镇生存服**继承游戏原版的玩法，除此之外还添加了许多服务器特色内容 - 无论你是喜欢原版的建筑、挖矿、交易，还是喜欢炫酷的魔法技能、强大的武器装备、组队攻略强大的副本Boss，都可以在这里找到喜欢的玩法。
+> 城镇生存服继承游戏原版的玩法，还添加了许多服务器特色内容 - 无论你是喜欢原版的建筑、挖矿、交易，还是喜欢炫酷的技能、独特的武器装备、组队攻略强大的副本Boss，相信都可以在这里找到喜欢的玩法！
 
 ![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')
 ![cover-yukumo](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
@@ -16,7 +16,7 @@
 
 ## 加入服务器 :id=how-to-join
 
-使用**原版客户端**（可自行添加模组）加入以下服务器地址：
+使用**原版客户端**（可自行添加模组）加入以下服务器地址
 
     play.mewcraft.cc
 
