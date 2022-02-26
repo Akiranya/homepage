@@ -51,12 +51,9 @@
         '/.*/_navbar.md': '/_navbar.md',
 
         // Server Lists
-        '/modded-server': '/servers/modded-v2.md',
-        '/mod': '/servers/modded-v2.md',
         '/sur': '/servers/survival.md',
         '/cre': '/servers/creative.md',
         '/games': '/servers/games.md',
-        '/mew': '/servers/mew.md',
         
         // main Pages
         '/home': '/main/homepage.md',
@@ -104,7 +101,13 @@
         buttonText: '复制到剪切板',
         errorText: '错误',
         successText: '已复制到剪切板'
-      }
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -114,6 +117,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-updated@1/src/time-updater.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="//unpkg.com/docsify-copy-code@2"></script>
   <script src="//kit.fontawesome.com/bbc04843f6.js" crossorigin="anonymous"></script>
