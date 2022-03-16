@@ -39,9 +39,11 @@
 
 **最高等级**：`50`
 
-**升级途径**：在特定的区域钓鱼
+**升级途径**：
 
-👉[渔场列表一览](/features/mmocore/fishing.md)
+- 在特定区域钓鱼
+
+🔗[全部渔场图鉴](/features/mmocore/fishing.md)
 
 #### **采集学**
 
