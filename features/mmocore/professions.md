@@ -10,8 +10,8 @@
 
 **升级途径**：
 
-- 炼药
-- 附魔
+- [炼药](https://minecraft.fandom.com/zh/wiki/%E8%8D%AF%E6%B0%B4%E9%85%BF%E9%80%A0)
+- [附魔](https://minecraft.fandom.com/zh/wiki/%E9%99%84%E9%AD%94)
 
 #### **农牧学**
 
