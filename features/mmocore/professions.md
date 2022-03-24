@@ -1,4 +1,4 @@
-# 生产技艺
+# 人物生产技艺
 
 本页将介绍生产技艺的种类和相应的升级途径。
 
@@ -46,7 +46,7 @@
 
 - 在特定区域钓鱼
 
-🔗[全部渔场图鉴](/features/mmocore/rpg-fishing.md)
+🔗[全部渔场图鉴](/features/mmocore/fishery.md)
 
 #### **采集学**
 
