@@ -2,7 +2,7 @@
 
 > 城镇系统可以让玩家在游戏世界里创建城镇、占领区块、建立国家。
 
-![scv](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-scv.png)
+![scv](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/towny-scv.png)
 
 ## 什么是城镇
 
@@ -14,7 +14,7 @@
 
 加入城镇即`加入别人的城镇`。加入城镇一般需要城镇的`城主`和`助理`邀请你来完成。你可以在游戏内喊话或QQ群来联系到他们。城主或助理输入`/town add {你的游戏ID}`就可以邀请你加入他们的城镇。收到邀请的玩家会看到如下提示：
 
-![城镇邀请](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-invitation.png)
+![城镇邀请](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/towny-invitation.png)
 
 这时你输入`/accept {城镇名}`表示接受入城邀请，`/deny {城镇名}`表示拒绝。
 

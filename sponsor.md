@@ -14,8 +14,8 @@
 
 !> 请在`付款说明`中注明你的游戏ID，以方便我们核实捐助名单并给予奖励。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/donation-qrcode.JPG ':size=300')
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/wechat-payment-qrcode.JPG ':size=300')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/donation-qrcode.JPG ':size=300')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/wechat-payment-qrcode.JPG ':size=300')
 
 ## 捐助奖励
 

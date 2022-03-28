@@ -1,6 +1,6 @@
 # 彩蛋射击
 
-![彩蛋射击封面](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/pb-header.png)
+![彩蛋射击封面](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/pb-header.png)
 
 ## 简介
 

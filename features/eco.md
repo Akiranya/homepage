@@ -21,9 +21,9 @@
 
 每日可直接从系统商店获得的软妹币有限，输入`/meco day`查看你的今日系统余额。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803221011.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803221011.png ':class=img-uni')
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803214453.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803214453.png ':class=img-uni')
 
 ## 拍卖行
 
@@ -49,7 +49,7 @@ P.S. 拍卖的商品交易税不会进入系统账户中。
 
 **实时交易截图**
 
-![拍卖](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/heh-auc.jpg ':class=img-uni')
+![拍卖](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/heh-auc.jpg ':class=img-uni')
 
 ## 木牌商店
 
@@ -61,7 +61,7 @@ P.S. 拍卖的商品交易税不会进入系统账户中。
 2. 在离箱子一格远的地方放个告示牌
 3. 告示牌写上如下内容
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803210831.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803210831.png ':class=img-uni')
 
 - 第一行留空，将会自动变成你的游戏ID
 - 第二行是商店单次交易的数量
@@ -72,7 +72,7 @@ P.S. 拍卖的商品交易税不会进入系统账户中。
 
 **一个创建好的木牌长这样：**
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803211653.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803211653.png ':class=img-uni')
 
 **使用商店👆**
 
@@ -86,7 +86,7 @@ P.S. 拍卖的商品交易税不会进入系统账户中。
 
 你可以通过这个GUI菜单直接传送到商店所在的**城镇重生点**。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803214045.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803214045.png ':class=img-uni')
 
 **交易记录📕**
 
@@ -94,6 +94,6 @@ P.S. 拍卖的商品交易税不会进入系统账户中。
 
 当你回到游戏，可以使用指令`/csn hisotry`查看你的所有木牌商店的**历史交易记录**。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803214319.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803214319.png ':class=img-uni')
 
 要查看完整的指令，输入`/csn`查看帮助。

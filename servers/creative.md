@@ -2,15 +2,15 @@
 
 > 创造服是一个自由进行建筑创作的服务器。玩家可以随意切换游戏模式，且允许使用部分作弊[指令](/navbar/cmds/creative.md)，让每个玩家都可在此自由发挥想象力。除此之外[设计师](/main/groups.md#designer)还可以在此使用强大的`WorldEdit`（地图编辑器）加快创作效率～
 
-![结云村](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-1.jpg ':class=img-small')
-![最开始的地方](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-2.jpg ':class=img-small')
-![建筑比赛的玩家人偶](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-3.jpg ':class=img-small')
-![Koishi的东方作品-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-4.jpg ':class=img-small')
-![puzioh的作品](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-5.jpg ':class=img-small')
-![Koishi的东方作品-2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-6.jpg ':class=img-small')
-![CS地图运输船](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-7.jpg ':class=img-small')
-![帝国时代的建筑复刻](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-8.jpg ':class=img-small')
-![恋恋像素画](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/build-9.jpg ':class=img-small')
+![结云村](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-1.jpg ':class=img-small')
+![最开始的地方](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-2.jpg ':class=img-small')
+![建筑比赛的玩家人偶](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-3.jpg ':class=img-small')
+![Koishi的东方作品-1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-4.jpg ':class=img-small')
+![puzioh的作品](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-5.jpg ':class=img-small')
+![Koishi的东方作品-2](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-6.jpg ':class=img-small')
+![CS地图运输船](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-7.jpg ':class=img-small')
+![帝国时代的建筑复刻](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-8.jpg ':class=img-small')
+![恋恋像素画](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/build-9.jpg ':class=img-small')
 
 ## 服务器特色 :id=features
 

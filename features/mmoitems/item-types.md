@@ -82,7 +82,7 @@
 
 饰品为你的人物提供额外的属性或效果。饰品必须放置在人物对应的*饰品栏*才可以生效。你可以通过点击背包里的2×2合成栏的任意格子来打开你的人物饰品栏。
 
-<!-- ![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/202203222251454.mp4 ':include') -->
+<!-- ![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/202203222251454.mp4 ':include') -->
 
 <!-- tabs:start -->
 

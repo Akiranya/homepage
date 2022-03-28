@@ -2,12 +2,12 @@
 
 > 陶可尼亚第三周目来啦！本次服务器的游戏版本为`1.12.2`的`模组服`，以大型动作冒险模组`虚无世界3`为主要游戏内容，此外还有`车万女仆`、`MrCrayfish的家具`等其他休闲种田、建筑装饰系列的游戏内容。
 
-![mew-3-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-1.jpg ':class=img-small')
-![mew-3-2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-2.jpg ':class=img-small')
-![mew-3-3](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-3.jpg ':class=img-small')
-![mew-3-4](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-4.jpg ':class=img-small')
-![mew-3-5](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-5.jpg ':class=img-small')
-![mew-3-6](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/mew-3-6.jpg ':class=img-small')
+![mew-3-1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-1.jpg ':class=img-small')
+![mew-3-2](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-2.jpg ':class=img-small')
+![mew-3-3](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-3.jpg ':class=img-small')
+![mew-3-4](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-4.jpg ':class=img-small')
+![mew-3-5](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-5.jpg ':class=img-small')
+![mew-3-6](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/mew-3-6.jpg ':class=img-small')
 
 ## 服务器地址 :id=how-to-join
 

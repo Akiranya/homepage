@@ -31,5 +31,5 @@
 
 ## 截图
 
-![使用盔甲架编辑器制作的史蒂夫们](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ast-showcase-2.jpg ':class=img-small')
-![盔甲架编辑器的编辑界面](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ast-showcase-1.jpg ':class=img-small')
+![使用盔甲架编辑器制作的史蒂夫们](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/ast-showcase-2.jpg ':class=img-small')
+![盔甲架编辑器的编辑界面](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/ast-showcase-1.jpg ':class=img-small')

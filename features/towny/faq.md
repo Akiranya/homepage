@@ -54,7 +54,7 @@
 
 |边界显示关闭|边界显示打开|
 |:-:|:-:|
-|![边界显示关闭](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-chunk-border-off.jpg ':class=img-uni')|![边界显示打开](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-chunk-border-on.jpg ':class=img-uni')|
+|![边界显示关闭](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/towny-chunk-border-off.jpg ':class=img-uni')|![边界显示打开](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/towny-chunk-border-on.jpg ':class=img-uni')|
 
 ### 如何确定城镇的领地范围
 
@@ -62,12 +62,12 @@
   - 打开[卫星地图](http://map.mewcraft.cc/)
   - 找到带有你城镇名字的图标
   - 蓝色半透明域就是城镇的领地范围
-  - ![卫星地图](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/dynmap-kong.png ':class=img-uni')
+  - ![卫星地图](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/dynmap-kong.png ':class=img-uni')
 - 方式二：使用城镇地图
   - 在游戏中面朝北方（为了你的方便）
   - 输入`/towny map`查看城镇地图
   - 输入`/towny map big`可以查看大号的地图
-  - ![城镇地图](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/towny-map.jpg)
+  - ![城镇地图](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/towny-map.jpg)
     - `+`指`默认地皮`
     - `字母`代表`特殊地图`，例如`F`是`农场`，`E`是`大使馆`，`J`是`监狱`等等
 

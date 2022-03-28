@@ -3,7 +3,7 @@
 > [!note|label:2022年1月 近期更新 ｜ Recent Updates]
 > [城镇生存服·第十六周目](/servers/survival.md) 现已启动 - 全员开荒中！
 
-![2020跨年烟火晚会](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
+![2020跨年烟火晚会](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
 > “上古时代”是一个由一群热爱 Minecraft 的小伙伴创建的小型游戏社区。目前我们有**长期稳定开放**的 Minecraft 服务器，有时也会一起玩玩泰拉瑞亚/饥荒等其他沙盒游戏联机。欢迎一切友善的小伙伴加入我们 ( * ̀ω*́ )✧！
 

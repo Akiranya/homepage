@@ -28,4 +28,4 @@
 
 ## 截图
 
-![物品整理演示](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/chestsort-screen2.jpg)
+![物品整理演示](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/chestsort-screen2.jpg)

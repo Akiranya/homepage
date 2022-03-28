@@ -1,7 +1,7 @@
 # 村民保卫战
 
-![村民保卫战封面](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/vd-kill-hordes-of-undead.gif)
-![村民保卫战演示](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/vd-demo.gif)
+![村民保卫战封面](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/vd-kill-hordes-of-undead.gif)
+![村民保卫战演示](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/vd-demo.gif)
 
 村民保卫战是由 Plajer 制作的一款插件。主要目标是从一波又一波的僵尸的攻势中保护村民的存活，**村民 / 玩家一旦全部阵亡**，游戏也就结束了。
 

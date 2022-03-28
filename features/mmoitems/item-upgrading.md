@@ -53,7 +53,7 @@
 
 做好强化石后，把强化石拖拽到装备上即可完成强化（注意，强化有可能失败，且会消耗掉强化石）。经过强化的装备会在物品名字上有所体现，你将会看到类似`(+3)`的字样，这个数字代表了这件装备所拥有的强化次数。
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/202203212242620.mp4 ':include')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/202203212242620.mp4 ':include')
 
 ## 死亡惩罚
 

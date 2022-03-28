@@ -2,15 +2,15 @@
 
 > 城镇生存服继承游戏原版生存的玩法，在此基础上还添加了许多服务器特色内容 - 无论你是喜欢做建筑、挖矿、经济，还是炫酷的技能、独特的武器装备、攻略强大的副本Boss，相信都可以在这里找到喜欢的玩法！
 
-![ruin](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/ruin.jpg ':class=img-small')
-![cover-yukumo](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
-![fantasy](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/fantasy.jpg ':class=img-small')
-![kong-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/kong-1.jpg ':class=img-small')
-![suno-3](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/suno-3.jpg ':class=img-small')
-![scv](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/scv.jpg ':class=img-small')
-![hongmoguan](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/hongmoguan.jpg ':class=img-small')
-![cafe-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cafe-1.jpg ':class=img-small')
-![purple_fox-1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/purple-fox-1.jpg ':class=img-small')
+![ruin](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/ruin.jpg ':class=img-small')
+![cover-yukumo](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/cover-yukumo-fixed.jpg ':class=img-small')
+![fantasy](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/fantasy.jpg ':class=img-small')
+![kong-1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/kong-1.jpg ':class=img-small')
+![suno-3](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/suno-3.jpg ':class=img-small')
+![scv](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/scv.jpg ':class=img-small')
+![hongmoguan](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/hongmoguan.jpg ':class=img-small')
+![cafe-1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/cafe-1.jpg ':class=img-small')
+![purple_fox-1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/purple-fox-1.jpg ':class=img-small')
 
 <small>以上截图来自`家园·主世界`（版本1.12）的玩家城镇。该世界现已迁移至[自由创造服](/servers/creative.md)。</small>
 

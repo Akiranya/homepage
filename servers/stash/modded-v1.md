@@ -4,11 +4,11 @@
 
 > 欢迎来到`模组·探索服·壹周目`！服务器游戏模式为生存，添加了模组，意味着这里有除 Minecraft 原版以外的方块/生物/地形/游戏机制等。如果你厌倦了原版的各种玩法，不妨来试试模组服～服务器的模组列表可以在[这里](#mods)看到。
 
-![the_betweenlands](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/veDVIr.png ':class=img-small')
-![pams_harvestcraft](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/08ET2F.jpg ':class=img-small')
-![slashblade](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/Lfeayv.png)
-![immersive_engineering](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/IdpC0z.png ':class=img-small')
-![tea_the_story](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/uQNdUD.png ':class=img-small')
+![the_betweenlands](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/veDVIr.png ':class=img-small')
+![pams_harvestcraft](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/08ET2F.jpg ':class=img-small')
+![slashblade](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/Lfeayv.png)
+![immersive_engineering](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/IdpC0z.png ':class=img-small')
+![tea_the_story](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/uQNdUD.png ':class=img-small')
 
 ## 如何加入 :id=how-to-join
 
@@ -145,11 +145,11 @@
 
 服务器安装了很多模组，但考虑到`墓碑模组`大家必定会用到，所以拿出来单独介绍一下。
 
-![grave1](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/pm9uxo.jpg ':class=img-small')
-![grave5](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/2TFicH.jpg ':class=img-small')
-![grave2](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/KGbLa6.png ':class=img-small')
-![grave3](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/koWi8J.jpg ':class=img-small')
-![grave4](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/NSZmT5.jpg ':class=img-small')
+![grave1](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/pm9uxo.jpg ':class=img-small')
+![grave5](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2TFicH.jpg ':class=img-small')
+![grave2](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/KGbLa6.png ':class=img-small')
+![grave3](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/koWi8J.jpg ':class=img-small')
+![grave4](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/NSZmT5.jpg ':class=img-small')
 
 墓碑模组（[很棒的视频介绍][ct]）让玩家死后会在原地产生一个`墓碑`。墓碑会自动收纳半径`5`格范围内的掉落物品。玩家可以使用一把叫做`坟墓的钥匙`的钥匙来右键墓碑，取回TA的遗物。注：*坟墓的钥匙* 在玩家死后与TA的墓碑同时产生。死后的玩家会暂时变成幽灵形态。幽灵形态下的玩家不会被怪物主动攻击，并且有减伤效果。但如果玩家主动攻击了怪物，则幽灵形态立马消失。
 

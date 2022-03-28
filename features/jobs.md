@@ -24,7 +24,7 @@
 
 ## 排行榜
 
-大家可以在重生点附近看到服务器各职业的等级排行榜（![排行榜](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/jobs-rank.png ':class=img-16')点击查看大图）。
+大家可以在重生点附近看到服务器各职业的等级排行榜（![排行榜](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/jobs-rank.png ':class=img-16')点击查看大图）。
 
 ## 夜间福利
 

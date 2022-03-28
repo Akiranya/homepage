@@ -7,11 +7,11 @@
 
 服务器里的盲盒一般是这个样子：
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803231822.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803231822.png ':class=img-uni')
 
 **左键盲盒**可以预览盲盒的内容：
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803232409.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803232409.png ':class=img-uni')
 
 ## 开启盲盒
 
@@ -19,7 +19,7 @@
 
 拿着盲盒钥匙**右键**对应的盲盒，即可开启盲盒。下面是一个开启附魔盲盒的截图：
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/20210803232939.png ':class=img-uni')
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/20210803232939.png ':class=img-uni')
 
 ## 获得钥匙
 

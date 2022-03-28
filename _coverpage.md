@@ -5,4 +5,4 @@
 [茶馆](https://bbs.mewcraft.cc/)
 [进入主页](README)
 
-![](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/cover-yukumo-fixed.jpg)
+![](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/cover-yukumo-fixed.jpg)

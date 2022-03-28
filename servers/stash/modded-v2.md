@@ -147,7 +147,7 @@
 
 本周目采用了真实地形模组，使得主世界的地貌更加真实。主世界预览：
 
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/rtg.gif)
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/rtg.gif)
 
 ## 更有趣的死亡
 
@@ -163,11 +163,11 @@
 
 关于`有灵魂的墓碑`和`死神知识`这里就不再赘述啦，大家可以看看酒石酸君精心制作的[墓碑模组视频介绍][ct]。注：视频里的模组物品中文翻译和[专用客户端](/navbar/downloads/clients.md)里使用的不太一样，观看时还请灵活变通一下 ^ ^
 
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/simple_grave_remake21.jpg ':class=img-small')
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/xcircle.jpg ':class=img-small')
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/grave_smoke.png ':class=img-small')
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/grave_plate_test.jpg ':class=img-small')
-![rtg](https://mimaru-jp.oss-ap-northeast-1.aliyuncs.com/images/tombstone_seamless2.jpg ':class=img-small')
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/simple_grave_remake21.jpg ':class=img-small')
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/xcircle.jpg ':class=img-small')
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/grave_smoke.png ':class=img-small')
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/grave_plate_test.jpg ':class=img-small')
+![rtg](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/tombstone_seamless2.jpg ':class=img-small')
 
 [the_overworld]: https://minecraft-zh.gamepedia.com/%E4%B8%BB%E4%B8%96%E7%95%8C
 [the_nether]: https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C
