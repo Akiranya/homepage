@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft | 我的世界服务器 :id=start {docsify-ignore-all}
 
-> [!note|label:2022年1月 近期更新 ｜ Recent Updates]
-> [城镇生存服·第十六周目](/servers/survival.md) 现已启动 - 全员开荒中！
+> [!warning|label:2022年7月 近期更新 ｜ Recent Updates]
+> 服务器目前处于维护状态，正在升级至全新MC1.19 - 敬请期待！
 
 ![2020跨年烟火晚会](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
@@ -24,10 +24,10 @@
 
     play.mewcraft.cc
 
-进入游戏后，你可以选择前往以下任意子服务器：
+<!-- 进入游戏后，你可以选择前往以下任意子服务器：
 
 <a class="button" href="#/sur"><i class="fas fa-mug-hot"></i>城镇生存服<br><small>趣味原版生存</small></a>
-<a class="button" href="#/cre"><i class="fas fa-splotch"></i>自由创造服<br><small>发挥无限想象</small></a>
+<a class="button" href="#/cre"><i class="fas fa-splotch"></i>自由创造服<br><small>发挥无限想象</small></a> -->
 
 ## 最后<i class="fas fa-quote-right"></i> :id=tips
 
