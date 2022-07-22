@@ -1,4 +1,5 @@
-* [上古茶馆](https://bbs.mewcraft.cc)
+* [Wiki](https://wiki.mewcraft.cc)
+* [茶馆](https://bbs.mewcraft.cc)
 <!-- * [卫星地图](http://map.mewcraft.cc) -->
 <!-- * 常用指令
   * [城镇生存服](/navbar/cmds/survival.md)

@@ -2,6 +2,7 @@
 
 > 一个兴趣使然的 Minecraft 服务器社区
 
+[百科](https://wiki.mewcraft.cc/)
 [茶馆](https://bbs.mewcraft.cc/)
 [进入主页](README)
 
