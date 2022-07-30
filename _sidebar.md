@@ -30,7 +30,7 @@
   * [<i class="fas fa-meteor"></i>彩蛋射击](games/pb.md)
   * [<i class="fab fa-codepen"></i></i>村民保卫战](games/vd.md)
 
-----
+<!-- ---- -->
 
 <!-- * [捐助我们](sponsor.md) -->
 <!-- * [参与贡献](contribution.md) -->
