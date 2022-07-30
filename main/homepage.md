@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft | 我的世界服务器 :id=start {docsify-ignore-all}
 
 > [!tip|label:2022年7月 近期更新 ｜ Recent Updates]
-> MC1.19新周目 - 全新冒险生存更新已正式开放 - 加QQ群了解详情！
+> MC1.19新周目 - 全新冒险生存更新 - 已正式开放 - 加QQ群了解详情！
 
 ![2020跨年烟火晚会](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
