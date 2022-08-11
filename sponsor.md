@@ -106,6 +106,7 @@
 <details>
 <summary>2021年7月（点击展开）</summary>
 
+  - CatAlways
   - Brealsk
   - Kr_onos
   - BladeNightmare
