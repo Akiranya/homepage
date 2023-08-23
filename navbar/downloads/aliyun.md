@@ -15,9 +15,11 @@
 | 城镇生存·第14周目 | `Bukkit 1.14` | [点击下载][town-14th] |
 | 城镇生存·第15周目 | `Bukkit 1.17` | [点击下载][town-15th] |
 | 城镇生存·第16周目 | `Bukkit 1.18` | [点击下载][town-16th] |
+| 城镇生存·第17周目 | `Bukkit 1.19` | [点击下载][town-17th] |
 
 [mew-2nd]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/mew-2nd-mc1.16.tar.gz
 [town-13th]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/town-13th-mc1.13.tar.gz
 [town-14th]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/town-14th-mc1.14.tar.gz
 [town-15th]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/town-15th-mc1.17.tar.gz
 [town-16th]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/town-16th-mc1.18.tar.gz
+[town-17th]: https://mimaru.oss-cn-zhangjiakou.aliyuncs.com/saves/town-17th-mc1.19.tar.gz
