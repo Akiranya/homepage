@@ -1,5 +1,5 @@
 * <i class="fas fa-heart"></i>欢迎 ( ´ ▽ ` )ﾉ
-  * [<i class="fab fa-gratipay"></i>简介](/main/homepage.md)
+  * [<i class="fab fa-gratipay"></i>简介](/README.md)
   <!-- * [<i class="fas fa-question-circle"></i>常见问题](/faq.md) -->
 
 * <i class="fa-solid fa-paperclip"></i>有用的网站
