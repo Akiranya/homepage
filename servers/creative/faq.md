@@ -8,4 +8,4 @@
 
 ## 可以用创世神吗
 
-属于设计师[建筑师](/main/groups.md)的玩家可以在创造服使用[创世神插件](http://mineplugin.org/WorldEdit)。
+属于设计师的玩家可以在创造服使用[创世神插件](http://mineplugin.org/WorldEdit)。
