@@ -1,6 +1,6 @@
 # 上古时代 Mewcraft :id=start {docsify-ignore-all}
 
-> [!tip|label:2024年11月 近期更新 ｜ Recent Updates]
+> [!tip|label:2026年2月 近期更新 ｜ Recent Updates]
 > Beta 26 正在公测中 - 加入QQ群了解更多详情！
 
 ![2020跨年烟火晚会](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
