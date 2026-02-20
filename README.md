@@ -1,7 +1,7 @@
 # 上古时代 Mewcraft :id=start {docsify-ignore-all}
 
 > [!tip|label:2024年11月 近期更新 ｜ Recent Updates]
-> Beta 0.4.x 正在公测中 - 加入QQ群了解更多详情！
+> Beta 26 正在公测中 - 加入QQ群了解更多详情！
 
 ![2020跨年烟火晚会](https://mewcraft-homepage.oss-cn-zhangjiakou.aliyuncs.com/images/2020_fireworks.jpg ':no-zoom')
 
@@ -16,7 +16,7 @@
 **前置条件**
 
 - 您拥有**正版** Minecraft（**Java 国际**，非网易）
-- 您已阅读并且会遵守我们的[服务器游戏规则](https://wiki.mewcraft.cc/base/rules)
+- 您已阅读并且会遵守我们的[服务器游戏规则](https://wiki.mewcraft.cc/official/rules/start)
 
 如果您没有正版 Minecraft，可以访问 [Minecraft 官网](https://www.minecraft.net/zh-hans/) 购买一个。
 
@@ -24,7 +24,7 @@
 
     play.mewcraft.cc
 
-服务器当前版本为：`1.21.1`
+服务器当前版本为：`1.21.11`
 
 <!-- 进入游戏后，你可以选择前往以下任意子服务器：
 
@@ -41,7 +41,7 @@
 [wiki]: https://wiki.mewcraft.cc/
 [bbs]: https://bbs.mewcraft.cc/
 [dynmap]: http://map.mewcraft.cc/
-[qqgroup]: https://qm.qq.com/cgi-bin/qm/qr?k=hXMrpi7526OY0Q0SDZemVw1VJEB58Cyh&authKey=Mp6lZ5bZ1l58nDf99s7z0NudcugDWbNx3wVSeKFSSyiBSL7VupJuQZoPmnBWm9gd&noverify=0
+[qqgroup]: https://qm.qq.com/q/znYqny1a2A
 [mcwiki]: https://minecraft-zh.gamepedia.com/
 [beginner-guide]: http://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C
 [java]: https://www.java.com/zh_CN/download/
